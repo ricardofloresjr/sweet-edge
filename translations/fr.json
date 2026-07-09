@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "consortium": "Consortium",
+    "overview": "Aperçu général",
+    "team": "Équipe",
+    "partners": "Partenaires",
+    "work-packages": "Lots de travail",
+    "results": "Outputs",
+    "reo": "Perspectives énergétiques renouvelables",
+    "recommender": "Outil de recommandation",
+    "policy": "Recommandations politiques",
+    "publications": "Publications",
+    "media": "Médias",
+    "news": "Actualités & Événements",
+    "contact": "Contact"
+  },
+  "footer": {
+    "quick-links": "Liens rapides",
+    "legal": "Mentions légales",
+    "contact-col": "Contact",
+    "follow": "Nous suivre",
+    "funded": "Financé par l'Office fédéral de l'énergie (OFEN) dans le cadre du programme SWEET.",
+    "copyright": "© 2025 SWEET EDGE — Tous droits réservés",
+    "disclaimer": "Avertissement juridique",
+    "impressum": "Mentions légales",
+    "privacy": "Politique de confidentialité"
+  },
+  "pages": {
+    "index": {
+      "mission.h1": "Intégrer de très hautes parts d'énergies renouvelables décentralisées dans le système énergétique suisse",
+      "guiding.h2": "La question directrice de SWEET EDGE",
+      "guiding.text": "Comment la Suisse peut-elle intégrer de très hautes parts d'énergies renouvelables décentralisées dans un système énergétique sûr, abordable et socialement accepté ?",
+      "sweet.h1": "Recherche suisse sur la transition énergétique — SWEET",
+      "news.h2": "Actualités & Événements",
+      "newsletter.h2": "Restez informé",
+      "newsletter.p": "Inscrivez-vous à la lettre d'information SWEET EDGE pour recevoir les faits saillants du projet, les invitations aux événements et les nouvelles publications directement dans votre boîte de réception."
+    },
+    "consortium/overview": {
+      "eyebrow": "Notre Consortium",
+      "h1": "Aperçu du Consortium",
+      "lead": "SWEET EDGE réunit des chercheuses et chercheurs d'institutions suisses de premier rang pour répondre à la question de savoir comment intégrer de très hautes parts d'énergies renouvelables dans le système énergétique suisse."
+    },
+    "consortium/team": {
+      "eyebrow": "Notre Équipe",
+      "h1": "L'équipe SWEET EDGE",
+      "lead": "Rencontrez les investigateurs principaux, les chercheurs postdoctoraux et les doctorants qui composent le consortium SWEET EDGE."
+    },
+    "consortium/partners": {
+      "eyebrow": "Notre Réseau",
+      "h1": "Partenaires",
+      "lead": "Le consortium réunit huit institutions académiques de premier plan et des partenaires de l'industrie suisse de l'énergie."
+    },
+    "consortium/work-packages": {
+      "eyebrow": "Structure de Recherche",
+      "h1": "Lots de travail",
+      "lead": "La recherche SWEET EDGE est structurée en 11 lots de travail interconnectés couvrant la modélisation des systèmes énergétiques, la gouvernance, l'acceptabilité sociale et bien plus encore."
+    },
+    "results/renewable-energy-outlook": {
+      "eyebrow": "Résultats",
+      "h1": "Perspectives énergétiques renouvelables",
+      "lead": "Scénarios et résultats clés sur le potentiel des énergies renouvelables décentralisées dans les régions suisses à l'horizon 2050."
+    },
+    "results/recommender-tool": {
+      "eyebrow": "Résultats",
+      "h1": "Outil de recommandation municipal",
+      "lead": "Un outil interactif qui aide les communes suisses à identifier les meilleures stratégies d'énergie renouvelable locales en fonction de leur contexte."
+    },
+    "results/policy-recommendations": {
+      "eyebrow": "Résultats",
+      "h1": "Recommandations politiques",
+      "lead": "Recommandations fondées sur des données probantes destinées aux décideurs politiques aux niveaux fédéral, cantonal et municipal."
+    },
+    "results/publications": {
+      "eyebrow": "Résultats",
+      "h1": "Publications",
+      "lead": "Articles scientifiques, communications à des conférences, rapports techniques et livrables produits par le consortium SWEET EDGE."
+    },
+    "results/media": {
+      "eyebrow": "Résultats",
+      "h1": "Médias & Diffusion",
+      "lead": "Couverture de presse, interviews, vidéos et matériels de communication des chercheurs et événements SWEET EDGE."
+    },
+    "news": {
+      "eyebrow": "Actualités & Événements",
+      "h1": "Dernières nouvelles de SWEET EDGE",
+      "lead": "Parcourez les annonces, les jalons du projet et les activités à venir. Filtrez par type, par année ou effectuez une recherche par mot-clé."
+    },
+    "contact": {
+      "eyebrow": "Prendre contact",
+      "h1": "Contact",
+      "lead": "Vous avez une question sur la recherche SWEET EDGE, une opportunité de collaboration ou une demande presse ? Nous serions ravis de vous entendre."
+    },
+    "impressum": {
+      "eyebrow": "Mentions légales",
+      "h1": "Impressum",
+      "lead": "Informations sur l'éditeur et mentions légales pour sweet-edge.ch, conformément au droit suisse."
+    },
+    "disclaimer": {
+      "eyebrow": "Mentions légales",
+      "h1": "Avertissement juridique",
+      "lead": "Avertissement juridique régissant l'utilisation du site sweet-edge.ch et de son contenu."
+    },
+    "privacy-policy": {
+      "eyebrow": "Mentions légales",
+      "h1": "Politique de confidentialité",
+      "lead": "Comment SWEET EDGE collecte, utilise et protège vos données personnelles conformément à la loi fédérale suisse sur la protection des données (nLPD) et au Règlement général sur la protection des données (RGPD) de l'UE."
+    }
+  }
+}

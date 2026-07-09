@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>News & Events — SWEET EDGE</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<div data-include="partials/header.html"></div>
+
+<main class="news-page">
+  <section class="news-hero">
+    <div class="container">
+      <p class="eyebrow">News & Events</p>
+      <h1>Latest updates from SWEET EDGE</h1>
+      <p class="lead">Browse announcements, milestones, and upcoming activities. Filter by type, publication date, or search by keyword.</p>
+    </div>
+  </section>
+
+  <section class="news-catalog">
+    <div class="container">
+      <div class="news-controls">
+        <div class="filter-group search-group">
+          <label for="news-search">Search</label>
+          <div class="search-bar">
+            <input type="search" id="news-search" placeholder="Search news and events">
+          </div>
+        </div>
+        <div class="filter-group">
+          <label for="filter-type">Type</label>
+          <select id="filter-type" aria-label="Filter by type">
+            <option value="all">All</option>
+            <option value="news">News</option>
+            <option value="event">Events</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-date">Year</label>
+          <select id="filter-date" aria-label="Filter by year">
+            <option value="any">Any year</option>
+            <option value="2025">2025</option>
+            <option value="2024">2024</option>
+            <option value="2023">2023</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="news-grid" id="news-list">
+        <article class="news-card" data-news-item data-type="event" data-date="2025-02-10" data-search="EDGE summit on decentralized grids">
+          <span class="news-date">10 Feb 2025 · Event</span>
+          <h3><a href="#">EDGE summit on decentralized grids</a></h3>
+          <p>Join researchers and utilities in Bern to discuss operating local grids with very high renewable shares.</p>
+          <a class="news-more" href="#">Learn more →</a>
+        </article>
+
+        <article class="news-card" data-news-item data-type="news" data-date="2025-01-15" data-search="Policy recommendations update">
+          <span class="news-date">15 Jan 2025 · News</span>
+          <h3><a href="results/policy-recommendations.html">Policy recommendations update</a></h3>
+          <p>The latest SWEET EDGE policy brief details actions for cantons to support flexible, low-carbon energy systems.</p>
+          <a class="news-more" href="results/policy-recommendations.html">Read more →</a>
+        </article>
+
+        <article class="news-card" data-news-item data-type="news" data-date="2024-12-01" data-search="Recommender tool beta release">
+          <span class="news-date">01 Dec 2024 · News</span>
+          <h3><a href="results/recommender-tool.html">Recommender tool beta release</a></h3>
+          <p>A preview of the EDGE recommender tool helps communities plan new solar and storage deployments.</p>
+          <a class="news-more" href="results/recommender-tool.html">Read more →</a>
+        </article>
+
+        <article class="news-card" data-news-item data-type="event" data-date="2024-10-18" data-search="Public lecture series kicks off">
+          <span class="news-date">18 Oct 2024 · Event</span>
+          <h3><a href="#">Public lecture series kicks off</a></h3>
+          <p>A new lecture series shares insights from EDGE partners on integrating renewable energy at scale.</p>
+          <a class="news-more" href="#">View details →</a>
+        </article>
+
+        <article class="news-card" data-news-item data-type="news" data-date="2024-08-05" data-search="Municipal microgrid pilots announced">
+          <span class="news-date">05 Aug 2024 · News</span>
+          <h3><a href="#">Municipal microgrid pilots announced</a></h3>
+          <p>Three Swiss municipalities will pilot EDGE-inspired microgrid designs to test local flexibility markets.</p>
+          <a class="news-more" href="#">Read more →</a>
+        </article>
+
+        <article class="news-card" data-news-item data-type="event" data-date="2023-11-20" data-search="Winter energy security workshop">
+          <span class="news-date">20 Nov 2023 · Event</span>
+          <h3><a href="#">Winter energy security workshop</a></h3>
+          <p>Experts examine how to safeguard grid stability during seasonal peaks with high renewable penetration.</p>
+          <a class="news-more" href="#">Learn more →</a>
+        </article>
+      </div>
+
+      <div class="news-empty-state" aria-live="polite" hidden>
+        <p>No items match your filters. Try adjusting the type, date, or search keywords.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div data-include="partials/footer.html"></div>
+
+<script src="i18n.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

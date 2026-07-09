@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "consortium": "Konsortium",
+    "overview": "Übersicht",
+    "team": "Team",
+    "partners": "Partner",
+    "work-packages": "Arbeitspakete",
+    "results": "Outputs",
+    "reo": "Ausblick erneuerbare Energien",
+    "recommender": "Empfehlungstool",
+    "policy": "Politikempfehlungen",
+    "publications": "Publikationen",
+    "media": "Medien",
+    "news": "Neuigkeiten & Veranstaltungen",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "quick-links": "Schnelllinks",
+    "legal": "Rechtliches",
+    "contact-col": "Kontakt",
+    "follow": "Folgen Sie uns",
+    "funded": "Gefördert durch das Bundesamt für Energie (BFE) im Rahmen des SWEET-Programms.",
+    "copyright": "© 2025 SWEET EDGE — Alle Rechte vorbehalten",
+    "disclaimer": "Haftungsausschluss",
+    "impressum": "Impressum",
+    "privacy": "Datenschutzerklärung"
+  },
+  "pages": {
+    "index": {
+      "mission.h1": "Integration sehr hoher Anteile dezentraler erneuerbarer Energien in das Schweizer Energiesystem",
+      "guiding.h2": "Die Leitfrage von SWEET EDGE",
+      "guiding.text": "Wie kann die Schweiz sehr hohe Anteile dezentraler erneuerbarer Energien in ein sicheres, erschwingliches und gesellschaftlich akzeptiertes Energiesystem integrieren?",
+      "sweet.h1": "Schweizer Energieforschung für den Energiewandel — SWEET",
+      "news.h2": "Neuigkeiten & Veranstaltungen",
+      "newsletter.h2": "Bleiben Sie informiert",
+      "newsletter.p": "Abonnieren Sie den SWEET EDGE Newsletter und erhalten Sie Projekthighlights, Veranstaltungseinladungen und neue Forschungsergebnisse direkt in Ihr Postfach."
+    },
+    "consortium/overview": {
+      "eyebrow": "Unser Konsortium",
+      "h1": "Konsortiumsübersicht",
+      "lead": "SWEET EDGE bringt Forschende führender Schweizer Institutionen zusammen, um die Frage zu beantworten, wie sehr hohe Anteile erneuerbarer Energien in das Schweizer Energiesystem integriert werden können."
+    },
+    "consortium/team": {
+      "eyebrow": "Unser Team",
+      "h1": "Das SWEET EDGE Team",
+      "lead": "Lernen Sie die Principal Investigators, Postdoktorierenden und Doktorierenden kennen, die das SWEET EDGE Konsortium bilden."
+    },
+    "consortium/partners": {
+      "eyebrow": "Unser Netzwerk",
+      "h1": "Partner",
+      "lead": "Das Konsortium besteht aus acht führenden akademischen Institutionen und Partnern der Schweizer Energiewirtschaft."
+    },
+    "consortium/work-packages": {
+      "eyebrow": "Forschungsstruktur",
+      "h1": "Arbeitspakete",
+      "lead": "Die SWEET EDGE Forschung ist in 11 miteinander verbundene Arbeitspakete gegliedert, die Energiesystemmodellierung, Governance, gesellschaftliche Akzeptanz und vieles mehr umfassen."
+    },
+    "results/renewable-energy-outlook": {
+      "eyebrow": "Ergebnisse",
+      "h1": "Ausblick erneuerbare Energien",
+      "lead": "Szenarien und Kernergebnisse zum Potenzial dezentraler erneuerbarer Energien in den Schweizer Regionen bis 2050."
+    },
+    "results/recommender-tool": {
+      "eyebrow": "Ergebnisse",
+      "h1": "Kommunales Empfehlungstool",
+      "lead": "Ein interaktives Tool, das Schweizer Gemeinden hilft, die besten lokalen Strategien für erneuerbare Energien ihrem Kontext entsprechend zu identifizieren."
+    },
+    "results/policy-recommendations": {
+      "eyebrow": "Ergebnisse",
+      "h1": "Politikempfehlungen",
+      "lead": "Evidenzbasierte Empfehlungen für Entscheidungsträger auf Bundes-, Kantons- und Gemeindeebene."
+    },
+    "results/publications": {
+      "eyebrow": "Ergebnisse",
+      "h1": "Publikationen",
+      "lead": "Peer-reviewte Fachartikel, Konferenzbeiträge, technische Berichte und Projektlieferungen des SWEET EDGE Konsortiums."
+    },
+    "results/media": {
+      "eyebrow": "Ergebnisse",
+      "h1": "Medien & Öffentlichkeitsarbeit",
+      "lead": "Presseberichte, Interviews, Videos und Öffentlichkeitsmaterialien von SWEET EDGE Forschenden und Veranstaltungen."
+    },
+    "news": {
+      "eyebrow": "Neuigkeiten & Veranstaltungen",
+      "h1": "Aktuelles von SWEET EDGE",
+      "lead": "Durchsuchen Sie Ankündigungen, Projektmeilensteine und bevorstehende Aktivitäten. Filtern Sie nach Typ, Jahr oder suchen Sie per Stichwort."
+    },
+    "contact": {
+      "eyebrow": "Kontakt aufnehmen",
+      "h1": "Kontakt",
+      "lead": "Haben Sie Fragen zur SWEET EDGE Forschung, Kooperationsmöglichkeiten oder Medienanfragen? Wir freuen uns von Ihnen zu hören."
+    },
+    "impressum": {
+      "eyebrow": "Rechtliches",
+      "h1": "Impressum",
+      "lead": "Herausgeberinformationen und rechtliche Hinweise für sweet-edge.ch gemäss Schweizer Recht."
+    },
+    "disclaimer": {
+      "eyebrow": "Rechtliches",
+      "h1": "Haftungsausschluss",
+      "lead": "Haftungsausschluss für die Nutzung von sweet-edge.ch und dessen Inhalte."
+    },
+    "privacy-policy": {
+      "eyebrow": "Rechtliches",
+      "h1": "Datenschutzerklärung",
+      "lead": "Wie SWEET EDGE Ihre personenbezogenen Daten gemäss dem neuen Schweizer Datenschutzgesetz (nDSG) und der Datenschutz-Grundverordnung (DSGVO) der EU erhebt, verwendet und schützt."
+    }
+  }
+}

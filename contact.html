@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact — SWEET EDGE</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<div data-include="partials/header.html"></div>
+
+<main>
+  <section class="page-hero">
+    <div class="container">
+      <p class="eyebrow">Get in touch</p>
+      <h1>Contact</h1>
+      <p class="lead">Have a question about SWEET EDGE research, collaboration, or media inquiries? We'd love to hear from you.</p>
+    </div>
+  </section>
+
+  <section class="content-section contact-section">
+    <div class="container">
+      <div class="contact-grid">
+        <div class="contact-info">
+          <h2>Contact details</h2>
+          <p>SWEET EDGE is coordinated by the University of Geneva and EPFL. For general enquiries, use the form or reach out directly.</p>
+
+          <div class="contact-detail">
+            <i class="fas fa-envelope" style="color: #70B746; width: 18px;"></i>
+            <a href="mailto:info@sweet-edge.ch">info@sweet-edge.ch</a>
+          </div>
+          <div class="contact-detail">
+            <i class="fas fa-map-marker-alt" style="color: #70B746; width: 18px;"></i>
+            <span>University of Geneva, Rue de l'École-de-Médecine 12, 1205 Geneva, Switzerland</span>
+          </div>
+
+          <h3 style="margin-top: 36px; font-size: 1rem; font-weight: 600;">Project Coordination</h3>
+          <p><strong>University of Geneva — LRESE</strong><br>
+            Lead contact: <a href="mailto:info@sweet-edge.ch" style="color: #70B746;">info@sweet-edge.ch</a>
+          </p>
+          <p style="margin-top: 12px;"><strong>EPFL Lausanne — IPESE</strong><br>
+            Lead contact: <a href="mailto:info@sweet-edge.ch" style="color: #70B746;">info@sweet-edge.ch</a>
+          </p>
+
+          <h3 style="margin-top: 36px; font-size: 1rem; font-weight: 600;">Follow SWEET EDGE</h3>
+          <ul class="social-links" style="list-style: none; padding: 0; margin-top: 12px; display: flex; flex-direction: column; gap: 10px;">
+            <li><a href="https://www.linkedin.com/company/sweet-edge/" target="_blank" rel="noopener" style="color: #444;"><i class="fab fa-linkedin" style="color: #0A66C2; margin-right: 8px;"></i> LinkedIn</a></li>
+            <li><a href="https://www.youtube.com/@sweetedge1052" target="_blank" rel="noopener" style="color: #444;"><i class="fab fa-youtube" style="color: #cc0000; margin-right: 8px;"></i> YouTube</a></li>
+            <li><a href="https://bsky.app/profile/sweet-edge.bsky.social" target="_blank" rel="noopener" style="color: #444;">
+              <span class="icon-bluesky" aria-hidden="true" style="display:inline-flex; width:14px; height:14px; margin-right:8px;"><svg viewBox="0 0 24 24" role="img" style="fill:currentColor"><path d="M4.083 2.606c1.996-.297 3.828 1.172 7.003 3.964 3.175-2.792 5.007-4.261 7.003-3.964 1.608.239 2.434 2.102 1.588 3.6-.791 1.425-2.317 3.453-4.722 4.482 2.812.978 4.789 3.092 5.789 5.405.684 1.56-.83 3.048-2.354 2.357-1.95-.869-3.801-2.525-5.364-4.207-.58-.624-1.052-.476-1.052.37 0 3.087-1.136 5.331-1.801 5.331-.665 0-1.801-2.244-1.801-5.331 0-.846-.472-.994-1.051-.37-1.564 1.682-3.415 3.338-5.365 4.207-1.523.691-3.037-.798-2.353-2.357 1-2.313 2.977-4.427 5.789-5.405-2.405-1.029-3.931-3.057-4.722-4.482-.846-1.498-.02-3.361 1.588-3.6Z"/></svg></span>
+              BlueSky
+            </a></li>
+          </ul>
+        </div>
+
+        <div class="contact-form">
+          <h2 style="margin-top: 0; font-size: 1.25rem; font-weight: 600;">Send us a message</h2>
+          <!-- To activate: sign up at formspree.io, create a form, and replace YOUR_CONTACT_FORM_ID below -->
+          <form data-form="contact"
+                action="https://formspree.io/f/YOUR_CONTACT_FORM_ID"
+                method="POST">
+            <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+
+            <label for="contact-name">Name <span style="color:#cc0000">*</span></label>
+            <input type="text" id="contact-name" name="name" placeholder="Your full name" required>
+
+            <label for="contact-email">Email <span style="color:#cc0000">*</span></label>
+            <input type="email" id="contact-email" name="email" placeholder="your@email.com" required>
+
+            <label for="contact-org">Organisation</label>
+            <input type="text" id="contact-org" name="organisation" placeholder="University / Company (optional)">
+
+            <label for="contact-subject">Subject <span style="color:#cc0000">*</span></label>
+            <select id="contact-subject" name="subject" required style="width:100%; padding:11px 14px; border:1px solid #d2d6dc; border-radius:8px; font-family:inherit; font-size:0.95rem; box-sizing:border-box; margin-bottom:20px; background-color:#fff;">
+              <option value="">Select a topic…</option>
+              <option value="research">Research enquiry</option>
+              <option value="media">Media / Press</option>
+              <option value="collaboration">Collaboration</option>
+              <option value="newsletter">Newsletter</option>
+              <option value="other">Other</option>
+            </select>
+
+            <label for="contact-message">Message <span style="color:#cc0000">*</span></label>
+            <textarea id="contact-message" name="message" rows="5" placeholder="Your message…" required></textarea>
+
+            <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 4px;">Send message</button>
+          </form>
+          <div class="form-success" hidden style="padding: 20px; background: #f0faf0; border-radius: 8px; border-left: 4px solid #70B746; margin-top: 16px;">
+            <p style="color: #3a7a1f; font-weight: 600; margin: 0;">✓ Thank you! Your message has been sent. We'll get back to you shortly.</p>
+          </div>
+          <div class="form-error" hidden style="padding: 20px; background: #fff5f5; border-radius: 8px; border-left: 4px solid #cc0000; margin-top: 16px;">
+            <p style="color: #cc0000; margin: 0;">Something went wrong. Please try again or email us directly at <a href="mailto:info@sweet-edge.ch" style="color: #cc0000;">info@sweet-edge.ch</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div data-include="partials/footer.html"></div>
+
+<script src="i18n.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
