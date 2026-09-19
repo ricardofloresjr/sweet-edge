@@ -220,14 +220,27 @@ function initPubFilters() {
   const yearSelect = document.querySelector('#pub-year');
   const emptyState = document.querySelector('.pub-empty-state');
 
+  const normalizeSearch = (value) => value
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/đ/g, 'd')
+    .replace(/\s+/g, ' ')
+    .trim();
+
   function applyFilters() {
-    const query = searchInput ? searchInput.value.trim().toLowerCase() : '';
+    const query = normalizeSearch(searchInput?.value || '');
     const type = typeSelect ? typeSelect.value : 'all';
     const year = yearSelect ? yearSelect.value : 'any';
     let count = 0;
 
     items.forEach((item) => {
-      const searchText = (item.dataset.search || item.textContent || '').toLowerCase();
+      // Full authors supplement the citation, which may only show "et al.".
+      const searchText = normalizeSearch([
+        item.textContent || '',
+        item.dataset.search || '',
+        item.dataset.authors || ''
+      ].join(' '));
       const matchesSearch = !query || searchText.includes(query);
       const matchesType = type === 'all' || item.dataset.type === type;
       const matchesYear = year === 'any' || item.dataset.year === year;
@@ -257,31 +270,6 @@ function initPolicyRecommendationFilters() {
   const categorySelect = document.querySelector('#policy-category');
   const emptyState = document.querySelector('.policy-empty-state');
   if (!cards.length || !categorySelect) return;
-
-  const sourceLinks = [
-    { count: 16, url: 'https://boris-portal.unibe.ch/server/api/core/bitstreams/e70c289b-2e23-4890-bda1-c1c054dcc97f/content' },
-    { count: 15, url: 'https://doi.org/10.1016/j.enpol.2025.114939' },
-    { count: 5, url: 'https://sl1nk.com/hyk0ws7' },
-    { count: 2, url: 'https://doi.org/10.3929/ethz-b-000596612' },
-  ];
-  const cardSourceUrls = sourceLinks.flatMap((source) => Array(source.count).fill(source.url));
-
-  cards.forEach((card, index) => {
-    if (card.querySelector('.card-read-more')) return;
-
-    const sourceUrl = cardSourceUrls[index];
-    if (!sourceUrl) return;
-
-    const title = card.querySelector('h3')?.textContent.trim() || 'this recommendation';
-    const link = document.createElement('a');
-    link.className = 'card-read-more';
-    link.href = sourceUrl;
-    link.target = '_blank';
-    link.rel = 'noopener';
-    link.setAttribute('aria-label', `Read more about ${title}`);
-    link.textContent = 'Read more';
-    card.append(link);
-  });
 
   const categories = [...new Set(cards.map((card) => {
     const tag = card.querySelector('.card-tag');

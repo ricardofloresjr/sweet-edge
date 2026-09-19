@@ -47,6 +47,7 @@
       '/consortium/team.html': t.nav.team,
       '/consortium/partners.html': t.nav.partners,
       '/consortium/work-packages.html': t.nav['work-packages'],
+      '/results/synthesis.html': t.nav.synthesis,
       '/results/renewable-energy-outlook.html': t.nav.reo,
       '/results/recommender-tool.html': t.nav.recommender,
       '/results/policy-recommendations.html': t.nav.policy,
@@ -62,7 +63,9 @@
       const path = href ? new URL(href, window.location.href).pathname : '';
       const mapKey = Object.keys(map).find(function (key) { return path.endsWith(key); });
 
-      if (mapKey) {
+      if (path.endsWith('/results/media.html') && new URL(href, window.location.href).hash === '#videos-webinars') {
+        if (t.nav.videos) a.textContent = t.nav.videos;
+      } else if (mapKey) {
         a.textContent = map[mapKey];
       } else if (href === '#' && text === 'Consortium' && t.nav.consortium) {
         a.textContent = t.nav.consortium;
@@ -98,9 +101,15 @@
       else if ((txt === 'Follow us' || txt === 'Follow SWEET EDGE') && t.footer.follow) el.textContent = t.footer.follow;
     });
 
-    // Funded-by paragraph
-    document.querySelectorAll('.site-footer .footer-column p').forEach(function (p) {
-      if (p.textContent.includes('Funded') && t.footer.funded) p.textContent = t.footer.funded;
+    // Stable hooks work on every language switch, including FR -> DE.
+    document.querySelectorAll('[data-funding-acknowledgement]').forEach(function (p) {
+      if (t.footer.funded) p.textContent = t.footer.funded;
+    });
+    document.querySelectorAll('[data-sfoe-disclaimer]').forEach(function (p) {
+      if (t.footer['sfoe-disclaimer']) p.textContent = t.footer['sfoe-disclaimer'];
+    });
+    document.querySelectorAll('[data-sweet-link]').forEach(function (a) {
+      if (t.footer['sweet-link']) a.textContent = t.footer['sweet-link'];
     });
 
     // Legal links by href
@@ -122,6 +131,11 @@
   function applyPageContent(t, pageKey) {
     const pg = t.pages && t.pages[pageKey];
     if (!pg) return;
+
+    document.querySelectorAll('[data-i18n]').forEach(function (el) {
+      const translated = pg[el.dataset.i18n];
+      if (translated) el.textContent = translated;
+    });
 
     // Page hero (used by all inner pages)
     const hero = document.querySelector('.page-hero');

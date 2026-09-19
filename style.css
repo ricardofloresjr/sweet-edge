@@ -390,9 +390,10 @@ nav ul.menu > li > a.active {
 }
 
 .carousel .slide img {
-  max-width: 90%;
-  max-height: 90%;
-  object-fit: contain;
+  width: min(90%, 1620px);
+  aspect-ratio: 9 / 2;
+  object-fit: cover;
+  object-position: center top;
   display: block;
   margin: 0 auto;
 }
@@ -805,7 +806,7 @@ nav ul.menu > li > a.active {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 24px;
+  gap: 24px 48px;
   max-width: 1200px;
   margin: 0 auto 32px;
 }
@@ -813,6 +814,19 @@ nav ul.menu > li > a.active {
 .footer-column {
   flex: 1;
   min-width: 140px;
+}
+
+.footer-column:first-child {
+  flex: 0 1 260px;
+}
+
+.footer-column:nth-child(2) {
+  margin-left: 40px;
+}
+
+.footer-column [data-funding-acknowledgement] {
+  font-size: 0.78rem;
+  line-height: 1.5;
 }
 
 .footer-column p,
@@ -845,6 +859,16 @@ nav ul.menu > li > a.active {
 
 .footer-column ul li {
   margin-bottom: 6px;
+}
+
+.footer-disclaimer {
+  max-width: 1200px;
+  padding: 0;
+  margin: 0 auto 24px;
+  color: #555;
+  font-size: 0.875rem;
+  line-height: 1.6;
+  text-align: left;
 }
 
 .footer-bottom {
@@ -1063,6 +1087,10 @@ button:hover {
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 24px;
   margin-top: 40px;
+}
+
+.reo-findings-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .card {
@@ -1607,6 +1635,10 @@ a.card {
    19. RESPONSIVE DESIGN (MOBILE)
 --------------------------------------------------- */
 @media (max-width: 900px) {
+  .reo-findings-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   nav ul.menu > li {
     padding: 0 10px;
   }
@@ -1743,6 +1775,10 @@ a.card {
     flex-direction: column;
     gap: 28px;
   }
+
+  .footer-column:nth-child(2) {
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 480px) {
@@ -1753,4 +1789,37 @@ a.card {
   .partner-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+}
+
+/* Limit policy citations to two lines while keeping page references visible. */
+[data-policy-recommendations-grid] .card {
+  min-width: 0;
+}
+
+[data-policy-recommendations-grid] .card-source-link {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  min-width: 0;
+  margin-top: auto;
+  padding-top: 18px;
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+[data-policy-recommendations-grid] .card-source-title {
+  flex: 0 1 auto;
+  min-width: 0;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  max-height: 3em;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+}
+
+[data-policy-recommendations-grid] .card-source-pages {
+  flex: 0 0 auto;
+  white-space: nowrap;
 }

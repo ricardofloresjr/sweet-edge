@@ -7,9 +7,11 @@
     "partners": "Partner",
     "work-packages": "Arbeitspakete",
     "results": "Outputs",
+    "synthesis": "Syntheseberichte",
+    "videos": "Videos und Webinare",
     "reo": "Ausblick erneuerbare Energien",
     "recommender": "Empfehlungstool",
-    "policy": "Politikempfehlungen",
+    "policy": "Policy White Papers",
     "publications": "Publikationen",
     "media": "Medien",
     "news": "Neuigkeiten & Veranstaltungen",
@@ -20,13 +22,20 @@
     "legal": "Rechtliches",
     "contact-col": "Kontakt",
     "follow": "Folgen Sie uns",
-    "funded": "Gefördert durch das Bundesamt für Energie (BFE) im Rahmen des SWEET-Programms.",
+    "funded": "EDGE ist ein Konsortium, das vom SWEET-Programm des Bundesamts für Energie finanziert und gemeinsam von der Universität Genf und der EPFL koordiniert wird.",
     "copyright": "© 2025 SWEET EDGE — Alle Rechte vorbehalten",
     "disclaimer": "Haftungsausschluss",
     "impressum": "Impressum",
-    "privacy": "Datenschutzerklärung"
+    "privacy": "Datenschutzerklärung",
+    "sfoe-disclaimer": "Der Inhalt dieser Website gibt ausschliesslich die Ansichten der Autorinnen und Autoren wieder. Das BFE ist nicht verantwortlich für die Verwendung dieser Inhalte.",
+    "sweet-link": "SWEET-Förderprogramm des BFE"
   },
   "pages": {
+    "results/synthesis": {
+      "eyebrow": "Outputs",
+      "h1": "Syntheseberichte",
+      "lead": "In Bearbeitung"
+    },
     "index": {
       "mission.h1": "Integration sehr hoher Anteile dezentraler erneuerbarer Energien in das Schweizer Energiesystem",
       "guiding.h2": "Die Leitfrage von SWEET EDGE",
@@ -34,7 +43,11 @@
       "sweet.h1": "Schweizer Energieforschung für den Energiewandel — SWEET",
       "news.h2": "Neuigkeiten & Veranstaltungen",
       "newsletter.h2": "Bleiben Sie informiert",
-      "newsletter.p": "Abonnieren Sie den SWEET EDGE Newsletter und erhalten Sie Projekthighlights, Veranstaltungseinladungen und neue Forschungsergebnisse direkt in Ihr Postfach."
+      "newsletter.p": "Abonnieren Sie den SWEET EDGE Newsletter und erhalten Sie Projekthighlights, Veranstaltungseinladungen und neue Forschungsergebnisse direkt in Ihr Postfach.",
+      "mission.description": "Von 2021 bis 2027 erarbeitet das SWEET-Konsortium EDGE wissenschaftliche Grundlagen, um den Ausbau dezentraler erneuerbarer Energien in der Schweiz zu beschleunigen. Es untersucht, wie ein sicheres, technisch und wirtschaftlich leistungsfähiges und in die europäischen Märkte integriertes Energiesystem mit hohen Anteilen erneuerbarer Energien in den Jahren 2035 und 2050 gestaltet und betrieben werden kann.",
+      "mission.context": "Die Umsetzung der Energiestrategie 2050 trägt zum Ziel der Klimaneutralität der Schweiz bei. Klimaneutralität setzt grundsätzlich eine weitgehend oder vollständig erneuerbare Energieversorgung voraus, insbesondere unter Nutzung dezentraler Ressourcen.",
+      "mission.portfolio": "Das Portfolio von EDGE verbindet nationale und regionale Energiesystemmodellierung, die Integration erneuerbarer Energien in Stromnetze, Pilot- und Demonstrationsprojekte sowie Forschung zu Politik, Märkten und gesellschaftlicher Akzeptanz in Schweizer Städten, im Mittelland und in den Alpen.",
+      "sweet.description": "SWEET ist ein Förderprogramm des Bundesamts für Energie (BFE). Es finanziert lösungsorientierte Forschung und Innovationen, die zu den Zielen der Energiestrategie 2050 und der langfristigen Klimastrategie der Schweiz beitragen."
     },
     "consortium/overview": {
       "eyebrow": "Unser Konsortium",
@@ -68,7 +81,7 @@
     },
     "results/policy-recommendations": {
       "eyebrow": "Ergebnisse",
-      "h1": "Politikempfehlungen",
+      "h1": "Policy White Papers",
       "lead": "Evidenzbasierte Empfehlungen für Entscheidungsträger auf Bundes-, Kantons- und Gemeindeebene."
     },
     "results/publications": {

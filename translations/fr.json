@@ -7,9 +7,11 @@
     "partners": "Partenaires",
     "work-packages": "Lots de travail",
     "results": "Outputs",
+    "synthesis": "Rapports de synthèse",
+    "videos": "Vidéos et webinaires",
     "reo": "Perspectives énergétiques renouvelables",
     "recommender": "Outil de recommandation",
-    "policy": "Recommandations politiques",
+    "policy": "Livres blancs",
     "publications": "Publications",
     "media": "Médias",
     "news": "Actualités & Événements",
@@ -20,13 +22,20 @@
     "legal": "Mentions légales",
     "contact-col": "Contact",
     "follow": "Nous suivre",
-    "funded": "Financé par l'Office fédéral de l'énergie (OFEN) dans le cadre du programme SWEET.",
+    "funded": "EDGE est un consortium financé par le programme SWEET de l’Office fédéral de l’énergie et coordonné conjointement par l’Université de Genève et l’EPFL.",
     "copyright": "© 2025 SWEET EDGE — Tous droits réservés",
     "disclaimer": "Avertissement juridique",
     "impressum": "Mentions légales",
-    "privacy": "Politique de confidentialité"
+    "privacy": "Politique de confidentialité",
+    "sfoe-disclaimer": "Le contenu de ce site reflète uniquement le point de vue des auteurs. L’OFEN n’est pas responsable de l’utilisation qui pourrait être faite de ce contenu.",
+    "sweet-link": "Programme d’encouragement SWEET de l’OFEN"
   },
   "pages": {
+    "results/synthesis": {
+      "eyebrow": "Outputs",
+      "h1": "Rapports de synthèse",
+      "lead": "Travail en cours"
+    },
     "index": {
       "mission.h1": "Intégrer de très hautes parts d'énergies renouvelables décentralisées dans le système énergétique suisse",
       "guiding.h2": "La question directrice de SWEET EDGE",
@@ -34,7 +43,11 @@
       "sweet.h1": "Recherche suisse sur la transition énergétique — SWEET",
       "news.h2": "Actualités & Événements",
       "newsletter.h2": "Restez informé",
-      "newsletter.p": "Inscrivez-vous à la lettre d'information SWEET EDGE pour recevoir les faits saillants du projet, les invitations aux événements et les nouvelles publications directement dans votre boîte de réception."
+      "newsletter.p": "Inscrivez-vous à la lettre d'information SWEET EDGE pour recevoir les faits saillants du projet, les invitations aux événements et les nouvelles publications directement dans votre boîte de réception.",
+      "mission.description": "De 2021 à 2027, le consortium SWEET EDGE vise à fournir des bases scientifiques pour accélérer le développement des énergies renouvelables décentralisées en Suisse. Il étudie comment concevoir et exploiter un système énergétique sûr, techniquement et économiquement performant et intégré aux marchés européens, avec des parts élevées d’énergies renouvelables en 2035 et 2050.",
+      "mission.context": "La mise en œuvre de la Stratégie énergétique 2050 contribue à l’objectif de neutralité carbone de la Suisse. La neutralité climatique implique notamment un approvisionnement énergétique largement ou entièrement renouvelable, en exploitant les ressources décentralisées.",
+      "mission.portfolio": "Le portefeuille d’EDGE combine la modélisation des systèmes énergétiques nationaux et régionaux, l’intégration des énergies renouvelables dans les réseaux électriques, des projets pilotes et de démonstration, ainsi que des recherches sur les politiques, les marchés et l’acceptabilité sociale dans les villes suisses, le Plateau et les Alpes.",
+      "sweet.description": "SWEET est un programme d’encouragement de l’Office fédéral de l’énergie (OFEN). Il finance la recherche et les innovations orientées vers des solutions contribuant aux objectifs de la Stratégie énergétique 2050 et de la stratégie climatique à long terme de la Suisse."
     },
     "consortium/overview": {
       "eyebrow": "Notre Consortium",
@@ -68,7 +81,7 @@
     },
     "results/policy-recommendations": {
       "eyebrow": "Résultats",
-      "h1": "Recommandations politiques",
+      "h1": "Livres blancs",
       "lead": "Recommandations fondées sur des données probantes destinées aux décideurs politiques aux niveaux fédéral, cantonal et municipal."
     },
     "results/publications": {
