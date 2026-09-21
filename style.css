@@ -1359,6 +1359,18 @@ a.card {
   object-fit: contain;
 }
 
+/* Background for partners whose official logo is supplied in white. */
+.partner-logo--dark {
+  background-color: #17334d;
+  border-radius: 4px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.partner-logo--portrait img {
+  border-radius: 4px;
+}
+
 .partner-card h4 {
   margin: 0;
   font-size: 0.875rem;
