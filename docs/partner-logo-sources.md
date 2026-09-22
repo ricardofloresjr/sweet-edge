@@ -2,7 +2,7 @@
 
 Downloaded 21 September 2026. These files identify the existing collaboration and support partners; partner names and membership are unchanged. Logos retain their original proportions. White variants use a dark background.
 
-The two individual supporters use the portraits already in the repository.
+The individual supporter Kornelis Blok uses the portrait already in the repository.
 
 Organization links were checked against https://sweet-edge.ch/en/team. Some original links are stale, so corrected official sites or identified partner/archive sources were used below.
 
@@ -33,7 +33,6 @@ Organization links were checked against https://sweet-edge.ch/en/team. Some orig
 | Baudirektion Kanton Zürich | [baudirektion-kanton-zurich-logo.svg](../images/baudirektion-kanton-zurich-logo.svg) | https://www.zh.ch/etc.clientlibs/zhweb/core/clientlibs/publish/resources/media/svgsprite/base.48a1279.svg | Official website asset. |
 | Biomasse Suisse | [biomasse-suisse-logo.png](../images/biomasse-suisse-logo.png) | https://biomassesuisse.ch/uploads/1357/default_logo/android-chrome-192x192.png | Official website asset. |
 | Bundesamt für Raumentwicklung | [bundesamt-fur-raumentwicklung-logo.svg](../images/bundesamt-fur-raumentwicklung-logo.svg) | https://www.are.admin.ch/images/swiss-logo-name.svg | Official Swiss federal flag and multilingual wordmark combined, preserving their shapes. |
-| Carlos Alvarez Pereira | [Carlos Alvarez Pereira_Photo.jpg](../images/Carlos%20Alvarez%20Pereira_Photo.jpg) | Existing repository portrait | Individual supporter; not an organization. |
 | Casafair | [casafair-logo.png](../images/casafair-logo.png) | https://casafair.ch/wordpress/wp-content/uploads/casafair-logo-rgb-1.png | Official website asset. |
 | Davos Klosters Bergbahnen | [davos-klosters-bergbahnen-logo.svg](../images/davos-klosters-bergbahnen-logo.svg) | https://www.davosklostersmountains.ch/static/img/logos/logo-mountains.svg | Official website asset. |
 | e4plus AG | [e4plus-ag-logo.svg](../images/e4plus-ag-logo.svg) | https://www.e4plus.ch/_assets/1f4f58cb8ec7ef7ef807190874a5a8cd/img/logo.svg | Official website asset. |
