@@ -1,8 +1,8 @@
 # Partner logo sources
 
-Downloaded 21 September 2026. These files identify the existing collaboration and support partners; partner names and membership are unchanged. Logos retain their original proportions. White variants use a dark background.
+Downloaded 21 September 2026. These files identify the existing collaboration and support partners; organization names are unchanged. Logos retain their original proportions. White variants use a dark background.
 
-The individual supporter Kornelis Blok uses the portrait already in the repository.
+Partner sections list organizations and companies only; individual advisory board members are listed separately on the Team page.
 
 Organization links were checked against https://sweet-edge.ch/en/team. Some original links are stale, so corrected official sites or identified partner/archive sources were used below.
 
@@ -46,7 +46,6 @@ Organization links were checked against https://sweet-edge.ch/en/team. Some orig
 | Holzenergie Schweiz | [holzenergie-schweiz-logo.svg](../images/holzenergie-schweiz-logo.svg) | https://www.holzenergie.ch/_Resources/Static/Packages/TC.Website/Images/holzenergie_logo_de.svg?bust=786e992a | Official website asset. |
 | Industrielle Werke Basel | [industrielle-werke-basel-logo.svg](../images/industrielle-werke-basel-logo.svg) | https://www.iwb.ch/.resources/iwb-ch-theme/images/iwbLogo.svg | Official website asset. |
 | Kanton Luzern | [kanton-luzern-logo.svg](../images/kanton-luzern-logo.svg) | https://www.lu.ch/ | Official website asset. |
-| Kornelis Blok | [Kornelis Blok_Photo.jpg](../images/Kornelis%20Blok_Photo.jpg) | Existing repository portrait | Individual supporter; not an organization. |
 | Ökostrom Schweiz | [okostrom-schweiz-logo.svg](../images/okostrom-schweiz-logo.svg) | https://oekostromschweiz.ch/fileadmin/templates/img/Logo.svg | Official website asset. |
 | Primeo Netz AG | [primeo-netz-ag-logo.svg](../images/primeo-netz-ag-logo.svg) | https://www.primeo-energie.ch/magnolia/dam/jcr:1f3a25bc-2674-4a2f-9c71-17aee6ba8393/primeo-energie.svg | Official website asset. |
 | ProClim (Akademie der Naturwissenschaften Schweiz) | [proclim-akademie-der-naturwissenschaften-schweiz-logo.png](../images/proclim-akademie-der-naturwissenschaften-schweiz-logo.png) | https://portal-cdn.scnat.ch/asset/b6952760-0e24-5c95-b11e-dc750887d0ce/a%2B_logo_SCNAT_EN_RGB.png?b=e04835a5-dca9-503b-adb4-b599da9a12a1&v=9e4cd24a-d285-5ed7-9b62-a31cbb31d453_0&s=JCaO_7skpWqi_7Uhk2d10VDr4_uUW6Wm4RrO74LK3nKc0je42A4-M6rka6FVzfnrexzq6FWTAcmRcSZxacmTkV1zphmLMRVfzS5bDBbfJP2L0gNIC4VSPwQX_IBgb_MAYRthv3QM-3qBM0f0koFT5QvSaWo4rEyNzXaVOpZePiQ | SCNAT parent-organization logo displayed on ProClim’s official site. |
