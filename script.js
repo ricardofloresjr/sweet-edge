@@ -187,7 +187,7 @@ function initNewsFilters() {
     cards.forEach((card) => {
       const itemType = card.dataset.type || 'news';
       const itemDate = card.dataset.date || '';
-      const searchText = (card.dataset.search || card.textContent || '').toLowerCase();
+      const searchText = `${card.dataset.search || ''} ${card.textContent || ''}`.toLowerCase();
 
       const matchesType = selectedType === 'all' || itemType === selectedType;
       const matchesDate = selectedDate === 'any' || itemDate.startsWith(selectedDate);
@@ -204,6 +204,7 @@ function initNewsFilters() {
   searchInput?.addEventListener('input', applyFilters);
   typeSelect?.addEventListener('change', applyFilters);
   dateSelect?.addEventListener('change', applyFilters);
+  document.addEventListener('languagechange', applyFilters);
 
   applyFilters();
 }
@@ -255,6 +256,7 @@ function initPubFilters() {
   searchInput?.addEventListener('input', applyFilters);
   typeSelect?.addEventListener('change', applyFilters);
   yearSelect?.addEventListener('change', applyFilters);
+  document.addEventListener('languagechange', applyFilters);
 
   applyFilters();
 }
@@ -273,7 +275,8 @@ function initPolicyRecommendationFilters() {
 
   const categories = [...new Set(cards.map((card) => {
     const tag = card.querySelector('.card-tag');
-    return tag ? tag.textContent.trim() : '';
+    card.dataset.category = tag ? tag.textContent.trim() : '';
+    return card.dataset.category;
   }).filter(Boolean))].sort((a, b) => a.localeCompare(b));
 
   categories.forEach((category) => {
@@ -288,8 +291,7 @@ function initPolicyRecommendationFilters() {
     let visibleCount = 0;
 
     cards.forEach((card) => {
-      const tag = card.querySelector('.card-tag');
-      const category = tag ? tag.textContent.trim() : '';
+      const category = card.dataset.category;
       const visible = selectedCategory === 'all' || category === selectedCategory;
       card.style.display = visible ? '' : 'none';
       if (visible) visibleCount += 1;
@@ -299,6 +301,7 @@ function initPolicyRecommendationFilters() {
   }
 
   categorySelect.addEventListener('change', applyFilters);
+  document.addEventListener('languagechange', applyFilters);
   applyFilters();
 }
 
@@ -323,6 +326,11 @@ function initActiveNav() {
 // -----------------------------------------------
 // 9. CONTACT FORM (Formspree AJAX)
 // -----------------------------------------------
+function setLocalizedText(element, source) {
+  if (window.sweetEdgeI18n) window.sweetEdgeI18n.setText(element, source);
+  else element.textContent = source;
+}
+
 function initContactForm() {
   const form = document.querySelector('[data-form="contact"]');
   if (!form) return;
@@ -333,7 +341,7 @@ function initContactForm() {
 
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
-    if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = 'Sending…'; }
+    if (submitBtn) { submitBtn.disabled = true; setLocalizedText(submitBtn, 'Sending…'); }
     if (errorMsg) errorMsg.hidden = true;
 
     try {
@@ -348,7 +356,7 @@ function initContactForm() {
       if (successMsg) successMsg.hidden = false;
     } catch {
       if (errorMsg) errorMsg.hidden = false;
-      if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = 'Send message'; }
+      if (submitBtn) { submitBtn.disabled = false; setLocalizedText(submitBtn, 'Send message'); }
     }
   });
 }
@@ -365,7 +373,7 @@ function initNewsletterForm() {
 
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
-    if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = 'Subscribing…'; }
+    if (submitBtn) { submitBtn.disabled = true; setLocalizedText(submitBtn, 'Subscribing…'); }
 
     try {
       const res = await fetch(form.action, {
@@ -377,8 +385,8 @@ function initNewsletterForm() {
       form.style.display = 'none';
       if (successMsg) successMsg.hidden = false;
     } catch {
-      if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = 'Subscribe'; }
-      alert('Something went wrong. Please try again or email us at info@sweet-edge.ch');
+      if (submitBtn) { submitBtn.disabled = false; setLocalizedText(submitBtn, 'Subscribe'); }
+      alert(window.sweetEdgeI18n?.t('Something went wrong. Please try again or email us at info@sweet-edge.ch') || 'Something went wrong. Please try again or email us at info@sweet-edge.ch');
     }
   });
 }

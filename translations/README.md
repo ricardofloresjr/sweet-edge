@@ -1,0 +1,61 @@
+# Website languages
+
+English lives in the HTML files. `de.json` and `fr.json` each contain a `strings`
+object mapping an English source phrase to its translation. The language switcher
+applies translations to individual text nodes, so inline links, icons, required
+field markers and formatting remain intact. Page titles, image alternative text,
+placeholders, accessible labels and description/social metadata are supported too.
+
+## Updating text
+
+1. Edit the English HTML.
+2. Add or update that exact English phrase as a key in both dictionaries. Collapse
+   whitespace and line breaks to single spaces and omit leading/trailing whitespace.
+   Use decoded characters (`&`, not `&amp;`).
+3. For a paragraph containing inline links or emphasis, translate each text segment
+   separately, leaving the HTML structure unchanged.
+4. Test EN → DE → FR → EN through Live Server or another HTTP server.
+
+Example:
+
+```json
+{
+  "strings": {
+    "Research Partners": "Forschungspartner"
+  }
+}
+```
+
+No `data-i18n` attributes or duplicated HTML pages are required. Identical English
+phrases share one translation across the site. Unlisted phrases retain their
+English wording, so remember both dictionaries when adding or editing content.
+Use `translate="no"` on an element to explicitly preserve its original content.
+
+For JavaScript-generated labels, use `sweetEdgeI18n.setText(element, englishText)`.
+For alerts or other non-DOM strings, use `sweetEdgeI18n.t(englishText)`. Do not use
+translated display labels as filter IDs or form values. The `languagechange` event
+fires after translations are applied.
+
+## Behaviour and scope
+
+- Selection order: `?lang=de` / `?lang=fr` / `?lang=en`, saved preference, browser
+  language, then English. Switching saves the preference when storage is available.
+- Switching back to English restores the original text without reloading or losing
+  form input. A failed translation download leaves the current language intact.
+- Translation URLs resolve relative to `i18n.js`, including on subfolder deployments.
+- Names, bibliographic citations, original article/video titles, and linked documents
+  retain their source wording. Text baked into raster artwork is not changed by
+  JavaScript; its alternative text is translated.
+- Translations run in the browser. This does not create separate indexable language
+  pages or `hreflang` URLs.
+
+## Verification
+
+Run `python3 scripts/test_i18n.py` with Python Playwright installed. The script starts
+its own local server and uses an installed Google Chrome on macOS, or Playwright's
+Chromium elsewhere. Set `CHROME_EXECUTABLE` to use another installed Chromium binary.
+All external requests are blocked and form responses are simulated.
+
+Checks cover all pages at the site root and under a subfolder, repeated language
+switches, original English restoration, links, form input, filter/search behaviour,
+storage restrictions, download failures, rapid switching and desktop/mobile overflow.

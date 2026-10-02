@@ -1316,6 +1316,8 @@ a.card {
 }
 
 .partner-card {
+  min-width: 0;
+  overflow-wrap: anywhere;
   background-color: #ffffff;
   border-radius: 10px;
   padding: 24px;
@@ -1834,4 +1836,13 @@ a.card {
 [data-policy-recommendations-grid] .card-source-pages {
   flex: 0 0 auto;
   white-space: nowrap;
+}
+
+/* Keep long translated labels readable in shared controls. */
+#language-status {
+  margin: 12px auto;
+  padding: 12px 24px;
+  max-width: 1100px;
+  color: #8b1e1e;
+  background: #fff5f5;
 }
