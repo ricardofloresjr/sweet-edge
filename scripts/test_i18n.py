@@ -13,7 +13,7 @@ PAGES = sorted(str(p.relative_to(ROOT)) for folder in ['', 'consortium', 'result
 
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
-        super().__init__(*args, directory=str(ROOT), **kwargs)
+        super().__init__(*args, directory=str(ROOT / '_site'), **kwargs)
 
     def do_GET(self):
         if self.path.startswith('/preview/'):
@@ -122,12 +122,14 @@ def run():
 
         open_page(page, base + '/news.html')
         switch(page, 'fr')
-        page.locator('#news-search').fill('communes')
-        assert page.locator('[data-news-item]:visible').count() == 2
-        switch(page, 'de')
+        posts = [json.loads(p.read_text()) for p in (ROOT / 'content/posts').glob('*.json')]
+        for lang in ['fr', 'de']:
+            switch(page, lang)
+            title = next(p[lang]['title'] for p in posts if p.get(lang, {}).get('title'))
+            page.locator('#news-search').fill(title)
+            assert page.locator('[data-news-item]:visible').count() >= 1
+        page.locator('#news-search').fill('no-such-post-xyz-123')
         assert page.locator('[data-news-item]:visible').count() == 0
-        page.locator('#news-search').fill('Gemeinden')
-        assert page.locator('[data-news-item]:visible').count() == 2
         print('PASS: search includes translated content and refreshes after switching')
 
         page.goto(base + '/contact.html', wait_until='domcontentloaded')

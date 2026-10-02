@@ -15,7 +15,9 @@ function getSiteBasePath() {
 
 function toSiteUrl(path) {
   if (!path || !path.startsWith('/')) return path;
-  return `${getSiteBasePath()}${path.slice(1)}`;
+  const base = getSiteBasePath();
+  if (path.startsWith(base)) return path;
+  return `${base}${path.slice(1)}`;
 }
 
 function rewriteRootRelativeUrls(scope) {
@@ -45,6 +47,15 @@ async function loadIncludes() {
   }));
 
   rewriteRootRelativeUrls(document);
+  const header = document.querySelector('header');
+  if (header) {
+    // The logo and language controls wrap on narrow screens.
+    const syncHeaderHeight = () => {
+      document.body.style.paddingTop = `${header.getBoundingClientRect().height}px`;
+    };
+    syncHeaderHeight();
+    new ResizeObserver(syncHeaderHeight).observe(header);
+  }
 }
 
 // -----------------------------------------------
@@ -187,7 +198,7 @@ function initNewsFilters() {
     cards.forEach((card) => {
       const itemType = card.dataset.type || 'news';
       const itemDate = card.dataset.date || '';
-      const searchText = `${card.dataset.search || ''} ${card.textContent || ''}`.toLowerCase();
+      const searchText = `${card.dataset.search || ''} ${(card.querySelector('[data-content-lang]:not([hidden])') || card).textContent || ''}`.toLowerCase();
 
       const matchesType = selectedType === 'all' || itemType === selectedType;
       const matchesDate = selectedDate === 'any' || itemDate.startsWith(selectedDate);

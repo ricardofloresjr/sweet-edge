@@ -1,0 +1,750 @@
+{
+  "sources": [
+    "https://www.sweet-edge.ch/en/newslist",
+    "https://www.sweet-edge.ch/en/events"
+  ],
+  "news": [
+    {
+      "slug": "sweet-edge-consortium-meets-in-st-gallen-to-shape-the-final-phase-of-the-project",
+      "source": "https://www.sweet-edge.ch/en/news/sweet-edge-consortium-meets-in-st-gallen-to-shape-the-final-phase-of-the-project",
+      "date": "2026-06-30",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "from-research-to-practice-sweet-edge-at-powertage-2026",
+      "source": "https://www.sweet-edge.ch/en/news/from-research-to-practice-sweet-edge-at-powertage-2026",
+      "date": "2026-06-19",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "the-edge-second-policy-white-paper-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/the-edge-second-policy-white-paper-is-out",
+      "date": "2026-03-17",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-webinar-on-evs-and-grid-planning",
+      "source": "https://www.sweet-edge.ch/en/news/edge-webinar-on-evs-and-grid-planning",
+      "date": "2026-03-12",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "agri-pv-and-electric-tractors-opportunities-for-the-swiss-energy-transition",
+      "source": "https://www.sweet-edge.ch/en/news/agri-pv-and-electric-tractors-opportunities-for-the-swiss-energy-transition",
+      "date": "2026-02-11",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-at-the-energy-research-talks-disentis-2026",
+      "source": "https://www.sweet-edge.ch/en/news/edge-at-the-energy-research-talks-disentis-2026",
+      "date": "2026-02-02",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "key-insights-from-the-swiss-electricity-congress",
+      "source": "https://www.sweet-edge.ch/en/news/key-insights-from-the-swiss-electricity-congress",
+      "date": "2026-01-22",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "socio-political-and-technical-perspectives-of-alpine-pv-implementation",
+      "source": "https://www.sweet-edge.ch/en/news/socio-political-and-technical-perspectives-of-alpine-pv-implementation",
+      "date": "2026-01-20",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "sweet-edge-at-the-elcom-forum-2025",
+      "source": "https://www.sweet-edge.ch/en/news/sweet-edge-at-the-elcom-forum-2025",
+      "date": "2025-11-24",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "11th-edge-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/11th-edge-newsletter-is-out",
+      "date": "2025-09-24",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "sweet-edge-consortium-meeting-2025",
+      "source": "https://www.sweet-edge.ch/en/news/sweet-edge-consortium-meeting-2025",
+      "date": "2025-09-08",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "renewable-energy-outlook-ii-sparks-nationwide-media-attention",
+      "source": "https://www.sweet-edge.ch/en/news/renewable-energy-outlook-ii-sparks-nationwide-media-attention",
+      "date": "2025-06-02",
+      "languages": [
+        "en",
+        "de"
+      ]
+    },
+    {
+      "slug": "highlights-from-the-2nd-swiss-conference",
+      "source": "https://www.sweet-edge.ch/en/news/highlights-from-the-2nd-swiss-conference",
+      "date": "2025-05-30",
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "slug": "watch-our-partners-interviews-getting-ready-for-the-energy-drinks",
+      "source": "https://www.sweet-edge.ch/en/news/watch-our-partners-interviews-getting-ready-for-the-energy-drinks",
+      "date": "2025-05-15",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "the-second-sweet-edge-survey-has-started",
+      "source": "https://www.sweet-edge.ch/en/news/the-second-sweet-edge-survey-has-started",
+      "date": "2025-05-08",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "10th-sweet-edge-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/10th-sweet-edge-newsletter-is-out",
+      "date": "2025-04-24",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "the-second-biennial-conference-of-sweet-edge-be-take-place-on-22-may-2025-in-bern",
+      "source": "https://www.sweet-edge.ch/en/news/the-second-biennial-conference-of-sweet-edge-be-take-place-on-22-may-2025-in-bern",
+      "date": "2025-03-28",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-is-now-on-bluesky",
+      "source": "https://www.sweet-edge.ch/en/news/edge-is-now-on-bluesky",
+      "date": "2025-03-19",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-on-the-cover-page-of-the-st-galler-nachrichten",
+      "source": "https://www.sweet-edge.ch/en/news/edge-on-the-cover-page-of-the-st-galler-nachrichten",
+      "date": "2025-03-13",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "last-article-on-edge-co-coordinator-evelina-trutnevyte-the-energy-oracle",
+      "source": "https://www.sweet-edge.ch/en/news/last-article-on-edge-co-coordinator-evelina-trutnevyte-the-energy-oracle",
+      "date": "2025-03-05",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "the-third-energy-drinks-events-for-the-general-public-will-be-held-in-january-2025",
+      "source": "https://www.sweet-edge.ch/en/news/the-third-energy-drinks-events-for-the-general-public-will-be-held-in-january-2025",
+      "date": "2024-10-31",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "third-sweet-conference-4-september-2024-in-bern",
+      "source": "https://www.sweet-edge.ch/en/news/third-sweet-conference-4-september-2024-in-bern",
+      "date": "2024-10-04",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "the-edge-renewable-energy-outlook-reo-was-presented-at-the-gree-meeting-with-the-municipalities",
+      "source": "https://www.sweet-edge.ch/en/news/the-edge-renewable-energy-outlook-reo-was-presented-at-the-gree-meeting-with-the-municipalities",
+      "date": "2024-10-04",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "agri-photovoltaic-could-supply-five-times-more-electricity-than-switzerland-needs",
+      "source": "https://www.sweet-edge.ch/en/news/agri-photovoltaic-could-supply-five-times-more-electricity-than-switzerland-needs",
+      "date": "2024-10-04",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "new-monitoring-panel-members-and-new-advisory-board-member",
+      "source": "https://www.sweet-edge.ch/en/news/new-monitoring-panel-members-and-new-advisory-board-member",
+      "date": "2024-10-04",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "the-fourth-in-person-consortium-meeting-of-the-consortium-was-held-in-horw",
+      "source": "https://www.sweet-edge.ch/en/news/the-fourth-in-person-consortium-meeting-of-the-consortium-was-held-in-horw",
+      "date": "2024-10-04",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "switzerland-said-yes-to-the-electricity-law",
+      "source": "https://www.sweet-edge.ch/en/news/switzerland-said-yes-to-the-electricity-law",
+      "date": "2024-10-04",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "8th-sweet-edge-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/8th-sweet-edge-newsletter-is-out",
+      "date": "2024-07-09",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "third-evaluation-meeting",
+      "source": "https://www.sweet-edge.ch/en/news/third-evaluation-meeting",
+      "date": "2024-07-04",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "a-new-edge-video-is-published-on-our-youtube-channel",
+      "source": "https://www.sweet-edge.ch/en/news/a-new-edge-video-is-published-on-our-youtube-channel",
+      "date": "2024-06-25",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "the-edge-renewable-energy-outlook-reo-received-high-attention",
+      "source": "https://www.sweet-edge.ch/en/news/the-edge-renewable-energy-outlook-reo-received-high-attention",
+      "date": "2024-05-29",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "second-energy-drinks-events-for-the-general-public-join-us",
+      "source": "https://www.sweet-edge.ch/en/news/second-energy-drinks-events-for-the-general-public-join-us",
+      "date": "2024-05-16",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "third-event-on-knowledge-and-technology-transfer-in-sweet",
+      "source": "https://www.sweet-edge.ch/en/news/third-event-on-knowledge-and-technology-transfer-in-sweet",
+      "date": "2024-05-14",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "new-study-on-the-potential-for-agri-pv-in-swiss-agriculture",
+      "source": "https://www.sweet-edge.ch/en/news/new-study-on-the-potential-for-agri-pv-in-swiss-agriculture",
+      "date": "2024-02-27",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "7th-sweet-edge-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/7th-sweet-edge-newsletter-is-out",
+      "date": "2024-02-27",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "latest-youtube-video-on-the-renewable-energy-outlook-for-switzerland",
+      "source": "https://www.sweet-edge.ch/en/news/latest-youtube-video-on-the-renewable-energy-outlook-for-switzerland",
+      "date": "2024-02-27",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "third-site-visit",
+      "source": "https://www.sweet-edge.ch/en/news/third-site-visit",
+      "date": "2024-02-20",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "consortium-meetings-in-2024",
+      "source": "https://www.sweet-edge.ch/en/news/consortium-meetings-in-2024",
+      "date": "2024-02-20",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "second-energy-drinks-events-for-the-general-public",
+      "source": "https://www.sweet-edge.ch/en/news/second-energy-drinks-events-for-the-general-public",
+      "date": "2024-02-20",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-biennial-conference-was-held-on-22-august-2023-in-bern",
+      "source": "https://www.sweet-edge.ch/en/news/edge-biennial-conference-was-held-on-22-august-2023-in-bern",
+      "date": "2024-02-20",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "zero-intervention-in-the-landscape-and-expansion-of-renewables-that-doesn-t-work",
+      "source": "https://www.sweet-edge.ch/en/news/zero-intervention-in-the-landscape-and-expansion-of-renewables-that-doesn-t-work",
+      "date": "2024-01-30",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "three-strategies-to-boost-renewable-electricity-in-switzerland",
+      "source": "https://www.sweet-edge.ch/en/news/three-strategies-to-boost-renewable-electricity-in-switzerland",
+      "date": "2024-01-10",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-biennial-conference-will-be-held-on-22-august-2023-in-bern-2",
+      "source": "https://www.sweet-edge.ch/en/news/edge-biennial-conference-will-be-held-on-22-august-2023-in-bern-2",
+      "date": "2023-08-17",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "energy-drinks-event-in-bern-3",
+      "source": "https://www.sweet-edge.ch/en/news/energy-drinks-event-in-bern-3",
+      "date": "2023-08-17",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "fifth-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/fifth-newsletter-is-out",
+      "date": "2023-07-05",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "new-video-on-alpine-photovoltaic",
+      "source": "https://www.sweet-edge.ch/en/news/new-video-on-alpine-photovoltaic",
+      "date": "2023-07-05",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "second-site-visit",
+      "source": "https://www.sweet-edge.ch/en/news/second-site-visit",
+      "date": "2023-04-27",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "third-in-person-consortium-meeting",
+      "source": "https://www.sweet-edge.ch/en/news/third-in-person-consortium-meeting",
+      "date": "2023-04-27",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-s-4th-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/edge-s-4th-newsletter-is-out",
+      "date": "2023-04-20",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-white-paper-shows-extreme-level-of-fragmentation-of-rooftop-pv-policy-in-switzerland",
+      "source": "https://www.sweet-edge.ch/en/news/edge-white-paper-shows-extreme-level-of-fragmentation-of-rooftop-pv-policy-in-switzerland",
+      "date": "2023-02-02",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-s-national-survey-is-now-closed",
+      "source": "https://www.sweet-edge.ch/en/news/edge-s-national-survey-is-now-closed",
+      "date": "2023-01-17",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "our-edge-1-year-report-has-been-published-on-aramis",
+      "source": "https://www.sweet-edge.ch/en/news/our-edge-1-year-report-has-been-published-on-aramis",
+      "date": "2022-12-01",
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "slug": "watch-our-partner-s-illustrated-video-interview",
+      "source": "https://www.sweet-edge.ch/en/news/watch-our-partner-s-illustrated-video-interview",
+      "date": "2022-11-02",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "sweet-edge-second-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/sweet-edge-second-newsletter-is-out",
+      "date": "2022-11-02",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-second-in-person-consortium-meeting",
+      "source": "https://www.sweet-edge.ch/en/news/edge-second-in-person-consortium-meeting",
+      "date": "2022-10-27",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "edge-first-site-visit",
+      "source": "https://www.sweet-edge.ch/en/news/edge-first-site-visit",
+      "date": "2022-10-27",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "good-news-for-solar-pv",
+      "source": "https://www.sweet-edge.ch/en/news/good-news-for-solar-pv",
+      "date": "2022-10-27",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "the-sweet-edge-survey-has-started",
+      "source": "https://www.sweet-edge.ch/en/news/the-sweet-edge-survey-has-started",
+      "date": "2022-08-23",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "updates-on-edge-p-d-project-in-wittenbach-wp5",
+      "source": "https://www.sweet-edge.ch/en/news/updates-on-edge-p-d-project-in-wittenbach-wp5",
+      "date": "2022-06-22",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "our-second-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/our-second-newsletter-is-out",
+      "date": "2022-06-09",
+      "languages": [
+        "en",
+        "de"
+      ]
+    },
+    {
+      "slug": "agro-pv-system-to-grow-lamb-s-lettuce",
+      "source": "https://www.sweet-edge.ch/en/news/agro-pv-system-to-grow-lamb-s-lettuce",
+      "date": "2022-05-12",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "updates-on-communications",
+      "source": "https://www.sweet-edge.ch/en/news/updates-on-communications",
+      "date": "2022-05-12",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "welcome-our-new-partners-in-economics",
+      "source": "https://www.sweet-edge.ch/en/news/welcome-our-new-partners-in-economics",
+      "date": "2022-05-11",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "slug": "our-first-youtube-interview-is-out-2",
+      "source": "https://www.sweet-edge.ch/en/news/our-first-youtube-interview-is-out-2",
+      "date": "2022-03-31",
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "slug": "our-first-newsletter-is-out",
+      "source": "https://www.sweet-edge.ch/en/news/our-first-newsletter-is-out",
+      "date": "2022-03-03",
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "slug": "meet-our-advisory-board-members-2",
+      "source": "https://www.sweet-edge.ch/en/news/meet-our-advisory-board-members-2",
+      "date": "2022-01-20",
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "slug": "good-news-for-the-swiss-alps",
+      "source": "https://www.sweet-edge.ch/en/news/good-news-for-the-swiss-alps",
+      "date": "2022-01-13",
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "slug": "we-are-online",
+      "source": "https://www.sweet-edge.ch/en/news/we-are-online",
+      "date": "2021-12-14",
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "slug": "kick-off-meeting",
+      "source": "https://www.sweet-edge.ch/en/news/kick-off-meeting",
+      "date": "2021-11-30",
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "slug": "event-2026-11-11-third-swiss-conference-on-decentralized-energy-registration-open",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2026-11-11",
+      "title": "Third Swiss Conference on Decentralized Energy: registration open"
+    },
+    {
+      "slug": "event-2026-09-09-accelerating-switzerland-s-energy-transition-challenges-and-policy-levers",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2026-09-09",
+      "title": "Accelerating Switzerland's Energy Transition: Challenges and Policy Levers"
+    },
+    {
+      "slug": "event-2026-06-08-webinar-enabling-renewable-energy-the-role-of-local-engagement-and-social-dynamics",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2026-06-08",
+      "title": "Webinar | Enabling Renewable Energy: The Role of Local Engagement and Social Dynamics"
+    },
+    {
+      "slug": "event-2026-03-12-using-evs-to-support-the-grid-from-charging-demand-to-flexibility-in-practice",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2026-03-12",
+      "title": "Using EVs to Support the Grid: From Charging Demand to Flexibility in Practice"
+    },
+    {
+      "slug": "event-2026-02-10-agri-pv-and-electric-tractors-decision-ready-insights-for-switzerland-s-energy-transition",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2026-02-10",
+      "title": "Agri-PV and electric tractors: decision-ready insights for Switzerland’s energy transition"
+    },
+    {
+      "slug": "event-2026-01-19-alpine-pv-systems-socio-political-and-technical-perspectives",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2026-01-19",
+      "title": "Alpine PV systems: Socio-political and technical perspectives"
+    },
+    {
+      "slug": "event-2025-09-04-consortium-meeting-2025",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2025-09-04",
+      "title": "Consortium Meeting 2025"
+    },
+    {
+      "slug": "event-2025-05-22-second-swiss-conference-on-decentralized-energy",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2025-05-22",
+      "title": "Second Swiss Conference on Decentralized Energy"
+    },
+    {
+      "slug": "event-2025-01-08-energy-drinks-in-geneva-8-and-15-january-2025",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2025-01-08",
+      "title": "Energy Drinks in Geneva — 8 and 15 January 2025"
+    },
+    {
+      "slug": "event-2024-08-22-consortium-meeting-august-2024",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2024-08-22",
+      "title": "Consortium meeting - August 2024"
+    },
+    {
+      "slug": "event-2024-06-24-third-evaluation-meeting-june-2024",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2024-06-24",
+      "title": "Third evaluation meeting - June 2024"
+    },
+    {
+      "slug": "event-2024-05-22-second-energy-drinks-events-may-2024",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2024-05-22",
+      "title": "Second \"Energy Drinks\" events - May 2024"
+    },
+    {
+      "slug": "event-2023-08-22-first-edge-biennial-conference",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2023-08-22",
+      "title": "First EDGE Biennial Conference"
+    },
+    {
+      "slug": "event-2023-08-21-first-energy-drinks-events-august-2023",
+      "source": "https://www.sweet-edge.ch/en/events",
+      "date": "2023-08-21",
+      "title": "First\"Energy Drinks\" events - August 2023"
+    }
+  ],
+  "assets": [
+    "/assets/images/4/From Research to Practice-28541ddd.png",
+    "/assets/images/6/IMG_6058-3-5ea38fbd.jpg",
+    "/assets/images/8/Honegger & Gnagi-950d0851.jpeg",
+    "/files/images/Annelen questions Slides.png",
+    "/files/images/content/2.png",
+    "/files/images/content/21.png",
+    "/files/images/content/26.png",
+    "/files/images/content/6.jpg",
+    "/files/images/content/9.jpg",
+    "/files/images/content/AB and Members.jpg",
+    "/files/images/content/AB members.jpg",
+    "/files/images/content/Capture.JPG",
+    "/files/images/content/Credit Source ©Annelen Kahl, ©Nicolas Stocker.png",
+    "/files/images/content/ED video play.jpg",
+    "/files/images/content/EDGE News (2).png",
+    "/files/images/content/EDGE News REO.png",
+    "/files/images/content/EDGE News- agri PV.png",
+    "/files/images/content/EDGE News.jpg",
+    "/files/images/content/EDGE News_EN.png",
+    "/files/images/content/Energy Drinks/5.png",
+    "/files/images/content/Energy Drinks/ED 2025, A2 (420 x 594 mm) (3).png",
+    "/files/images/content/Energy Drinks/Energy Drinks social media700.png",
+    "/files/images/content/Energy Drinks/Energy Drinks_2024.png",
+    "/files/images/content/Energy Drinks/Flyer_EN.png",
+    "/files/images/content/Energy Drinks/first_ED_en.png",
+    "/files/images/content/Final Agenda_EDGE biennial conference_22 August 2023_room number.pdf",
+    "/files/images/content/IMG biennial.png",
+    "/files/images/content/IMG_20220830_140345 (1).jpg",
+    "/files/images/content/IMG_20230831_104641.jpg",
+    "/files/images/content/Ktt in sweet 2024.jpg",
+    "/files/images/content/Logistic note_biennial conference.pdf",
+    "/files/images/content/Maps Ja.jpg",
+    "/files/images/content/Newsletter announcement (3).jpg",
+    "/files/images/content/Newsletter announcement.png",
+    "/files/images/content/Newsletter announcement_EN.png",
+    "/files/images/content/Newsletter7_en.png",
+    "/files/images/content/PV along roads.PNG",
+    "/files/images/content/Programme Energy Drinks_21 August 2023.png",
+    "/files/images/content/Programme Energy Drinks_23 August 2023.png",
+    "/files/images/content/RENO news (15).jpg",
+    "/files/images/content/REO_highlights.png",
+    "/files/images/content/SAVE-THE-DATE 22 AUGUST 2023 1500.png",
+    "/files/images/content/SWEET EDGE Thumbnails (4).jpg",
+    "/files/images/content/Screenshot 2025-03-19 at 14.40.57.png",
+    "/files/images/content/Site Visit_3bis.png",
+    "/files/images/content/Site visit.jpg",
+    "/files/images/content/Suggested picture for White Paper communication 1000.png",
+    "/files/images/content/Survey's preliminary results_Regional policy acceptance.pdf",
+    "/files/images/content/Three strategies to boost green electricity in Switzerland.pdf",
+    "/files/images/content/Violet Moderne Illustré 3D Humains Quiz Éducation Diaporama.png",
+    "/files/images/content/aramis.PNG",
+    "/files/images/content/beautiful-switzerland-2021-09-01-10-34-45-utc.jpg",
+    "/files/images/content/bucher_english.jpg",
+    "/files/images/content/group pic.jpg",
+    "/files/images/content/i_stadelmann.PNG",
+    "/files/images/content/mountain-view-from-mount-saentis-switzerland-sw-2021-08-26-16-31-37-utc.jpg",
+    "/files/images/content/news.png",
+    "/files/images/content/symbolbild_sweet_konferenz.jpg",
+    "/files/images/content/team.jpg",
+    "/files/images/content/unige ET article.PNG",
+    "/files/images/content/zhaw.PNG",
+    "/files/images/logos/IMG_3029.jpg",
+    "/files/images/logos/Ricardos files/11TH EDGE NEWSLETTER IS.png",
+    "/files/images/logos/Ricardos files/1763140082939.jpeg",
+    "/files/images/logos/Ricardos files/1768555531660.jpeg",
+    "/files/images/logos/Ricardos files/1769766410684.jpeg",
+    "/files/images/logos/Ricardos files/20260312_EDGE_EV+Grid Webinar.jpg",
+    "/files/images/logos/Ricardos files/Adobe Express - file.png",
+    "/files/images/logos/Ricardos files/EDGE_Agri-PV+ElectricTractors.jpg",
+    "/files/images/logos/Ricardos files/EDGE_White_Paper_Social_AcceptanceFINAL_compressed.pdf",
+    "/files/images/newsletter post.JPG",
+    "/files/pdf/Events/20260909_EDGE Webinar.png",
+    "/files/pdf/Events/20260928_AGENDA_Third Biennial Conference.pdf",
+    "/files/pdf/Events/EDGE Conference Banner.png"
+  ],
+  "warnings": [
+    "Asset 404: https://www.sweet-edge.ch/files/Ricardos%20files/Screenshot%202026-05-11%20at%2008.48.52.jpg"
+  ],
+  "notes": [
+    "One source image returned HTTP 404; the affected event has no cover image.",
+    "An old German REO media-attention URL returned HTTP 404; it now redirects to the clearly labelled English fallback.",
+    "Event publication dates were not available in the source and are left blank. Event dates and times were transcribed from the source text.",
+    "Entries describing multiple separate sessions retain their individual session details in the article body.",
+    "External video embeds were migrated as video links."
+  ]
+}

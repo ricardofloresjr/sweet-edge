@@ -1,0 +1,37 @@
+{
+  "en": {
+    "title": "We are online!",
+    "summary": "The new website for SWEET EDGE is now online, offering detailed information on the SWEET EDGE goals, the background and the 11 work packages. Also read about the unique concept of the three regions, a specific focus of the project. Research partners,…",
+    "image": "",
+    "image_alt": "We are online!",
+    "image_credit": "",
+    "body": "The new website for SWEET EDGE is now online, offering detailed information on the SWEET EDGE goals, the background and the 11 work packages. Also read about the unique concept of the three regions, a specific focus of the project. Research partners, cooperation partners, support partners and the advisory board are all listed.\n\nThe website was developed in cooperation with Palmiro Nigro from Digital Art Zurich. Contact us on [sweet-edge@unige.ch](mailto:sweet-edge@unige.ch) if you have any questions.",
+    "source_url": "https://www.sweet-edge.ch/en/news/we-are-online",
+    "kind": "news",
+    "date": "2021-12-14",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/we-are-online",
+      "/de/news/nachrichten/we-are-online-2",
+      "/fr/news/news/notre-premiere-interview-youtube-est-en-ligne"
+    ]
+  },
+  "de": {
+    "title": "Unsere Website ist online!",
+    "summary": "Die neue SWEET EDGE-Website ist jetzt online und bietet detaillierte Informationen zu den Zielen, dem Hintergrund und den 11 Arbeitsgruppen des EDGE-Programms. Entdecken Sie auch das einzigartige Konzept der drei Regionen: eine spezifische Achse des Projekts.…",
+    "image": "",
+    "image_alt": "Unsere Website ist online!",
+    "image_credit": "",
+    "body": "Die neue SWEET EDGE-Website ist jetzt online und bietet detaillierte Informationen zu den Zielen, dem Hintergrund und den 11 Arbeitsgruppen des EDGE-Programms. Entdecken Sie auch das einzigartige Konzept der drei Regionen: eine spezifische Achse des Projekts. Forschungspartner, Implementierungspartner, unterstützende Partner und Beirat sind alle hier aufgelistet.\n\nDie Website wurde in Zusammenarbeit mit Palmiro Nigro von Digital Art Zürich entwickelt. Kontaktieren Sie uns bei Fragen unter [sweet-edge@unige.ch](mailto:sweet-edge@unige.ch).",
+    "source_url": "https://www.sweet-edge.ch/de/news/nachrichten/we-are-online-2"
+  },
+  "fr": {
+    "title": "Notre site est en ligne !",
+    "summary": "Le nouveau site internet de SWEET EDGE est maintenant en ligne, offrant des informations détaillées sur les objectifs du programme EDGE, le contexte et les 11 modules de travail. Découvrez également le concept unique des trois régions, un axe spécifique du…",
+    "image": "",
+    "image_alt": "Notre site est en ligne !",
+    "image_credit": "",
+    "body": "Le nouveau site internet de SWEET EDGE est maintenant en ligne, offrant des informations détaillées sur les objectifs du programme EDGE, le contexte et les 11 modules de travail. Découvrez également le concept unique des trois régions, un axe spécifique du projet. Les partenaires de recherche, les partenaires de mise en œuvre, les partenaires de soutien et le conseil consultatif y sont tous répertoriés.\n\nLe site web a été développé en collaboration avec Palmiro Nigro de Digital Art Zurich. Contactez-nous sur [sweet-edge@unige.ch](mailto:sweet-edge@unige.ch) pour toutes questions.",
+    "source_url": "https://www.sweet-edge.ch/fr/news/news/notre-premiere-interview-youtube-est-en-ligne"
+  }
+}
