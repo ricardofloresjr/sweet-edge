@@ -162,3 +162,19 @@ The last check uses Python Playwright and an installed Chromium browser. It serv
 fetches the approved original source URLs, uses `.cache/migration` for HTML, and
 skips existing post files to preserve subsequent edits. Review its report and any
 changed source structure before running another migration.
+
+## Keep VS Code files synchronized
+
+`npm run dev` checks GitHub immediately and every 30 seconds while the local
+preview runs. On a clean `main` checkout, it downloads published updates using a
+fast-forward merge; Eleventy then rebuilds the preview. Drafts on CMS branches
+are not copied into `main`.
+
+For syncing without the preview server, run `npm run sync`. For one check, run
+`npm run sync:once`. Stop either continuous command with Ctrl+C. Nothing runs
+when these commands are stopped or the computer is asleep.
+
+Sync pauses if there are uncommitted files, you are on another branch, or local
+commits cannot be fast-forwarded. It never stashes, discards, or pushes local work.
+Resolve the local changes first; the next check retries automatically. Read the
+terminal's `[GitHub sync]` messages if an update does not arrive.
