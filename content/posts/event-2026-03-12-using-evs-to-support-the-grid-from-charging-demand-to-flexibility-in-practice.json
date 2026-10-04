@@ -1,0 +1,21 @@
+{
+  "en": {
+    "title": "Using EVs to Support the Grid: From Charging Demand to Flexibility in Practice",
+    "summary": "Electric vehicles are rapidly becoming a structural factor in Switzerland’s power system. What was once a marginal load is turning into a planning variable that affects infrastructure investments, grid stability, and long-term system costs.",
+    "image": "/files/images/logos/Ricardos%20files/20260312_EDGE_EV%2BGrid%20Webinar.jpg",
+    "image_alt": "Using EVs to Support the Grid: From Charging Demand to Flexibility in Practice",
+    "image_credit": "",
+    "body": "Electric vehicles are rapidly becoming a structural factor in Switzerland’s power system. What was once a marginal load is turning into a planning variable that affects infrastructure investments, grid stability, and long-term system costs.\n\nAt the same time, key questions remain:\n\n\\- How will large-scale EV charging reshape load profiles across voltage levels?  \n\\- Under which conditions can charging demand provide real flexibility?  \n\\- And how can grid planners translate modelling results into operational decisions?\n\nAnswering these questions requires more than projections of EV uptake. It requires robust analytical models combined with real-world grid experience.\n\nThis is precisely the focus of the EDGE webinar  \n“Using EVs to Support the Grid: From Charging Demand to Flexibility in Practice.”\n\nThe event brings together leading experts from research and industry and is designed for professionals who need to plan, justify, and implement grid-related decisions in utilities, DSOs, public authorities, and energy companies.\n\n### [Register now](https://forms.cloud.microsoft/e/Fk67DbeML9)\n\n### Research meets grid reality\n\nWith María Parajeles (ETH Zurich) and Yves Corrodi (CKW / Axpo Group), the webinar connects forward-looking modelling with applied system planning.\n\nMaría Parajeles presents research on modelling BEV charging demand, analysing how charging behaviour affects load curves, peak demand, and infrastructure requirements. Her work provides a quantitative basis for understanding where flexibility potential exists and how it can be captured.\n\nYves Corrodi, Head of Strategic Grid Planning at CKW, brings the system planning perspective. He works across high, medium, and low voltage networks, simulating future grid capacities and defining development pathways to integrate EV charging stations, photovoltaics, battery systems, and heat pumps. His team is also building a comprehensive grid data platform to support future-proof planning.\n\nTogether with Lukas Elmiger (CKW), the discussion moves from theoretical flexibility to practical implementation.\n\n### From charging demand to system flexibility\n\nA central focus of the webinar is how EV integration can move beyond reactive grid reinforcement toward strategic flexibility use.\n\nWhere does managed charging make a tangible difference?  \nHow does flexibility influence infrastructure sizing and investment decisions?  \nAnd what governance and data structures are needed to enable it?\n\nRather than presenting abstract scenarios, the webinar aims to provide orientation, make trade-offs transparent, and support science-based decision-making in real system contexts.\n\n📅 12 March 2026  \n🕦 11:30–12:40 CET  \n💬 English | Online\n\n**👉 [Register now](https://forms.cloud.microsoft/e/Fk67DbeML9) to gain actionable insights for grid planning and EV integration.**",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2026-03-12",
+    "event_end_date": "",
+    "event_time": "11:30",
+    "timezone": "Europe/Zurich",
+    "event_location": "Online",
+    "registration_url": "https://forms.cloud.microsoft/e/Fk67DbeML9"
+  },
+  "de": {},
+  "fr": {}
+}

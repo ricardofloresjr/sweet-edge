@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -97,24 +100,7 @@
         <a class="section-link" href="news.html">View all</a>
       </div>
       <div class="news-grid">
-        <article class="news-card">
-          <span class="news-date">15 Jan 2025 · News</span>
-          <h3><a href="news.html">EDGE consortium workshop on decentralized grids</a></h3>
-          <p>Researchers and stakeholders explored how local energy communities can accelerate the transition to renewables across Switzerland.</p>
-          <a class="news-more" href="news.html">Read more →</a>
-        </article>
-        <article class="news-card">
-          <span class="news-date">18 Dec 2024 · News</span>
-          <h3><a href="news.html">Policy recommendations update</a></h3>
-          <p>The latest EDGE policy brief details actions for cantons to support flexible, low-carbon energy systems.</p>
-          <a class="news-more" href="news.html">Read more →</a>
-        </article>
-        <article class="news-card">
-          <span class="news-date">05 Nov 2024 · Event</span>
-          <h3><a href="news.html">Public lecture series kicks off</a></h3>
-          <p>A new lecture series shares insights from EDGE partners on integrating renewable energy at scale.</p>
-          <a class="news-more" href="news.html">Read more →</a>
-        </article>
+        {% newsCards posts, 3 %}
       </div>
     </div>
   </section>

@@ -20,6 +20,8 @@
   const normalize = (text) => text.replace(/\s+/g, ' ').trim();
 
   function detectLang() {
+    const pageLanguage = document.documentElement.dataset.pageLanguage;
+    if (SUPPORTED.includes(pageLanguage)) return pageLanguage;
     const requested = new URL(location.href).searchParams.get('lang');
     if (SUPPORTED.includes(requested)) return requested;
     try {
@@ -72,6 +74,7 @@
 
   function updateSwitcher() {
     document.documentElement.lang = currentLang;
+    document.querySelectorAll('[data-content-lang]').forEach(el => { el.hidden = el.dataset.contentLang !== currentLang; });
     document.querySelectorAll('.lang-switcher a[data-lang]').forEach((link) => {
       const active = link.dataset.lang === currentLang;
       link.classList.toggle('lang-active', active);
@@ -93,6 +96,15 @@
 
   async function switchLang(lang) {
     if (!SUPPORTED.includes(lang)) return false;
+    const pageLanguage = document.documentElement.dataset.pageLanguage;
+    if (pageLanguage && pageLanguage !== lang) {
+      const alternate = document.querySelector(`link[rel="alternate"][hreflang="${lang}"]`);
+      if (alternate) {
+        try { localStorage.setItem(STORAGE_KEY, lang); } catch (_) {}
+        location.assign(alternate.href);
+        return true;
+      }
+    }
     const id = ++requestId;
     try {
       if (!dictionaries[lang]) {

@@ -1,3 +1,11 @@
 .DS_Store
 .claude/
 *.code-workspace
+node_modules/
+_site/
+.cache/
+.netlify/
+.env
+.env.*
+!.env.example
+__pycache__/

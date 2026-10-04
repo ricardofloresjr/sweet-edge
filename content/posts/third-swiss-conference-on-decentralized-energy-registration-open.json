@@ -1,0 +1,39 @@
+{
+  "en": {
+    "draft": false,
+    "body": "The conference will bring together researchers, policymakers, energy practitioners, industry representatives, and civil society voices for a day of exchange, debate, and practical insight. The programme will feature highlights from **SWEET EDGE**, including the **Third Renewable Energy Outlook** and new findings on public acceptance.\n\nParticipants will explore some of the most pressing issues in Swiss energy policy and practice: renewable generation, the role of new nuclear power, effective and just policies for the energy transition, communal energy planning, winter electricity supply, grids, flexibility, and system stabilization.\n\nIn the afternoon, parallel deep-dive sessions will offer space for focused discussion on community energy planning and recommender tools, closing the winter electricity gap with wind and solar power, and the future of distribution grids and flexibility. The day will conclude with a panel discussion on the legacy of EDGE and the open questions that remain for Switzerland’s energy future.\n\nThe conference will be held in **English, German, and French**, and will close with an **apéro**. See preliminary agenda [here](https://www.sweet-edge.ch/files/pdf/Events/20260928_AGENDA_Third%20Biennial%20Conference.pdf).\n\n**Date:** 11 November 2026\n**Venue:** Welle 7, Bern\n**Format:** Full-day conference\n**Languages:** English, German, French\n**Registration:** <https://forms.cloud.microsoft/e/88Xh3W3h8H>",
+    "image_alt": "third swiss conference on decentralized energy",
+    "summary": "Join us on 11 November 2026 at Welle 7 in Bern for the Third Swiss Conference on Decentralized Energy, a full-day event dedicated to Switzerland’s decentralized energy transition and the questions shaping its next phase.",
+    "registration_url": "https://forms.cloud.microsoft/e/88Xh3W3h8H",
+    "date": "2026-10-04",
+    "event_time": "09:15",
+    "event_date": "2026-11-11",
+    "kind": "event",
+    "event_end_date": "2026-11-11",
+    "title": "Third Swiss Conference on Decentralized Energy: registration open",
+    "timezone": "Europe/Zurich",
+    "event_location": "Welle7, Bern",
+    "image": "/images/uploads/edge-conference-banner.png",
+    "image_credit": "Ricardo Flores"
+  },
+  "de": {
+    "kind": "event",
+    "draft": false,
+    "date": "2026-10-04",
+    "event_date": "2026-11-11",
+    "event_end_date": "2026-11-11",
+    "timezone": "Europe/Zurich",
+    "event_time": "09:15",
+    "registration_url": "https://forms.cloud.microsoft/e/88Xh3W3h8H"
+  },
+  "fr": {
+    "kind": "event",
+    "draft": false,
+    "date": "2026-10-04",
+    "event_date": "2026-11-11",
+    "event_end_date": "2026-11-11",
+    "timezone": "Europe/Zurich",
+    "event_time": "09:15",
+    "registration_url": "https://forms.cloud.microsoft/e/88Xh3W3h8H"
+  }
+}

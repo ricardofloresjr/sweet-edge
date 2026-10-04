@@ -1,0 +1,53 @@
+{% set post = article.post %}
+{% set lang = article.lang %}
+{% set item = post | localize(lang) %}
+{% set root = '../../' if lang == 'en' else '../../../' %}
+<!DOCTYPE html>
+<html lang="en" data-page-language="{{ lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title translate="no">{{ item.title }} — SWEET EDGE</title>
+  <meta name="description" content="{{ item.summary }}" translate="no">
+  <meta property="og:title" content="{{ item.title }}" translate="no">
+  <meta property="og:description" content="{{ item.summary }}" translate="no">
+  <meta property="og:type" content="article">
+  {% if item.image %}<meta property="og:image" content="{{ siteUrl }}{{ item.image }}">{% endif %}
+  <link rel="canonical" href="{{ siteUrl }}{{ post | postUrl('en' if item.fallback else lang) }}">
+  {% if item.fallback %}<meta name="robots" content="noindex, follow">{% endif %}
+  {% for locale in locales %}<link rel="alternate" hreflang="{{ locale }}" href="{{ post | postUrl(locale) }}">{% endfor %}
+  <link rel="stylesheet" href="{{ root }}style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+<div data-include="{{ root }}partials/header.html"></div>
+<main>
+  <section class="page-hero"><div class="container">
+    <a href="{{ root }}news.html">News &amp; Events</a>
+    <h1 translate="no" lang="{{ item.language }}">{{ item.title }}</h1>
+    <p class="lead" translate="no" lang="{{ item.language }}">{{ item.summary }}</p>
+    {% if item.fallback %}<p class="translation-note">This article is currently available in English. A translation has not been published yet.</p>{% endif %}
+    {% if post.en.date %}<p><time datetime="{{ post.en.date }}" translate="no">{{ post.en.date | displayDate(lang) }}</time></p>{% endif %}
+  </div></section>
+  <article class="content-section"><div class="container article-content">
+    {% if post.en.kind == 'event' %}
+    <aside class="event-details">
+      <h2>Event details</h2>
+      {% if (post.en.event_end_date or post.en.event_date) < today %}<p class="event-status">This event has ended.</p>{% endif %}
+      <dl>
+        <dt>Date</dt><dd translate="no">{{ post.en.event_date | displayDate(lang) }}{% if post.en.event_end_date %} – {{ post.en.event_end_date | displayDate(lang) }}{% endif %}</dd>
+        {% if post.en.event_time %}<dt>Time</dt><dd translate="no">{{ post.en.event_time }} ({{ post.en.timezone or 'Europe/Zurich' }})</dd>{% endif %}
+        {% if item.event_location %}<dt>Location</dt><dd translate="no" lang="{{ item.language }}">{{ item.event_location }}</dd>{% endif %}
+      </dl>
+      {% if post.en.registration_url and (post.en.event_end_date or post.en.event_date) >= today %}<a class="btn btn-primary" href="{{ post.en.registration_url | safeUrl }}" target="_blank" rel="noopener">Register for this event →</a>{% endif %}
+    </aside>
+    {% endif %}
+    {% if item.image %}<figure><img class="article-cover" src="{{ item.image | safeUrl }}" alt="{{ item.image_alt or item.title }}" translate="no">{% if item.image_credit %}<figcaption translate="no">{{ item.image_credit }}</figcaption>{% endif %}</figure>{% endif %}
+    <div class="article-body" translate="no" lang="{{ item.language }}">{{ item.body | markdown | safe }}</div>
+    <p class="article-back"><a href="{{ root }}news.html">← All news and events</a></p>
+  </div></article>
+</main>
+<div data-include="{{ root }}partials/footer.html"></div>
+<script src="{{ root }}i18n.js"></script><script src="{{ root }}script.js"></script>
+</body>
+</html>
