@@ -14,6 +14,34 @@
       "/en/news/10th-sweet-edge-newsletter-is-out"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Der 10. EDGE-Newsletter ist da!",
+    "summary": "Was steht im Newsletter? 📝 Anmeldung offen: Nehmen Sie an der zweiten Schweizer Konferenz zum Thema dezentrale Energie teil, die am 22. Mai 2025 in Bern stattfindet. Die Teilnahme ist kostenlos, die Plätze sind jedoch begrenzt. Registrieren Sie sich hier.🔥 Pressemitteilungen: Wie würde die Schweiz mit einem… umgehen?",
+    "image": "/files/images/content/EDGE%20News_EN.png",
+    "image_alt": "Der 10. EDGE-Newsletter ist da!",
+    "image_credit": "",
+    "body": "Was steht im Newsletter?\n\n📝 Anmeldung offen: Nehmen Sie an der zweiten Schweizer Konferenz zu dezentraler Energie teil, die am 22. Mai 2025 in Bern stattfindet. Die Teilnahme ist kostenlos, die Plätze sind jedoch begrenzt. [Hier anmelden.](/news/the-second-biennial-conference-of-sweet-edge-be-take-place-on-22-may-2025-in-bern/)\n\n🔥 Pressemitteilungen: Wie würde die Schweiz mit einem Rückgang der Gas- und Stromimporte umgehen? EDGE-Forscher modellierten Szenarien mit reduzierten Gas- und Stromimporten. Ihre Ergebnisse wurden von Schweizer Medien aufgegriffen.\n\n☀️ Lokale Aktion: Wittenbach auf der Titelseite der St. Galler Nachrichten. Von PV auf Dächern bis hin zu Parkplätzen und Ackerland unternimmt Wittenbach wichtige Schritte in der lokalen Energieinnovation.\n\n🎥 Lernen Sie unsere Partner kennen: Schauen Sie sich eine neue Videoserie vom Energy Drinks-Event an, mit Interviews von EDGE-Partnern von EPFL, UNIGE, HSLU, BFH und unseren Gästen aus anderen SWEET-Projekten.\n\n📩 Du möchtest den Newsletter abonnieren? Machen Sie es [hier](/index.html#newsletter-email).\n\n[\\-> Lesen Sie den vollständigen Newsletter](https://sh1.sendinblue.com/ai2m9djc79pfe.html?t=1744094910742)",
+    "source_url": "https://www.sweet-edge.ch/en/news/10th-sweet-edge-newsletter-is-out",
+    "kind": "news",
+    "date": "2025-04-24",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/10th-sweet-edge-newsletter-is-out"
+    ]
+  },
+  "fr": {
+    "title": "La 10e newsletter EDGE est sortie !",
+    "summary": "Qu'y a-t-il dans le bulletin d'information ? 📝 Inscription ouverte : rejoignez-nous pour la deuxième conférence suisse sur l'énergie décentralisée, qui aura lieu le 22 mai 2025 à Berne. La participation est gratuite mais les places sont limitées. Inscrivez-vous ici.🔥 Communiqués de presse: Comment la Suisse gérerait-elle une…",
+    "image": "/files/images/content/EDGE%20News_EN.png",
+    "image_alt": "La 10e newsletter EDGE est sortie !",
+    "image_credit": "",
+    "body": "Qu'y a-t-il dans la newsletter ?\n\n📝 Inscriptions ouvertes : rejoignez-nous pour la deuxième conférence suisse sur l'énergie décentralisée, qui aura lieu le 22 mai 2025 à Berne. La participation est gratuite mais les places sont limitées. [Inscrivez-vous ici.](/news/the-second-biennial-conference-of-sweet-edge-be-take-place-on-22-may-2025-in-bern/)\n\n🔥 Communiqués de presse : Comment la Suisse gérerait-elle une baisse des importations de gaz et d'électricité ? Les chercheurs d’EDGE ont modélisé des scénarios de réduction des importations de gaz et d’électricité. Leurs résultats ont été repris par les médias suisses.\n\n☀️ Action locale : Wittenbach en première page du St. Galler Nachrichten. Des panneaux photovoltaïques sur les toits aux parkings et aux terres agricoles, Wittenbach franchit des étapes importantes dans l'innovation énergétique locale.\n\n🎥 Rencontrez nos partenaires : découvrez une nouvelle série de vidéos de l'événement Energy Drinks, présentant les interviews des partenaires EDGE de l'EPFL, de l'UNIGE, de la HSLU, de la BFH et de nos invités d'autres projets SWEET.\n\n📩 Vous souhaitez vous inscrire à la newsletter ? Faites-le [ici](/index.html#newsletter-email).\n\n[\\-> Lire la newsletter complète](https://sh1.sendinblue.com/ai2m9djc79pfe.html?t=1744094910742)",
+    "source_url": "https://www.sweet-edge.ch/en/news/10th-sweet-edge-newsletter-is-out",
+    "kind": "news",
+    "date": "2025-04-24",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/10th-sweet-edge-newsletter-is-out"
+    ]
+  }
 }

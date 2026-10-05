@@ -14,6 +14,34 @@
       "/en/news/edge-is-now-on-bluesky"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "EDGE ist jetzt auf Bluesky!",
+    "summary": "Wir freuen uns, unser Engagement mit den Energiegemeinschaften auf Bluesky auszubauen! Auf dieser Plattform können wir Erkenntnisse, Projektaktualisierungen und wichtige Diskussionen austauschen. Bluesky bietet einen neuen Raum für Zusammenarbeit und sinnvollen Austausch über dezentrale…",
+    "image": "/files/images/content/Screenshot%202025-03-19%20at%2014.40.57.png",
+    "image_alt": "EDGE ist jetzt auf Bluesky!",
+    "image_credit": "",
+    "body": "Wir freuen uns, unser Engagement mit den Energiegemeinschaften auf Bluesky auszubauen!\n\nDiese Plattform ermöglicht es uns, Erkenntnisse, Projektaktualisierungen und wichtige Diskussionen auszutauschen. Bluesky bietet einen neuen Raum für Zusammenarbeit und sinnvollen Austausch über dezentrale erneuerbare Energien. Bleiben Sie über die neuesten Aktivitäten von EDGE auf dem Laufenden, indem Sie uns folgen und an der Diskussion teilnehmen!\n\nFinden Sie uns unter [sweet-edge.bsky.social](http://sweet-edge.bsky.social/)\n\n[\\-> Gehen Sie zu Bluesky](https://bsky.app/profile/sweet-edge.bsky.social)",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-is-now-on-bluesky",
+    "kind": "news",
+    "date": "2025-03-19",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-is-now-on-bluesky"
+    ]
+  },
+  "fr": {
+    "title": "EDGE est maintenant sur Bluesky !",
+    "summary": "Nous sommes ravis d'étendre notre engagement avec les communautés énergétiques sur Bluesky ! Cette plateforme nous permet de partager des idées, des mises à jour de projets et des discussions clés. Bluesky offre un nouvel espace de collaboration et d'échanges significatifs sur la décentralisation…",
+    "image": "/files/images/content/Screenshot%202025-03-19%20at%2014.40.57.png",
+    "image_alt": "EDGE est maintenant sur Bluesky !",
+    "image_credit": "",
+    "body": "Nous sommes ravis d'étendre notre engagement auprès des communautés énergétiques sur Bluesky !\n\nCette plate-forme nous permet de partager des informations, des mises à jour de projets et des discussions clés. Bluesky offre un nouvel espace de collaboration et d'échanges significatifs sur les énergies renouvelables décentralisées. Restez informé des dernières activités d'EDGE en nous suivant et en rejoignant la conversation !\n\nTrouvez-nous @[sweet-edge.bsky.social](http://sweet-edge.bsky.social/)\n\n[\\-> Accédez à Bluesky](https://bsky.app/profile/sweet-edge.bsky.social)",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-is-now-on-bluesky",
+    "kind": "news",
+    "date": "2025-03-19",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-is-now-on-bluesky"
+    ]
+  }
 }

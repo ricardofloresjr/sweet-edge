@@ -14,6 +14,34 @@
       "/en/news/edge-s-4th-newsletter-is-out"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Der 4. Newsletter von EDGE ist da!",
+    "summary": "Hier finden Sie die vollständige Medienberichterstattungsliste des EDGE Policy White Papers zur Photovoltaik auf Dächern sowie von Experten begutachtete Veröffentlichungen und viele Neuigkeiten und zukünftige Veranstaltungen.",
+    "image": "/files/images/content/Newsletter%20announcement%20(3).jpg",
+    "image_alt": "Der 4. Newsletter von EDGE ist da!",
+    "image_credit": "",
+    "body": "Hier finden Sie die vollständige Medienberichterstattungsliste des EDGE Policy White Paper zur Photovoltaik auf Dächern sowie von Experten begutachtete Veröffentlichungen und viele Neuigkeiten und zukünftige Veranstaltungen.\n\nNewsletter auf [Englisch](https://sh1.sendinblue.com/aek75djc79pfe.html?t=1678454915)\n\nNewsletter auf [Deutsch](https://sh1.sendinblue.com/aeoeupjc79pfe.html?t=1681998062)\n\nNewsletter auf [Französisch](https://sh1.sendinblue.com/aesmk1jc79pfe.html?t=1681998094)",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-s-4th-newsletter-is-out",
+    "kind": "news",
+    "date": "2023-04-20",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-s-4th-newsletter-is-out"
+    ]
+  },
+  "fr": {
+    "title": "La 4e Newsletter d'EDGE est sortie !",
+    "summary": "Retrouvez la liste complète de la couverture médiatique du Livre blanc politique EDGE sur le photovoltaïque sur les toits, ainsi que les publications évaluées par les pairs, de nombreuses actualités et événements à venir.",
+    "image": "/files/images/content/Newsletter%20announcement%20(3).jpg",
+    "image_alt": "La 4e Newsletter d'EDGE est sortie !",
+    "image_credit": "",
+    "body": "Retrouvez la liste complète de la couverture médiatique du livre blanc politique EDGE sur le photovoltaïque sur les toits, ainsi que les publications évaluées par les pairs, de nombreuses actualités et événements à venir.\n\nNewsletter en [anglais](https://sh1.sendinblue.com/aek75djc79pfe.html?t=1678454915)\n\nNewsletter en [allemand](https://sh1.sendinblue.com/aeoeupjc79pfe.html?t=1681998062)\n\nNewsletter en [français](https://sh1.sendinblue.com/aesmk1jc79pfe.html?t=1681998094)",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-s-4th-newsletter-is-out",
+    "kind": "news",
+    "date": "2023-04-20",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-s-4th-newsletter-is-out"
+    ]
+  }
 }

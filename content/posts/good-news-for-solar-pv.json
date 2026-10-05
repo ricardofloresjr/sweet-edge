@@ -14,6 +14,34 @@
       "/en/news/good-news-for-solar-pv"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Gute Nachrichten für Solar-PV",
+    "summary": "An Bundesstrassen gibt es grosses Potenzial für Photovoltaik. Diese sollte schnellstmöglich geöffnet werden. Das Bundesamt für Strassen (ASTRA) stellt verfügbare Flächen kostenlos zur Verfügung und startet ein Antragsverfahren.",
+    "image": "/files/images/content/PV%20along%20roads.PNG",
+    "image_alt": "Gute Nachrichten für Solar-PV",
+    "image_credit": "",
+    "body": "An Bundesstrassen gibt es grosses Potenzial für Photovoltaik. Diese sollte schnellstmöglich geöffnet werden. Das Bundesamt für Strassen (ASTRA) stellt verfügbare Flächen kostenlos zur Verfügung und startet ein Antragsverfahren.\n\nDas ASTRA startet das Antragsverfahren am 19. September 2022. Es dauert bis zum 24. Februar 2023. Im Fokus stehen rund 350 Lärmschutzwände und 100 Rastplätze. Diese Objekte wurden in 15 Lose gruppiert. Interessenten haben die Möglichkeit, sich zu bewerben und nach der Zuteilung eines Grundstücks innerhalb eines vorgegebenen Zeitrahmens die Photovoltaikanlage auf der entsprechenden Fläche zu planen und umzusetzen. Ein ähnliches Verfahren wurde bereits 2018 bei der Vergabe von Standorten für Schnellladestationen auf Rastplätzen durchgeführt.\n\nDie Bewerbungsunterlagen und weitere Informationen (inkl. Visualisierungstool) finden Sie hier: www.astra.admin.ch/photovoltaik\n\n_Urheberrechte: Artikel_ _von der Website des Eidgenössischen Energiebundes (https://www.uvek.admin.ch/uvek/de/home/uvek/medien/medienmitteilungen.msg-id-90400.html)_",
+    "source_url": "https://www.sweet-edge.ch/en/news/good-news-for-solar-pv",
+    "kind": "news",
+    "date": "2022-10-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/good-news-for-solar-pv"
+    ]
+  },
+  "fr": {
+    "title": "Bonne nouvelle pour le solaire photovoltaïque",
+    "summary": "Il existe un grand potentiel photovoltaïque le long des routes nationales. Celui-ci devrait être ouvert le plus tôt possible. L'Office fédéral des routes (OFROU) met gratuitement à disposition les zones disponibles et lance une procédure de demande.",
+    "image": "/files/images/content/PV%20along%20roads.PNG",
+    "image_alt": "Bonne nouvelle pour le solaire photovoltaïque",
+    "image_credit": "",
+    "body": "Il existe un grand potentiel photovoltaïque le long des routes nationales. Celui-ci devrait être ouvert le plus tôt possible. L'Office fédéral des routes (OFROU) met gratuitement à disposition les zones disponibles et lance une procédure de demande.\n\nL'OFROU lancera la procédure de candidature le 19 septembre 2022. Elle durera jusqu'au 24 février 2023. L'accent sera mis sur environ 350 écrans antibruit et 100 aires de repos. Ces objets ont été regroupés en 15 lots. Les parties intéressées ont la possibilité de postuler et, après l'attribution du lot, de planifier et de mettre en œuvre l'installation photovoltaïque sur la zone correspondante dans un délai déterminé. Une procédure similaire a déjà été menée en 2018 lors de l'attribution des emplacements pour les bornes de recharge rapide sur les aires de repos.\n\nLes documents de candidature et des informations complémentaires (y compris l'outil de visualisation) sont disponibles ici : www.astra.admin.ch/photovoltaik\n\n_Copyrights : article_ _du site Internet de la Fédération suisse de l'énergie (https://www.uvek.admin.ch/uvek/de/home/uvek/medien/medienmitteilungen.msg-id-90400.html)_",
+    "source_url": "https://www.sweet-edge.ch/en/news/good-news-for-solar-pv",
+    "kind": "news",
+    "date": "2022-10-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/good-news-for-solar-pv"
+    ]
+  }
 }

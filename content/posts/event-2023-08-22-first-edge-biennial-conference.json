@@ -16,6 +16,38 @@
     "event_location": "Bern",
     "registration_url": ""
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Erste EDGE-Zweijahreskonferenz",
+    "summary": "EDGE organisierte am 22. August 2023 in Bern seine erste zweijährliche Konferenz: eine öffentliche Konferenz mit dem Ziel, Wissenschaft, Politik und Industrie miteinander zu verbinden, um die Entwicklung von Netzwerken ausserhalb der Wissenschaft zu erleichtern und die Kommunikation von EDGE-Ergebnissen zu ermöglichen. Insgesamt…",
+    "image": "/files/images/content/IMG%20biennial.png",
+    "image_alt": "Erste EDGE-Zweijahreskonferenz",
+    "image_credit": "",
+    "body": "EDGE organisierte seine erste [Biennial Conference](/news/edge-biennial-conference-will-be-held-on-22-august-2023-in-bern-2/ \"/news/edge-biennial-conference-will-be-held-on-22-august-2023-in-bern-2/\") am 22. August 2023 in Bern: eine öffentliche Konferenz mit dem Ziel, eine Brücke zwischen Wissenschaft, Politik und Industrie zu schlagen, um die Entwicklung von Netzwerken ausserhalb der Wissenschaft zu erleichtern und die Kommunikation von EDGE-Ergebnissen zu ermöglichen. Insgesamt waren etwa 110 Personen anwesend und der Saal war voll!\n\nLaden Sie das Programm [hier herunter](/files/images/content/Final%20Agenda_EDGE%20biennial%20conference_22%20August%202023_room%20number.pdf)",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2023-08-22",
+    "event_end_date": "",
+    "event_time": "",
+    "timezone": "Europe/Zurich",
+    "event_location": "Bern",
+    "registration_url": ""
+  },
+  "fr": {
+    "title": "Première conférence biennale EDGE",
+    "summary": "EDGE a organisé sa première conférence biennale le 22 août 2023 à Berne : une conférence publique visant à rapprocher le monde universitaire, la politique et l'industrie afin de faciliter le développement de réseaux en dehors du monde universitaire et de permettre la communication des résultats d'EDGE. Au total…",
+    "image": "/files/images/content/IMG%20biennial.png",
+    "image_alt": "Première conférence biennale EDGE",
+    "image_credit": "",
+    "body": "EDGE a organisé sa première [Conférence biennale](/news/edge-biennial-conference-will-be-held-on-22-august-2023-in-bern-2/ \"/news/edge-biennial-conference-will-be-held-on-22-august-2023-in-bern-2/\") le 22 août 2023 à Berne : une conférence visant à rapprocher le monde universitaire, la politique et l'industrie pour faciliter le développement de réseaux en dehors du monde universitaire et permettre la communication des résultats d'EDGE. Au total, environ 110 personnes étaient présentes et la salle était pleine !\n\nTéléchargez le programme [ici](/files/images/content/Final%20Agenda_EDGE%20biennial%20conference_22%20August%202023_room%20number.pdf)",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2023-08-22",
+    "event_end_date": "",
+    "event_time": "",
+    "timezone": "Europe/Zurich",
+    "event_location": "Berne",
+    "registration_url": ""
+  }
 }

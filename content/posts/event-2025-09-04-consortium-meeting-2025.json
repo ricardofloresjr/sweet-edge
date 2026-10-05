@@ -16,6 +16,38 @@
     "event_location": "Wädenswil",
     "registration_url": ""
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Konsortialtreffen 2025",
+    "summary": "Unser nächstes Konsortialtreffen wird am 4. und 5. September 2025 persönlich in Wädenswil stattfinden.",
+    "image": "",
+    "image_alt": "Konsortialtreffen 2025",
+    "image_credit": "",
+    "body": "Das EDGE-Konsortium trifft sich zweimal im Jahr.\n\nUnser nächstes Konsortialtreffen findet am 4. und 5. September 2025 persönlich in Wädenswil statt.\n\nDas EDGE-Konsortium trifft sich zweimal im Jahr, um Ideen auszutauschen, über Fortschritte nachzudenken und die nächsten Schritte zu planen. Diese Ausgabe enthält Folgendes:\n\n🔍 Neue Erkenntnisse zu Finanzen, Marktdesign und Netzintegration.\n\n🚗 Updates zu Elektromobilität, lokalen Energiegemeinschaften und landwirtschaftlichem Verkehr.\n\n🏔️ Tiefe Einblicke in Fallstudien aus den Alpen und den Mittelländern.\n\n📊 Vorbereitungen für den nächsten Ausblick auf erneuerbare Energien.\n\n🌱 Campus-Gartentour und optionaler Besuch einer Fischzucht.\n\nWir freuen uns darauf, dass sich die Mitglieder des Konsortiums uns anschliessen, während wir die nächste Phase von EDGE gestalten!",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2025-09-04",
+    "event_end_date": "2025-09-05",
+    "event_time": "",
+    "timezone": "Europe/Zurich",
+    "event_location": "Wädenswil",
+    "registration_url": ""
+  },
+  "fr": {
+    "title": "Réunion du Consortium 2025",
+    "summary": "Notre prochaine réunion de consortium se tiendra en personne à Wädenswil les 4 et 5 septembre 2025.",
+    "image": "",
+    "image_alt": "Réunion du Consortium 2025",
+    "image_credit": "",
+    "body": "Le consortium EDGE se réunit deux fois par an.\n\nNotre prochaine réunion de consortium se tiendra en personne à Wädenswil les 4 et 5 septembre 2025.\n\nLe consortium EDGE se réunit deux fois par an pour échanger des idées, réfléchir aux progrès et planifier les prochaines étapes. Cette édition comprendra :\n\n🔍 Nouvelles découvertes sur la finance, la conception du marché et l'intégration du réseau.\n\n🚗 Mises à jour sur la mobilité électrique, les communautés énergétiques locales et le transport agricole.\n\n🏔️ Plongée approfondie dans les études de cas alpines et Midlands.\n\n📊 Préparatifs pour les prochaines Perspectives des énergies renouvelables.\n\n🌱 Visite des jardins du campus et visite facultative de la pisciculture.\n\nNous sommes impatients de voir les membres du consortium nous rejoindre alors que nous façonnons la prochaine phase d'EDGE !",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2025-09-04",
+    "event_end_date": "2025-09-05",
+    "event_time": "",
+    "timezone": "Europe/Zurich",
+    "event_location": "Wädenswil",
+    "registration_url": ""
+  }
 }

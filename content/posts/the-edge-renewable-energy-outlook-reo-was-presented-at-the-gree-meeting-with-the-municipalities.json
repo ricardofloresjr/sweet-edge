@@ -14,6 +14,34 @@
       "/en/news/the-edge-renewable-energy-outlook-reo-was-presented-at-the-gree-meeting-with-the-municipalities"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Der EDGE Renewable Energy Outlook (REO) wurde den Gemeinden am GREE-Treffen vorgestellt",
+    "summary": "Um Kontakte zu knüpfen und über Energie zu diskutieren, lud GREE Vertreter mehrerer Westschweizer Gemeinden mit Windenergieprojekten zu einem Treffen ein. Es fand am Donnerstag, 19. September 2024, am frühen Nachmittag im…",
+    "image": "/files/images/content/EDGE%20News%20REO.png",
+    "image_alt": "Der EDGE Renewable Energy Outlook (REO) wurde den Gemeinden am GREE-Treffen vorgestellt",
+    "image_credit": "",
+    "body": "Um Kontakte zu knüpfen und über Energie zu diskutieren, lud [GREE](https://gree-suisse.ch/) Vertreter mehrerer Westschweizer Gemeinden mit Windenergieprojekten zu einem Treffen ein. Es fand am Donnerstag, 19. September 2024, am frühen Nachmittag im [Wasserkraftwerk Veytaux](https://www.fmhl.ch/) statt, das von Forces Motrices Hongrin-Léman SA betrieben wird. Auf dem Programm standen die Vorstellung einer Studie zum Potenzial erneuerbarer Energien in der Schweiz und eine Besichtigung der gewaltigen hydraulischen Anlagen des Kraftwerks.\n\nEDGE-Co-Leiterin Professorin Evelina Trutnevyte von der Universität Genf stellte die Ergebnisse der Studie [_Renewable Energy Outlook for Switzerland_.](https://archive-ouverte.unige.ch/unige:172640) Die gemeinsame Arbeit der Universität Genf, der EPFL, der ETH Zürich und der Universität Bern zeigt, dass die Ziele des im Juni 2024 angenommenen neuen Stromgesetzes erreichbar sind. Bis 2035 können jährlich zusätzlich 17, 25 oder sogar 35 TWh aus erneuerbaren Quellen erzeugt werden.\n\n[\\-> Vollständigen Artikel lesen](https://gree-suisse.ch/rencontre-avec-les-communes-2024/)",
+    "source_url": "https://www.sweet-edge.ch/en/news/the-edge-renewable-energy-outlook-reo-was-presented-at-the-gree-meeting-with-the-municipalities",
+    "kind": "news",
+    "date": "2024-10-04",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/the-edge-renewable-energy-outlook-reo-was-presented-at-the-gree-meeting-with-the-municipalities"
+    ]
+  },
+  "fr": {
+    "title": "Le Renewable Energy Outlook (REO) d’EDGE présenté aux communes lors de la rencontre du GREE",
+    "summary": "Afin de favoriser les échanges et de discuter d’énergie, le GREE a invité des représentants de plusieurs communes romandes engagées dans des projets éoliens. La rencontre s’est tenue le jeudi 19 septembre 2024, en début d’après-midi, à…",
+    "image": "/files/images/content/EDGE%20News%20REO.png",
+    "image_alt": "Le Renewable Energy Outlook (REO) d’EDGE présenté aux communes lors de la rencontre du GREE",
+    "image_credit": "",
+    "body": "Afin de favoriser les échanges et de discuter d’énergie, le [GREE](https://gree-suisse.ch/) a invité des représentants de plusieurs communes romandes engagées dans des projets éoliens. La rencontre s’est tenue le jeudi 19 septembre 2024, en début d’après-midi, à la [centrale hydroélectrique de Veytaux](https://www.fmhl.ch/), exploitée par Forces Motrices Hongrin-Léman SA. Au programme : la présentation d’une étude sur le potentiel des énergies renouvelables en Suisse et la visite des gigantesques installations hydrauliques de la centrale.\n\nLa professeure Evelina Trutnevyte, codirectrice d’EDGE à l’Université de Genève, a présenté les résultats de l’étude [_Renewable Energy Outlook for Switzerland_.](https://archive-ouverte.unige.ch/unige:172640) Ces travaux, menés conjointement par l’Université de Genève, l’EPFL, l’ETH Zurich et l’Université de Berne, montrent que les objectifs de la nouvelle loi sur l’électricité, adoptée en juin 2024, sont réalisables. D’ici 2035, il est possible de produire 17, 25, voire 35 TWh supplémentaires par an à partir de sources renouvelables.\n\n[\\-> Lire l’article complet](https://gree-suisse.ch/rencontre-avec-les-communes-2024/)",
+    "source_url": "https://www.sweet-edge.ch/en/news/the-edge-renewable-energy-outlook-reo-was-presented-at-the-gree-meeting-with-the-municipalities",
+    "kind": "news",
+    "date": "2024-10-04",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/the-edge-renewable-energy-outlook-reo-was-presented-at-the-gree-meeting-with-the-municipalities"
+    ]
+  }
 }

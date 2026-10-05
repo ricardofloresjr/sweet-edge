@@ -14,6 +14,34 @@
       "/en/news/the-sweet-edge-survey-has-started"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Die SWEET EDGE-Umfrage hat begonnen!",
+    "summary": "Die nationale Umfrage zur Zukunft der Energieversorgung in allen Regionen der Schweiz hat begonnen. Wenn Sie ausgewählt wurden, freuen wir uns auf Ihre Teilnahme unter www.edge.ethz.ch mit Ihren persönlichen Zugangsdaten…",
+    "image": "/files/images/content/beautiful-switzerland-2021-09-01-10-34-45-utc.jpg",
+    "image_alt": "Die SWEET EDGE-Umfrage hat begonnen!",
+    "image_credit": "",
+    "body": "Die nationale Umfrage zur Zukunft der Energieversorgung in allen Regionen der Schweiz hat begonnen. Wenn Sie ausgewählt wurden, freuen wir uns auf Ihre Teilnahme unter [www.edge.ethz.ch](http://www.edge.ethz.ch/) mit Ihren persönlichen Zugangsdaten. Lassen Sie Ihre Stimme zählen! Vielen Dank für Ihre Teilnahme.\n\nUm die Qualität dieser Umfrage auf Grundlage einer Zufallsstichprobe der Schweizer Wohnbevölkerung zu gewährleisten, können nur Personen teilnehmen, die eine persönliche Einladung per Post erhalten haben. Vielen Dank für Ihr Verständnis.",
+    "source_url": "https://www.sweet-edge.ch/en/news/the-sweet-edge-survey-has-started",
+    "kind": "news",
+    "date": "2022-08-23",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/the-sweet-edge-survey-has-started"
+    ]
+  },
+  "fr": {
+    "title": "L’enquête SWEET EDGE a commencé !",
+    "summary": "L’enquête nationale sur l’avenir de l’approvisionnement énergétique dans toutes les régions de Suisse a commencé. Si vous avez été sélectionné, nous vous invitons à participer sur www.edge.ethz.ch avec vos identifiants personnels…",
+    "image": "/files/images/content/beautiful-switzerland-2021-09-01-10-34-45-utc.jpg",
+    "image_alt": "L’enquête SWEET EDGE a commencé !",
+    "image_credit": "",
+    "body": "L’enquête nationale sur l’avenir de l’approvisionnement énergétique dans toutes les régions de Suisse a commencé. Si vous avez été sélectionné, nous vous invitons à participer sur [www.edge.ethz.ch](http://www.edge.ethz.ch/) avec vos identifiants personnels. Faites entendre votre voix : nous nous réjouissons de votre participation et vous en remercions !\n\nPour garantir la qualité de cette enquête fondée sur un échantillon aléatoire de la population résidant en Suisse, seules les personnes ayant reçu une invitation personnelle par courrier postal peuvent y participer. Merci de votre compréhension.",
+    "source_url": "https://www.sweet-edge.ch/en/news/the-sweet-edge-survey-has-started",
+    "kind": "news",
+    "date": "2022-08-23",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/the-sweet-edge-survey-has-started"
+    ]
+  }
 }

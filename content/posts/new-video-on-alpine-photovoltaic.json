@@ -14,6 +14,34 @@
       "/en/news/new-video-on-alpine-photovoltaic"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Neues Video zur alpinen Photovoltaik",
+    "summary": "Mehrere Forscher stellen ihre neuesten Arbeiten zu Schweizer alpinen Solar-Photovoltaikanlagen vor, die häufig auch als alpine PV bezeichnet werden.",
+    "image": "/files/images/content/21.png",
+    "image_alt": "Neues Video zur alpinen Photovoltaik",
+    "image_credit": "",
+    "body": "Mehrere Forscher stellen ihre neuesten Arbeiten zu Schweizer alpinen Solar-Photovoltaikanlagen vor, die häufig auch als alpine PV bezeichnet werden.\n\n[In diesem Video](https://www.youtube.com/watch?v=itEsfdOBUZc) haben wir unsere Partner nach ihrem Fachgebiet zum Thema alpine PV wie folgt interviewt:\n\n• Evelina Trutnevyte, Co-Leiterin des SWEET EDGE-Programms an der Universität Genf (UNIGE): Brauchen wir wirklich alpine PV in der Schweiz?\n\n• Michael Lehning, Co-Leiter des SWEET EDGE-Programms an der Eidgenössischen Technischen Hochschule in Lausanne (EPFL): Was sind die technischen Vorteile der alpinen PV? Ist alpine PV wirklich effizienter? Was ist mit der Schneedecke?\n\n• Varun Sharma, Mitbegründer und CEO von SUNWELL: Wie könnte ein alpines PV-Projekt aussehen?\n\n• Yael Frischholz, Doktorandin im Bau- und Umweltingenieurwesen an der Eidgenössischen Technischen Hochschule in Lausanne (EPFL): Wie funktioniert Mutsee? Welche Forschung betreiben Sie?\n\n• Isabelle Stadelmann-Steffen, Professorin für Politikwissenschaft an der Universität Bern (UNIBE): Wie ist der aktuelle Stand der Politik? Sind alpine PV-Anlagen für die breite Öffentlichkeit akzeptabel?\n\n• Mak Dukan, Postdoktorand in der Forschungsgruppe Climate Finance & Policy (CFP) der Eidgenössischen Technischen Hochschule Zürich (ETH Zürich): Wie sieht es mit der Finanzierung alpiner PV aus?\n\nErfahren Sie mehr über den aktuellen Stand der alpinen PV in der Schweiz und teilen Sie uns Ihre Meinung in den Kommentaren unten! mit\n\n[\\>>> Link zum Video <<<](https://www.youtube.com/watch?v=itEsfdOBUZc)",
+    "source_url": "https://www.sweet-edge.ch/en/news/new-video-on-alpine-photovoltaic",
+    "kind": "news",
+    "date": "2023-07-05",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/new-video-on-alpine-photovoltaic"
+    ]
+  },
+  "fr": {
+    "title": "Nouvelle vidéo sur le photovoltaïque alpin",
+    "summary": "Plusieurs chercheurs présentent leurs derniers travaux sur les installations solaires photovoltaïques alpines suisses, également appelées PV alpines.",
+    "image": "/files/images/content/21.png",
+    "image_alt": "Nouvelle vidéo sur le photovoltaïque alpin",
+    "image_credit": "",
+    "body": "Plusieurs chercheurs présentent leurs derniers travaux sur les installations solaires photovoltaïques alpines suisses, également appelées PV alpines.\n\n[Dans cette vidéo](https://www.youtube.com/watch?v=itEsfdOBUZc), nous avons interviewé nos partenaires selon leur domaine d'expertise sur le PV alpin, comme suit :\n\n• Evelina Trutnevyte, Co-responsable du programme SWEET EDGE à l'Université de Genève (UNIGE) : A-t-on vraiment besoin du photovoltaïque alpin en Suisse ?\n\n• Michael Lehning, Co-responsable du programme SWEET EDGE à l'Ecole Polytechnique Fédérale de Lausanne (EPFL) : Quels sont les avantages techniques du photovoltaïque alpin ? Le photovoltaïque alpin est-il vraiment plus efficace ? Qu'en est-il de la couverture neigeuse ?\n\n• Varun Sharma, co-fondateur et PDG de SUNWELL : À quoi pourrait ressembler un projet photovoltaïque alpin ?\n\n• Yael Frischholz, doctorante en génie civil et environnemental à l'Ecole polytechnique fédérale de Lausanne (EPFL) : Comment fonctionne Mutsee ? Quelles recherches faites-vous ?\n\n• Isabelle Stadelmann-Steffen, professeur de sciences politiques à l'Université de Berne (UNIBE) : Quelle est la situation politique actuelle ? Les installations photovoltaïques alpines sont-elles acceptables pour le grand public ?\n\n• Mak Dukan, post-doctorant au sein du groupe de recherche Climate Finance & Policy (CFP) de l'École polytechnique fédérale de Zurich (ETH Zurich) : qu'en est-il du financement du photovoltaïque alpin ?\n\nApprenez-en davantage sur l’état actuel du photovoltaïque alpin en Suisse et dites-nous ce que vous pensez dans les commentaires ci-dessous!\n\n[\\>>> Lien vers la vidéo <<<](https://www.youtube.com/watch?v=itEsfdOBUZc)",
+    "source_url": "https://www.sweet-edge.ch/en/news/new-video-on-alpine-photovoltaic",
+    "kind": "news",
+    "date": "2023-07-05",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/new-video-on-alpine-photovoltaic"
+    ]
+  }
 }

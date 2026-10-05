@@ -14,6 +14,34 @@
       "/en/news/welcome-our-new-partners-in-economics"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Willkommen unseren neuen Partnern aus der Wirtschaftswissenschaft",
+    "summary": "Wir freuen uns über zwei neue EDGE-Partner aus der Wirtschaftswissenschaft.",
+    "image": "/files/images/content/Violet%20Moderne%20Illustr%C3%A9%203D%20Humains%20Quiz%20%C3%89ducation%20Diaporama.png",
+    "image_alt": "Willkommen unseren neuen Partnern aus der Wirtschaftswissenschaft",
+    "image_credit": "",
+    "body": "Wir freuen uns über zwei neue EDGE-Partner aus der Wirtschaftswissenschaft.\n\nUnsere erste Partnerin ist Regina Betz, Leiterin des Zentrums für Energie und Umwelt (CEE) [@ZHAW](https://twitter.com/ZHAW). Sie arbeitet mit Hannes Weigt von [@UniBasel\\_en.](https://twitter.com/UniBasel_en) zusammen.\n\nUnser zweiter neuer Partner ist Philippe Thalmann, Professor für Wirtschaftswissenschaft und Leiter des Labors für Umwelt- und Stadtökonomie\n\n[@EPFL\\_en](https://twitter.com/EPFL_en)\n\nHerzlich willkommen!",
+    "source_url": "https://www.sweet-edge.ch/en/news/welcome-our-new-partners-in-economics",
+    "kind": "news",
+    "date": "2022-05-11",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/welcome-our-new-partners-in-economics"
+    ]
+  },
+  "fr": {
+    "title": "Bienvenue à nos nouveaux partenaires en économie",
+    "summary": "Nous avons le plaisir d’annoncer l’arrivée de deux nouveaux partenaires EDGE en économie.",
+    "image": "/files/images/content/Violet%20Moderne%20Illustr%C3%A9%203D%20Humains%20Quiz%20%C3%89ducation%20Diaporama.png",
+    "image_alt": "Bienvenue à nos nouveaux partenaires en économie",
+    "image_credit": "",
+    "body": "Nous avons le plaisir d’annoncer l’arrivée de deux nouveaux partenaires EDGE en économie.\n\nNotre première partenaire est Regina Betz, directrice du Centre pour l’énergie et l’environnement (CEE) [@ZHAW](https://twitter.com/ZHAW), qui travaille avec Hannes Weigt de [@UniBasel\\_en.](https://twitter.com/UniBasel_en)\n\nNotre deuxième nouveau partenaire est Philippe Thalmann, professeur d’économie et directeur du laboratoire d’économie urbaine et de l’environnement\n\n[@EPFL\\_en](https://twitter.com/EPFL_en)\n\nBienvenue à toutes et à tous !",
+    "source_url": "https://www.sweet-edge.ch/en/news/welcome-our-new-partners-in-economics",
+    "kind": "news",
+    "date": "2022-05-11",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/welcome-our-new-partners-in-economics"
+    ]
+  }
 }

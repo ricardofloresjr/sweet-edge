@@ -14,6 +14,34 @@
       "/en/news/consortium-meetings-in-2024"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Konsortialtreffen im Jahr 2024",
+    "summary": "Das EDGE-Konsortium trifft sich zweimal im Jahr. Unser nächstes Konsortialtreffen findet am 9. April 2024 online statt, das nächste am 22. und 23. August 2024 persönlich in Luzern. Konsortialtreffen sind immer eine sehr schöne Möglichkeit, Ideen auszutauschen und zu reflektieren…",
+    "image": "/files/images/content/IMG_20230831_104641.jpg",
+    "image_alt": "Konsortialtreffen im Jahr 2024",
+    "image_credit": "",
+    "body": "Das EDGE-Konsortium trifft sich zweimal im Jahr. Unser nächstes Konsortialtreffen wird am 9. April 2024 online stattfinden, das nächste am 22. und 23. August 2024 persönlich in Luzern. Konsortialtreffen sind immer eine sehr schöne Möglichkeit, Ideen auszutauschen und über die erzielten Fortschritte zu reflektieren. Unser letztes persönliches Konsortiumstreffen fand einen Tag nach der alle zwei Jahre stattfindenden Konferenz am 23. August 2023 in Bern statt.",
+    "source_url": "https://www.sweet-edge.ch/en/news/consortium-meetings-in-2024",
+    "kind": "news",
+    "date": "2024-02-20",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/consortium-meetings-in-2024"
+    ]
+  },
+  "fr": {
+    "title": "Réunions du Consortium en 2024",
+    "summary": "Le consortium EDGE se réunit deux fois par an. Notre prochaine réunion de consortium se tiendra en ligne le 9 avril 2024 et la prochaine aura lieu en personne à Lucerne les 22 et 23 août 2024. Les réunions de consortium sont toujours de très belles façons d'échanger des idées et de réfléchir…",
+    "image": "/files/images/content/IMG_20230831_104641.jpg",
+    "image_alt": "Réunions du Consortium en 2024",
+    "image_credit": "",
+    "body": "Le consortium EDGE se réunit deux fois par an. Notre prochaine réunion de consortium se tiendra en ligne le 9 avril 2024 et la prochaine aura lieu en personne à Lucerne les 22 et 23 août 2024. Les réunions de consortium sont toujours un moyen très agréable d'échanger des idées et de réfléchir aux progrès réalisés. Notre dernière réunion de consortium en personne a eu lieu un jour après la conférence biennale à Berne le 23 août 2023.",
+    "source_url": "https://www.sweet-edge.ch/en/news/consortium-meetings-in-2024",
+    "kind": "news",
+    "date": "2024-02-20",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/consortium-meetings-in-2024"
+    ]
+  }
 }

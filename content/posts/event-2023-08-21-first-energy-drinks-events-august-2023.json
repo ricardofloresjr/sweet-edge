@@ -16,6 +16,38 @@
     "event_location": "Bern",
     "registration_url": ""
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Erste „Energy Drinks“-Events – August 2023",
+    "summary": "Am Abend des 21. und 23. August 2023 führte EDGE seine ersten beiden Outreach-Veranstaltungen in Bern durch. Diese Veranstaltungen heissen „Energy Drinks“: Man kommt an die Bar, trinkt etwas und hört sich dabei pro Abend vier Vorträge zu aktuellen Energiethemen in der Schweiz an.",
+    "image": "/files/images/content/Energy%20Drinks/first_ED_en.png",
+    "image_alt": "Erste „Energy Drinks“-Events – August 2023",
+    "image_credit": "",
+    "body": "EDGE veranstaltete an den Abenden des 21. und 23. August 2023 seine ersten beiden Outreach-Veranstaltungen in Bern. Diese Veranstaltungen heissen „Energy Drinks“: Sie kommen zu einem Drink an die Bar und hören sich dabei vier Vorträge pro Abend zu aktuellen Energiethemen in der Schweiz an, gefolgt von Spielen, Quiz und Preisen zu gewinnen!\n\nDas vollständige Programm finden Sie [hier](/news/energy-drinks-event-in-bern-3/)",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2023-08-21",
+    "event_end_date": "2023-08-23",
+    "event_time": "",
+    "timezone": "Europe/Zurich",
+    "event_location": "Bern",
+    "registration_url": ""
+  },
+  "fr": {
+    "title": "Premiers événements \"Energy Drinks\" - Août 2023",
+    "summary": "EDGE a organisé ses deux premiers événements de sensibilisation à Berne les soirs du 21 et du 23 août 2023. Ces événements sont appelés \"Energy Drinks\": vous venez prendre un verre au bar en écoutant quatre présentations par soir sur des sujets brûlants en matière d'énergie en Suisse,…",
+    "image": "/files/images/content/Energy%20Drinks/first_ED_en.png",
+    "image_alt": "Premiers événements \"Energy Drinks\" - Août 2023",
+    "image_credit": "",
+    "body": "EDGE a organisé ses deux premiers événements de sensibilisation à Berne les soirs du 21 et du 23 août 2023. Ces événements sont appelés \"Energy Drinks\" : vous venez prendre un verre au bar en écoutant quatre présentations par soir sur des sujets énergétiques chauds en Suisse, suivis de jeux, quiz et prix à gagner !\n\nProgramme complet accessible [ici](/news/energy-drinks-event-in-bern-3/)",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2023-08-21",
+    "event_end_date": "2023-08-23",
+    "event_time": "",
+    "timezone": "Europe/Zurich",
+    "event_location": "Berne",
+    "registration_url": ""
+  }
 }

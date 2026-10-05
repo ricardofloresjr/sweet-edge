@@ -14,6 +14,34 @@
       "/en/news/watch-our-partner-s-illustrated-video-interview"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Sehen Sie das illustrierte Videointerview mit unserem Partner!",
+    "summary": "Entdecken Sie die Arbeit von Christof BUCHER, Professor für Photovoltaiksysteme am Photovoltaik-Labor der Berner Fachhochschule (BFH). Er untersucht vor allem PV-Systeme, die von der Privatindustrie nicht getestet werden können…",
+    "image": "/files/images/content/bucher_english.jpg",
+    "image_alt": "Sehen Sie das illustrierte Videointerview mit unserem Partner!",
+    "image_credit": "",
+    "body": "Entdecken Sie die Arbeit von Christof BUCHER, Professor für Photovoltaiksysteme am Photovoltaik-Labor (PV Lab) der Berner Fachhochschule (BFH). Er untersucht vor allem PV-Systeme, die von der Privatindustrie nicht getestet werden können. [\\-> Hier das vollständige Video auf Englisch ansehen](https://www.youtube.com/watch?v=Mk4VqEdDZCc)\n\nDas Video ist auch -> [hier auf Deutsch verfügbar](https://www.youtube.com/watch?v=hgwTBxx3oGg)",
+    "source_url": "https://www.sweet-edge.ch/en/news/watch-our-partner-s-illustrated-video-interview",
+    "kind": "news",
+    "date": "2022-11-02",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/watch-our-partner-s-illustrated-video-interview"
+    ]
+  },
+  "fr": {
+    "title": "Découvrez l’entretien vidéo illustré de notre partenaire !",
+    "summary": "Découvrez les travaux de Christof BUCHER, professeur de systèmes photovoltaïques au laboratoire photovoltaïque de la Haute école spécialisée bernoise (BFH). Ses recherches portent principalement sur les essais de systèmes PV que le secteur privé ne peut pas…",
+    "image": "/files/images/content/bucher_english.jpg",
+    "image_alt": "Découvrez l’entretien vidéo illustré de notre partenaire !",
+    "image_credit": "",
+    "body": "Découvrez les travaux de Christof BUCHER, professeur de systèmes photovoltaïques au laboratoire photovoltaïque (PV Lab) de la Haute école spécialisée bernoise (BFH). Ses recherches portent principalement sur les essais de systèmes PV que le secteur privé ne peut pas tester. [\\-> Regardez la vidéo complète en anglais ici](https://www.youtube.com/watch?v=Mk4VqEdDZCc)\n\nCette vidéo est également disponible -> [en allemand ici](https://www.youtube.com/watch?v=hgwTBxx3oGg)",
+    "source_url": "https://www.sweet-edge.ch/en/news/watch-our-partner-s-illustrated-video-interview",
+    "kind": "news",
+    "date": "2022-11-02",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/watch-our-partner-s-illustrated-video-interview"
+    ]
+  }
 }

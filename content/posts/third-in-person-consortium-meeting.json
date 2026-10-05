@@ -14,6 +14,34 @@
       "/en/news/third-in-person-consortium-meeting"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Drittes Konsortialtreffen vor Ort",
+    "summary": "Unser drittes EDGE-Konsortialtreffen vor Ort findet am 23. August 2023 an der Universität Bern statt. Es bietet Gelegenheit zum Ideenaustausch und zur Reflexion über das vergangene Jahr sowie die Diskussionen der ersten zweijährlichen EDGE-Konferenz…",
+    "image": "/files/images/content/group%20pic.jpg",
+    "image_alt": "Drittes Konsortialtreffen vor Ort",
+    "image_credit": "",
+    "body": "Unser drittes EDGE-Konsortialtreffen vor Ort findet am 23. August 2023 an der Universität Bern statt. Es bietet eine hervorragende Gelegenheit zum Ideenaustausch und zur Reflexion über das vergangene Jahr sowie die Diskussionen der ersten zweijährlichen EDGE-Konferenz vom 22. August 2023. Gemeinsam arbeiten wir an einer vollständig erneuerbaren Energieversorgung der Schweiz!",
+    "source_url": "https://www.sweet-edge.ch/en/news/third-in-person-consortium-meeting",
+    "kind": "news",
+    "date": "2023-04-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/third-in-person-consortium-meeting"
+    ]
+  },
+  "fr": {
+    "title": "Troisième réunion du consortium en présentiel",
+    "summary": "Notre troisième réunion du consortium EDGE en présentiel aura lieu le 23 août 2023 à l’Université de Berne. Ce sera une excellente occasion d’échanger des idées et de revenir sur l’année écoulée ainsi que sur les discussions de la première conférence biennale…",
+    "image": "/files/images/content/group%20pic.jpg",
+    "image_alt": "Troisième réunion du consortium en présentiel",
+    "image_credit": "",
+    "body": "Notre troisième réunion du consortium EDGE en présentiel aura lieu le 23 août 2023 à l’Université de Berne. Ce sera une excellente occasion d’échanger des idées et de revenir sur l’année écoulée ainsi que sur les discussions de la première conférence biennale EDGE du 22 août 2023. Nous travaillons ensemble pour une Suisse entièrement alimentée par des énergies renouvelables !",
+    "source_url": "https://www.sweet-edge.ch/en/news/third-in-person-consortium-meeting",
+    "kind": "news",
+    "date": "2023-04-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/third-in-person-consortium-meeting"
+    ]
+  }
 }

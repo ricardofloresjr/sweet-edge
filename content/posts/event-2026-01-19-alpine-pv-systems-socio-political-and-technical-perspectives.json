@@ -16,6 +16,38 @@
     "event_location": "Online",
     "registration_url": "https://forms.office.com/e/RqFRt8eKhn"
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Alpine PV-Anlagen: Gesellschaftspolitische und technische Perspektiven",
+    "summary": "In diesem Webinar erleben Sie alpine PV-Anlagen aus drei Perspektiven gleichzeitig: technisch, sozial und netztechnisch. Sie erfahren, wie Projekte unter alpinen Bedingungen realisiert werden, welche politischen und gesellschaftlichen Faktoren über die Akzeptanz entscheiden und was…",
+    "image": "/files/images/logos/Ricardos%20files/Adobe%20Express%20-%20file.png",
+    "image_alt": "Alpine PV-Anlagen: Gesellschaftspolitische und technische Perspektiven",
+    "image_credit": "",
+    "body": "#### Registrieren Sie sich jetzt und gewinnen Sie wertvolle Experteneinblicke in die erfolgreiche Umsetzung alpiner PV-Anlagen.\n\nIn diesem Webinar erleben Sie alpine PV-Anlagen aus drei Perspektiven gleichzeitig: technisch, sozial und netztechnisch. Sie erfahren, wie Projekte unter alpinen Bedingungen realisiert werden, welche politischen und gesellschaftlichen Faktoren die Akzeptanz bestimmen und was für eine sichere Netzintegration entscheidend ist. Erhalten Sie fundiertes Wissen, konkrete Herausforderungen und bewährte Lösungen, die Sie direkt auf Ihre Entscheidungen, Planungen und Projekte anwenden können.\n\nIn diesem Webinar lernen Sie alpine PV-Anlagen aus drei Perspektiven gleichzeitig kennen: technische, soziale und netzbezogene.\n\n#### 🗓️ 19. Januar 2026 │ 🕐 11:40–12:50 │ 💬 Deutsch\n\n11:40–11:45 Uhr: Begrüssung (Christof Bucher, BFH)\n\n11:45–12:05: Technische Forschungsergebnisse (Michael Lehning, EPFL)\n\n11:55–12:05: Ergebnisse gesellschaftspolitischer Forschung (Isabelle Stadelmann-Steffen, UNIBE)\n\n12:05–12:15: Branchenperspektive (Andreas Hügli, REECH AG)\n\n12:15–12:50: Panel & Diskussion\n\n[\\-> Sicheres Expertenwissen](https://forms.office.com/e/RqFRt8eKhn)",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2026-01-19",
+    "event_end_date": "",
+    "event_time": "11:40",
+    "timezone": "Europe/Zurich",
+    "event_location": "Online",
+    "registration_url": "https://forms.office.com/e/RqFRt8eKhn"
+  },
+  "fr": {
+    "title": "Systèmes photovoltaïques alpins : perspectives sociopolitiques et techniques",
+    "summary": "Dans ce webinaire, vous découvrirez les systèmes photovoltaïques alpins sous trois angles simultanément : technique, social et lié au réseau. Vous apprendrez comment les projets sont réalisés dans des conditions alpines, quels facteurs politiques et sociaux déterminent l'acceptation, et quoi…",
+    "image": "/files/images/logos/Ricardos%20files/Adobe%20Express%20-%20file.png",
+    "image_alt": "Systèmes photovoltaïques alpins : perspectives sociopolitiques et techniques",
+    "image_credit": "",
+    "body": "#### Inscrivez-vous dès maintenant et bénéficiez de précieux conseils d'experts sur la mise en œuvre réussie de systèmes photovoltaïques alpins.\n\nDans ce webinaire, vous découvrirez les systèmes photovoltaïques alpins sous trois angles simultanément : technique, social et lié au réseau. Vous apprendrez comment les projets sont réalisés dans des conditions alpines, quels facteurs politiques et sociaux déterminent l'acceptation et ce qui est crucial pour une intégration sécurisée au réseau. Obtenez des connaissances approfondies, des défis concrets et des solutions éprouvées que vous pouvez appliquer directement à vos décisions, votre planification et vos projets.\n\nDans ce webinaire, vous découvrirez les systèmes photovoltaïques alpins sous trois angles simultanément : technique, social et lié au réseau.\n\n#### 🗓️ 19 janvier 2026 │ 🕐 11h40-12h50 │ 💬 Allemand\n\n11h40-11h45 : bienvenue (Christof Bucher, BFH)\n\n11h45-12h05 : Résultats de la recherche technique (Michael Lehning, EPFL)\n\n11 h 55-12 h 05 : résultats de la recherche sociopolitique (Isabelle Stadelmann-Steffen, UNIBE)\n\n12h05-12h15 : Perspective de l'industrie (Andreas Hügli, REECH AG)\n\n12 h 15-12 h 50 : panel et discussion\n\n[\\-> Connaissances d'experts sécurisées](https://forms.office.com/e/RqFRt8eKhn)",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2026-01-19",
+    "event_end_date": "",
+    "event_time": "11:40",
+    "timezone": "Europe/Zurich",
+    "event_location": "En ligne",
+    "registration_url": "https://forms.office.com/e/RqFRt8eKhn"
+  }
 }

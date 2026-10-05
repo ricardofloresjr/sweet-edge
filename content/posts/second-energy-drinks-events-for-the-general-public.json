@@ -14,6 +14,34 @@
       "/en/news/second-energy-drinks-events-for-the-general-public"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Zweite Energy Drinks-Veranstaltungen für die breite Öffentlichkeit",
+    "summary": "Nach der Begeisterung der ersten Reihe der „Energy Drinks“-Veranstaltungen im August 2023 in Bern, bei der rund die Hälfte des Publikums ausserhalb von SWEET EDGE zusammenkam, werden wir das Erlebnis! wiederholen. Diese Veranstaltungen zielen darauf ab, die Öffentlichkeit bei einem Drink zu versammeln…",
+    "image": "/files/images/content/Energy%20Drinks/Flyer_EN.png",
+    "image_alt": "Zweite Energy Drinks-Veranstaltungen für die breite Öffentlichkeit",
+    "image_credit": "",
+    "body": "Nach der Begeisterung der ersten Reihe der „Energy Drinks“-Veranstaltungen im August 2023 in Bern, bei der rund die Hälfte des Publikums ausserhalb von SWEET EDGE zusammenkam, werden wir das Erlebnis! wiederholen. Ziel dieser Veranstaltungen ist es, das Publikum bei einem Drink zu versammeln und gleichzeitig mehrere Vorträge pro Abend zu aktuellen Energiethemen für die Schweiz zu hören. Um es lebendiger zu machen, werden nach jeder Präsentation Spiele mit dem Publikum organisiert und Preise gewonnen. Der Energy Drinks 2024 wird im Frühjahr in Zürich stattfinden.\n\nFür weitere Informationen behalten Sie unsere Veranstaltungsseite im Auge: /news.html",
+    "source_url": "https://www.sweet-edge.ch/en/news/second-energy-drinks-events-for-the-general-public",
+    "kind": "news",
+    "date": "2024-02-20",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/second-energy-drinks-events-for-the-general-public"
+    ]
+  },
+  "fr": {
+    "title": "Deuxièmes événements Energy Drinks grand public",
+    "summary": "Après l’engouement de la première série d’événements « Energy Drinks » en août 2023 à Berne, qui a rassemblé environ la moitié du public venant à l’extérieur de SWEET EDGE, nous réitérerons l’expérience !. Ces événements visent à rassembler le public autour d’un verre…",
+    "image": "/files/images/content/Energy%20Drinks/Flyer_EN.png",
+    "image_alt": "Deuxièmes événements Energy Drinks grand public",
+    "image_credit": "",
+    "body": "Après l'engouement de la première série d'événements « Energy Drinks » en août 2023 à Berne, qui a rassemblé environ la moitié du public venant de l'extérieur de SWEET EDGE, nous réitérerons l'expérience !. Ces événements visent à rassembler le public autour d'un verre en écoutant plusieurs présentations par soir sur des sujets brûlants en matière d'énergie pour la Suisse. Pour le rendre plus vivant, des jeux avec le public sont organisés après chaque présentation et des prix sont gagnés. Le Energy Drinks 2024 se tiendra à Zurich au printemps.\n\nPour plus d'informations, gardez un œil sur notre page Web d'événements : /news.html",
+    "source_url": "https://www.sweet-edge.ch/en/news/second-energy-drinks-events-for-the-general-public",
+    "kind": "news",
+    "date": "2024-02-20",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/second-energy-drinks-events-for-the-general-public"
+    ]
+  }
 }

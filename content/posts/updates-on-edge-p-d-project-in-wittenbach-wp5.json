@@ -14,6 +14,34 @@
       "/en/news/updates-on-edge-p-d-project-in-wittenbach-wp5"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Neuigkeiten zum EDGE-Pilot- und Demonstrationsprojekt in Wittenbach (WP5)",
+    "summary": "Unser Forschungspartner Prof. Jürg Rohrer von der ZHAW bringt das EDGE-Pilot- und Demonstrationsprojekt im Schweizer Mittelland voran (WP 5).",
+    "image": "/files/images/content/Capture.JPG",
+    "image_alt": "Neuigkeiten zum EDGE-Pilot- und Demonstrationsprojekt in Wittenbach (WP5)",
+    "image_credit": "",
+    "body": "Unser Forschungspartner Prof. Jürg Rohrer von der ZHAW bringt das EDGE-Pilot- und Demonstrationsprojekt im Schweizer Mittelland voran (WP 5).\n\nDen vollständigen Artikel im St. Galler Tagblatt finden Sie -> [hier](https://drive.google.com/file/d/1Fhf_rNUiJdF_9nFc_xe0HiXuvQgBSIQN/view?usp=sharing) \\[auf Deutsch\\]\n\nDen Beitrag von Radio SRF können Sie -> [hier anhören](https://avenue.argusdatainsights.ch/Article/AvenueClip?avenueGUID=33e14bde24e14bceaf303dbc3b971ca1&aboNrIntern=1053061&herkunftOriginalId=84550066&dateitypId=4) \\[auf Deutsch\\]",
+    "source_url": "https://www.sweet-edge.ch/en/news/updates-on-edge-p-d-project-in-wittenbach-wp5",
+    "kind": "news",
+    "date": "2022-06-22",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/updates-on-edge-p-d-project-in-wittenbach-wp5"
+    ]
+  },
+  "fr": {
+    "title": "Nouvelles du projet pilote et de démonstration EDGE à Wittenbach (WP5)",
+    "summary": "Notre partenaire de recherche, le prof. Jürg Rohrer de la ZHAW, fait avancer le projet pilote et de démonstration EDGE sur le Plateau suisse (WP 5).",
+    "image": "/files/images/content/Capture.JPG",
+    "image_alt": "Nouvelles du projet pilote et de démonstration EDGE à Wittenbach (WP5)",
+    "image_credit": "",
+    "body": "Notre partenaire de recherche, le prof. Jürg Rohrer de la ZHAW, fait avancer le projet pilote et de démonstration EDGE sur le Plateau suisse (WP 5).\n\nRetrouvez l’article complet du St. Galler Tagblatt -> [article complet ici](https://drive.google.com/file/d/1Fhf_rNUiJdF_9nFc_xe0HiXuvQgBSIQN/view?usp=sharing) \\[en allemand\\]\n\nÉcoutez également l’émission de la radio SRF -> [émission ici](https://avenue.argusdatainsights.ch/Article/AvenueClip?avenueGUID=33e14bde24e14bceaf303dbc3b971ca1&aboNrIntern=1053061&herkunftOriginalId=84550066&dateitypId=4) \\[en allemand\\]",
+    "source_url": "https://www.sweet-edge.ch/en/news/updates-on-edge-p-d-project-in-wittenbach-wp5",
+    "kind": "news",
+    "date": "2022-06-22",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/updates-on-edge-p-d-project-in-wittenbach-wp5"
+    ]
+  }
 }

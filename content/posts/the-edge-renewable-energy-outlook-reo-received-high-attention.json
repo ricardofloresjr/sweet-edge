@@ -14,6 +14,34 @@
       "/en/news/the-edge-renewable-energy-outlook-reo-received-high-attention"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Der EDGE Renewable Energy Outlook for Switzerland fand grosse Beachtung",
+    "summary": "Seit seiner Veröffentlichung wurde der Renewable Energy Outlook for Switzerland (REO) über 1’800-mal heruntergeladen. Er wurde in fast 40 Artikeln vorgestellt, darunter in NZZ und Le Temps, sowie im Fernsehen bei SRF Eco Talk (14:48) und RTS (04:21).",
+    "image": "/files/images/content/REO_highlights.png",
+    "image_alt": "Der EDGE Renewable Energy Outlook for Switzerland fand grosse Beachtung",
+    "image_credit": "",
+    "body": "Seit seiner Veröffentlichung wurde der [Renewable Energy Outlook for Switzerland](https://archive-ouverte.unige.ch/unige:172640) (REO) über 1’800-mal heruntergeladen. Er wurde in fast 40 Artikeln vorgestellt, darunter in den nationalen Medien [NZZ](https://revue-presse.unige.ch/files/articles/2024-04-08/430568645.pdf) und [Le Temps](https://revue-presse.unige.ch/files/articles/2024-05-10/436602327.pdf), sowie im Fernsehen bei [SRF Eco Talk](https://www.srf.ch/play/tv/eco-talk/video/was-kostet-uns-das-stromgesetz?urn=urn:srf:video:8d859907-8bc8-4fa8-929d-2d507f897932) (14:48) und [RTS](https://www.rts.ch/play/tv/19h30/video/la-confederation-ambitionne-de-disposer-dun-approvisionnement-en-electricite-entierement-renouvelable-dici-2035?urn=urn:rts:video:14636245) (04:21).\n\nQuelle: TRUTNEVYTE, Evelina et al. 2024. Doi: 10.13097/archive-ouverte/unige:172640.\n\nREO herunterladen: https://archive-ouverte.unige.ch/unige:172640",
+    "source_url": "https://www.sweet-edge.ch/en/news/the-edge-renewable-energy-outlook-reo-received-high-attention",
+    "kind": "news",
+    "date": "2024-05-29",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/the-edge-renewable-energy-outlook-reo-received-high-attention"
+    ]
+  },
+  "fr": {
+    "title": "Le Renewable Energy Outlook for Switzerland d’EDGE a suscité un vif intérêt",
+    "summary": "Depuis sa publication, le Renewable Energy Outlook for Switzerland (REO) a été téléchargé plus de 1 800 fois. Il a été présenté dans près de 40 articles, notamment dans la NZZ et Le Temps, ainsi qu’à la télévision dans SRF Eco Talk (14:48) et sur la RTS (04:21).",
+    "image": "/files/images/content/REO_highlights.png",
+    "image_alt": "Le Renewable Energy Outlook for Switzerland d’EDGE a suscité un vif intérêt",
+    "image_credit": "",
+    "body": "Depuis sa publication, le [Renewable Energy Outlook for Switzerland](https://archive-ouverte.unige.ch/unige:172640) (REO) a été téléchargé plus de 1 800 fois. Il a été présenté dans près de 40 articles, notamment dans les médias nationaux [NZZ](https://revue-presse.unige.ch/files/articles/2024-04-08/430568645.pdf) et [Le Temps](https://revue-presse.unige.ch/files/articles/2024-05-10/436602327.pdf), ainsi qu’à la télévision dans [SRF Eco Talk](https://www.srf.ch/play/tv/eco-talk/video/was-kostet-uns-das-stromgesetz?urn=urn:srf:video:8d859907-8bc8-4fa8-929d-2d507f897932) (14:48) et sur la [RTS](https://www.rts.ch/play/tv/19h30/video/la-confederation-ambitionne-de-disposer-dun-approvisionnement-en-electricite-entierement-renouvelable-dici-2035?urn=urn:rts:video:14636245) (04:21).\n\nRéférence : TRUTNEVYTE, Evelina et al. 2024. Doi : 10.13097/archive-ouverte/unige:172640.\n\nTélécharger le REO : https://archive-ouverte.unige.ch/unige:172640",
+    "source_url": "https://www.sweet-edge.ch/en/news/the-edge-renewable-energy-outlook-reo-received-high-attention",
+    "kind": "news",
+    "date": "2024-05-29",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/the-edge-renewable-energy-outlook-reo-received-high-attention"
+    ]
+  }
 }

@@ -7,7 +7,10 @@ site design and existing `.html` page URLs are preserved.
 ## What is ready
 
 - 69 news articles and 14 event entries imported from the previous website.
-- 8 French and 10 German article versions retained where the source provided them.
+- All 84 current entries have complete French and German versions. The original
+  8 French and 10 German versions were retained; 150 missing versions were added
+  through machine-assisted translation and targeted review. See
+  `archive-translations.json` for the inventory.
 - 74 local media/download assets copied from the original site. External services,
   such as YouTube and Google Drive, retain their original links.
 - Individual EN/DE/FR article URLs; untranslated articles display their English

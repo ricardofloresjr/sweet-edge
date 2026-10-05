@@ -14,6 +14,34 @@
       "/en/news/third-site-visit"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Drittes Evaluationstreffen",
+    "summary": "Wir freuen uns, Vertreter des Bundesamts für Energie und internationale Fachleute zum dritten EDGE-Evaluationstreffen am 24. und 25. Juni 2024 zu begrüssen. Wir werden die neuesten Entwicklungen und die Fortschritte seit…",
+    "image": "/files/images/content/IMG_20220830_140345%20(1).jpg",
+    "image_alt": "Drittes Evaluationstreffen",
+    "image_credit": "",
+    "body": "Wir freuen uns, Vertreter des Bundesamts für Energie und internationale Fachleute zum dritten EDGE-Evaluationstreffen am 24. und 25. Juni 2024 zu begrüssen. Wir werden die neuesten Entwicklungen und die Fortschritte seit dem zweiten Evaluationstreffen im Juni 2023 vorstellen und dabei alle Kommentare und Empfehlungen berücksichtigen. Dies bietet eine hervorragende Gelegenheit, die ersten drei Jahre des EDGE-Konsortiums zu reflektieren.",
+    "source_url": "https://www.sweet-edge.ch/en/news/third-site-visit",
+    "kind": "news",
+    "date": "2024-02-20",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/third-site-visit"
+    ]
+  },
+  "fr": {
+    "title": "Troisième réunion d’évaluation",
+    "summary": "Nous nous réjouissons d’accueillir des membres de l’Office fédéral de l’énergie et des experts internationaux pour la troisième réunion d’évaluation EDGE les 24 et 25 juin 2024. Nous présenterons les dernières avancées et les progrès accomplis depuis…",
+    "image": "/files/images/content/IMG_20220830_140345%20(1).jpg",
+    "image_alt": "Troisième réunion d’évaluation",
+    "image_credit": "",
+    "body": "Nous nous réjouissons d’accueillir des membres de l’Office fédéral de l’énergie et des experts internationaux pour la troisième réunion d’évaluation EDGE les 24 et 25 juin 2024. Nous présenterons les dernières avancées et les progrès accomplis depuis la deuxième réunion d’évaluation de juin 2023, en tenant compte de tous les commentaires et recommandations. Ce sera une excellente occasion de faire le bilan des trois premières années du consortium EDGE.",
+    "source_url": "https://www.sweet-edge.ch/en/news/third-site-visit",
+    "kind": "news",
+    "date": "2024-02-20",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/third-site-visit"
+    ]
+  }
 }

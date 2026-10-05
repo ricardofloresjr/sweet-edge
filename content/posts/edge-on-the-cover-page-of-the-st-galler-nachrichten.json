@@ -14,6 +14,34 @@
       "/en/news/edge-on-the-cover-page-of-the-st-galler-nachrichten"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "EDGE auf der Titelseite der St. Galler Nachrichten",
+    "summary": "Zoomen Sie auf das EDGE-Pilotprojekt in Wittenbach, das Vorreiter bei der Energiewende sein will. Durch die Teilnahme am EDGE-Forschungskonsortium schliesst sich Wittenbach einer ausgewählten Gruppe von Schweizer Gemeinden an, die bis 2026 zeigen wollen, was eine wirklich nachhaltige…",
+    "image": "/files/images/content/EDGE%20News.jpg",
+    "image_alt": "EDGE auf der Titelseite der St. Galler Nachrichten",
+    "image_credit": "",
+    "body": "Zoom auf das EDGE-Pilotprojekt in Wittenbach, das Vorreiter bei der Energiewende sein will. Mit der Teilnahme am EDGE-Forschungskonsortium schliesst sich Wittenbach einer ausgewählten Gruppe von Schweizer Gemeinden an, die bis 2026 zeigen wollen, wie eine wirklich nachhaltige Energieversorgung aussehen könnte.\n\nWichtige Elemente sind der Ausbau von Photovoltaikanlagen wie:  \n\\- Dachinstallationen  \n\\- Parkplatzdächer  \n\\- Agrar-PV-Systeme\n\n„Wir nutzen bewusst bestehende Technologien und optimieren deren Umsetzung“, sagt unser Forschungspartner Nicolas Stocker von der ZHAW Zürcher Hochschule für Angewandte Wissenschaften, dem wissenschaftlichen Partner des Projekts in Wittenbach.\n\n[\\-> Den vollständigen Artikel lesen](https://st-galler-nachrichten.ch/st-gallen/detail/wittenbach-auf-dem-weg-zur-energiezukunft)",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-on-the-cover-page-of-the-st-galler-nachrichten",
+    "kind": "news",
+    "date": "2025-03-13",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-on-the-cover-page-of-the-st-galler-nachrichten"
+    ]
+  },
+  "fr": {
+    "title": "EDGE sur la page de couverture du St. Galler Nachrichten",
+    "summary": "Zoom sur le projet pilote EDGE à Wittenbach, qui se veut pionnier dans la transition énergétique. En participant au consortium de recherche EDGE, Wittenbach rejoint un groupe restreint de communes suisses visant à démontrer d'ici 2026 ce qu'est une véritable…",
+    "image": "/files/images/content/EDGE%20News.jpg",
+    "image_alt": "EDGE sur la page de couverture du St. Galler Nachrichten",
+    "image_credit": "",
+    "body": "Zoom sur le projet pilote EDGE à Wittenbach, qui se veut pionnier dans la transition énergétique. En participant au consortium de recherche EDGE, Wittenbach rejoint un groupe restreint de communes suisses visant à démontrer d'ici 2026 à quoi pourrait ressembler un approvisionnement énergétique véritablement durable.\n\nLes éléments clés incluent l'expansion des systèmes photovoltaïques tels que :  \n\\- installations sur toit  \n\\- toitures de parkings  \n\\- systèmes agro-PV\n\n\"Nous exploitons consciemment les technologies existantes et optimisons leur mise en œuvre\", déclare notre partenaire de recherche Nicolas Stocker de la ZHAW Haute école spécialisée de Zurich, partenaire scientifique du projet à Wittenbach.\n\n[\\-> Lire l'article complet](https://st-galler-nachrichten.ch/st-gallen/detail/wittenbach-auf-dem-weg-zur-energiezukunft)",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-on-the-cover-page-of-the-st-galler-nachrichten",
+    "kind": "news",
+    "date": "2025-03-13",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-on-the-cover-page-of-the-st-galler-nachrichten"
+    ]
+  }
 }

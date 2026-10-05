@@ -14,6 +14,34 @@
       "/en/news/edge-first-site-visit"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Der erste EDGE-Standortbesuch fand statt",
+    "summary": "Wir freuen uns sehr, BFE-Mitglieder und internationale Experten Ende August 2022 zum EDGE Evaluation Meeting in Genf begrüssen zu dürfen. Es wurden sehr interessante Punkte angesprochen und konstruktives Feedback wird berücksichtigt. Die nächste Programmevaluierung…",
+    "image": "/files/images/content/IMG_20220830_140345%20(1).jpg",
+    "image_alt": "Der erste EDGE-Standortbesuch fand statt",
+    "image_credit": "",
+    "body": "Wir freuen uns sehr, BFE-Mitglieder und internationale Experten Ende August 2022 zum EDGE Evaluation Meeting in Genf begrüssen zu dürfen. Es wurden sehr interessante Punkte angesprochen und konstruktives Feedback wird berücksichtigt. Das nächste Programmevaluierungstreffen ist für Juni 2023 geplant.",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-first-site-visit",
+    "kind": "news",
+    "date": "2022-10-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-first-site-visit"
+    ]
+  },
+  "fr": {
+    "title": "La première visite du site EDGE a eu lieu",
+    "summary": "Nous sommes très heureux d'avoir accueilli des membres de l'OFEN et des experts internationaux à Genève pour la réunion d'évaluation EDGE fin août 2022. Des points très intéressants ont été soulevés et les retours constructifs seront pris en compte. La prochaine évaluation du programme…",
+    "image": "/files/images/content/IMG_20220830_140345%20(1).jpg",
+    "image_alt": "La première visite du site EDGE a eu lieu",
+    "image_credit": "",
+    "body": "Nous sommes très heureux d'avoir accueilli des membres de l'OFEN et des experts internationaux à Genève pour la réunion d'évaluation EDGE fin août 2022. Des points très intéressants ont été soulevés et les retours constructifs seront pris en compte. La prochaine réunion d'évaluation du programme est prévue en juin 2023.",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-first-site-visit",
+    "kind": "news",
+    "date": "2022-10-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-first-site-visit"
+    ]
+  }
 }

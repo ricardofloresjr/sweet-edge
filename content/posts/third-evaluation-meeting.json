@@ -14,6 +14,34 @@
       "/en/news/third-evaluation-meeting"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "EDGE hat das dritte Evaluationstreffen des Konsortiums durchgeführt",
+    "summary": "Das EDGE-Konsortium begrüsste Vertreter des Bundesamts für Energie und internationale Fachleute zum dritten Evaluationstreffen am 24. und 25. Juni 2024 in Davos. EDGE präsentierte die neuesten Entwicklungen und die Fortschritte seit…",
+    "image": "/files/images/content/Site%20visit.jpg",
+    "image_alt": "EDGE hat das dritte Evaluationstreffen des Konsortiums durchgeführt",
+    "image_credit": "",
+    "body": "Das EDGE-Konsortium begrüsste Vertreter des Bundesamts für Energie und internationale Fachleute zum dritten Evaluationstreffen am 24. und 25. Juni 2024 in Davos. EDGE präsentierte die neuesten Entwicklungen und die Fortschritte seit dem zweiten Evaluationstreffen im Juni 2023.\n\nZusätzlich organisierte EDGE einen Ausflug zum Standort Totalp, der direkt mit den Pilot- und Demonstrationsaktivitäten des Projekts verbunden war. Das Team besichtigte die Solarmodule im Hochgebirge, umgeben von typischer Skigebietsinfrastruktur, die Potenzial für nachhaltige Infrastrukturen bieten könnte.",
+    "source_url": "https://www.sweet-edge.ch/en/news/third-evaluation-meeting",
+    "kind": "news",
+    "date": "2024-07-04",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/third-evaluation-meeting"
+    ]
+  },
+  "fr": {
+    "title": "EDGE vient de tenir la troisième réunion d’évaluation du consortium",
+    "summary": "Le consortium EDGE a accueilli des membres de l’Office fédéral de l’énergie et des experts internationaux pour sa troisième réunion d’évaluation, les 24 et 25 juin 2024 à Davos. Il a présenté ses dernières avancées et les progrès réalisés depuis…",
+    "image": "/files/images/content/Site%20visit.jpg",
+    "image_alt": "EDGE vient de tenir la troisième réunion d’évaluation du consortium",
+    "image_credit": "",
+    "body": "Le consortium EDGE a accueilli des membres de l’Office fédéral de l’énergie et des experts internationaux pour sa troisième réunion d’évaluation, les 24 et 25 juin 2024 à Davos. Il a présenté ses dernières avancées et les progrès réalisés depuis la deuxième réunion d’évaluation de juin 2023.\n\nEDGE a également organisé une excursion sur le site de Totalp, directement liée à ses activités pilotes et de démonstration. L’équipe a découvert les panneaux solaires installés en haute montagne, au milieu d’infrastructures typiques des stations de ski qui pourraient offrir des possibilités de développement d’infrastructures durables.",
+    "source_url": "https://www.sweet-edge.ch/en/news/third-evaluation-meeting",
+    "kind": "news",
+    "date": "2024-07-04",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/third-evaluation-meeting"
+    ]
+  }
 }

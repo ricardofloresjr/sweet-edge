@@ -17,23 +17,37 @@
     "image_credit": "Ricardo Flores"
   },
   "de": {
-    "kind": "event",
     "draft": false,
+    "body": "Die Konferenz bringt Forschende, politische Entscheidungsträger, Energiefachleute sowie Vertreter der Industrie und der Zivilgesellschaft zu einem Tag des Austauschs, der Debatte und praxisnaher Erkenntnisse zusammen. Das Programm stellt zentrale Ergebnisse von **SWEET EDGE** vor, darunter den **dritten Renewable Energy Outlook** und neue Erkenntnisse zur öffentlichen Akzeptanz.\n\nDie Teilnehmenden befassen sich mit drängenden Fragen der Schweizer Energiepolitik und -praxis: erneuerbare Erzeugung, die Rolle neuer Kernkraftwerke, wirksame und gerechte Massnahmen für die Energiewende, kommunale Energieplanung, Winterstromversorgung, Netze, Flexibilität und Systemstabilisierung.\n\nAm Nachmittag bieten parallele Vertiefungssitzungen Raum für Diskussionen über kommunale Energieplanung und Empfehlungstools, das Schliessen der Winterstromlücke mit Wind- und Solarenergie sowie die Zukunft der Verteilnetze und der Flexibilität. Den Abschluss bildet eine Podiumsdiskussion über die bleibenden Beiträge von EDGE und offene Fragen zur Schweizer Energiezukunft.\n\nDie Konferenz findet auf **Englisch, Deutsch und Französisch** statt und endet mit einem **Apéro**. Das vorläufige Programm finden Sie [hier](https://www.sweet-edge.ch/files/pdf/Events/20260928_AGENDA_Third%20Biennial%20Conference.pdf).\n\n**Datum:** 11. November 2026\n**Ort:** Welle 7, Bern\n**Format:** Ganztägige Konferenz\n**Sprachen:** Englisch, Deutsch, Französisch\n**Anmeldung:** <https://forms.cloud.microsoft/e/88Xh3W3h8H>",
+    "image_alt": "Dritte Schweizer Konferenz zu dezentraler Energie: Anmeldung geöffnet",
+    "summary": "Am 11. November 2026 findet in der Welle 7 in Bern die dritte Schweizer Konferenz zu dezentraler Energie statt. Die ganztägige Veranstaltung widmet sich der dezentralen Energiewende in der Schweiz und den Fragen ihrer nächsten Phase.",
+    "registration_url": "https://forms.cloud.microsoft/e/88Xh3W3h8H",
     "date": "2026-10-04",
-    "event_date": "2026-11-11",
-    "event_end_date": "2026-11-11",
-    "timezone": "Europe/Zurich",
     "event_time": "09:15",
-    "registration_url": "https://forms.cloud.microsoft/e/88Xh3W3h8H"
+    "event_date": "2026-11-11",
+    "kind": "event",
+    "event_end_date": "2026-11-11",
+    "title": "Dritte Schweizer Konferenz zu dezentraler Energie: Anmeldung geöffnet",
+    "timezone": "Europe/Zurich",
+    "event_location": "Welle7, Bern",
+    "image": "/images/uploads/edge-conference-banner.png",
+    "image_credit": "Ricardo Flores"
   },
   "fr": {
-    "kind": "event",
     "draft": false,
+    "body": "La conférence réunira chercheurs, responsables politiques, professionnels de l’énergie, représentants de l’industrie et de la société civile pour une journée d’échanges, de débats et d’enseignements pratiques. Le programme présentera les temps forts de **SWEET EDGE**, notamment le **troisième Renewable Energy Outlook** et de nouveaux résultats sur l’acceptation du public.\n\nLes participants exploreront des questions majeures de la politique et de la pratique énergétiques suisses : production renouvelable, rôle de nouvelles centrales nucléaires, politiques efficaces et équitables pour la transition énergétique, planification énergétique communale, approvisionnement électrique hivernal, réseaux, flexibilité et stabilisation du système.\n\nL’après-midi, des sessions parallèles permettront d’approfondir la planification énergétique communale et les outils de recommandation, les moyens de combler le déficit d’électricité hivernal grâce à l’éolien et au solaire, ainsi que l’avenir des réseaux de distribution et de la flexibilité. La journée se terminera par une table ronde sur les acquis d’EDGE et les questions encore ouvertes pour l’avenir énergétique suisse.\n\nLa conférence se déroulera en **anglais, allemand et français** et se conclura par un **apéritif**. Consultez le programme provisoire [ici](https://www.sweet-edge.ch/files/pdf/Events/20260928_AGENDA_Third%20Biennial%20Conference.pdf).\n\n**Date :** 11 novembre 2026\n**Lieu :** Welle 7, Berne\n**Format :** Conférence d’une journée\n**Langues :** Anglais, allemand, français\n**Inscription :** <https://forms.cloud.microsoft/e/88Xh3W3h8H>",
+    "image_alt": "Troisième conférence suisse sur l’énergie décentralisée : les inscriptions sont ouvertes",
+    "summary": "Rejoignez-nous le 11 novembre 2026 à Welle 7, à Berne, pour la troisième conférence suisse sur l’énergie décentralisée : une journée consacrée à la transition énergétique décentralisée en Suisse et aux questions qui en dessinent la prochaine phase.",
+    "registration_url": "https://forms.cloud.microsoft/e/88Xh3W3h8H",
     "date": "2026-10-04",
-    "event_date": "2026-11-11",
-    "event_end_date": "2026-11-11",
-    "timezone": "Europe/Zurich",
     "event_time": "09:15",
-    "registration_url": "https://forms.cloud.microsoft/e/88Xh3W3h8H"
+    "event_date": "2026-11-11",
+    "kind": "event",
+    "event_end_date": "2026-11-11",
+    "title": "Troisième conférence suisse sur l’énergie décentralisée : les inscriptions sont ouvertes",
+    "timezone": "Europe/Zurich",
+    "event_location": "Welle7, Berne",
+    "image": "/images/uploads/edge-conference-banner.png",
+    "image_credit": "Ricardo Flores"
   }
 }

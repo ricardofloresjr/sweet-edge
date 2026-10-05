@@ -16,6 +16,38 @@
     "event_location": "",
     "registration_url": ""
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Drittes Evaluierungstreffen – Juni 2024",
+    "summary": "Wir freuen uns darauf, Mitglieder des Bundesamts für Energie und internationale Experten zur dritten Evaluierungssitzung von EDGE am 24. und 25. Juni 2024 begrüssen zu dürfen. Wir werden die neuesten Fortschritte von EDGE vorstellen und die seit der zweiten Evaluierung erzielten Fortschritte zeigen …",
+    "image": "/files/images/content/Site%20Visit_3bis.png",
+    "image_alt": "Drittes Evaluierungstreffen – Juni 2024",
+    "image_credit": "",
+    "body": "Wir freuen uns darauf, Mitglieder des Bundesamts für Energie und internationale Experten zur dritten Evaluierungssitzung von EDGE am 24. und 25. Juni 2024 willkommen zu heissen. Wir werden die neuesten Fortschritte von EDGE vorstellen und die seit der zweiten Evaluierungssitzung im Juni 2023 erzielten Fortschritte unter Berücksichtigung aller abgegebenen Kommentare und Empfehlungen aufzeigen. Dies wird eine grossartige Gelegenheit sein, über die ersten drei Jahre des EDGE-Konsortiums nachzudenken.",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2024-06-24",
+    "event_end_date": "2024-06-25",
+    "event_time": "",
+    "timezone": "Europe/Zurich",
+    "event_location": "",
+    "registration_url": ""
+  },
+  "fr": {
+    "title": "Troisième réunion d'évaluation - juin 2024",
+    "summary": "Nous sommes impatients d'accueillir les membres de l'Office fédéral de l'énergie et les experts internationaux pour la troisième réunion d'évaluation d’EDGE les 24 et 25 juin 2024. Nous présenterons les dernières avancées d’EDGE et montrerons les progrès réalisés depuis la deuxième évaluation…",
+    "image": "/files/images/content/Site%20Visit_3bis.png",
+    "image_alt": "Troisième réunion d'évaluation - juin 2024",
+    "image_credit": "",
+    "body": "Nous sommes impatients d'accueillir les membres de l'Office fédéral suisse de l'énergie et des experts internationaux pour la troisième réunion d'évaluation d’EDGE les 24 et 25 juin 2024. Nous présenterons les dernières avancées d’EDGE et montrerons les progrès réalisés depuis la deuxième réunion d'évaluation de juin 2023, en tenant compte de tous les commentaires et recommandations formulés. Ce sera une excellente occasion de réfléchir sur les trois premières années du consortium EDGE.",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2024-06-24",
+    "event_end_date": "2024-06-25",
+    "event_time": "",
+    "timezone": "Europe/Zurich",
+    "event_location": "",
+    "registration_url": ""
+  }
 }

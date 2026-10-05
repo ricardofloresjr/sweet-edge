@@ -14,6 +14,34 @@
       "/en/news/edge-white-paper-shows-extreme-level-of-fragmentation-of-rooftop-pv-policy-in-switzerland"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "EDGE-Whitepaper zeigt extreme Fragmentierung der Dach-PV-Politik in der Schweiz",
+    "summary": "Dies ist das erste EDGE-Whitepaper zu Politik und Marktdesign für hohe Anteile dezentraler erneuerbarer Energien, verfasst von Tobias Schmidt (ETH Zürich), Isabelle Stadelmann (Universität Bern) und Kollegen.",
+    "image": "/files/images/content/Suggested%20picture%20for%20White%20Paper%20communication%201000.png",
+    "image_alt": "EDGE-Whitepaper zeigt extreme Fragmentierung der Dach-PV-Politik in der Schweiz",
+    "image_credit": "",
+    "body": "Dies ist das erste EDGE-Whitepaper zu Politik und Marktdesign für hohe Anteile dezentraler erneuerbarer Energien, verfasst von Tobias Schmidt (ETH Zürich), Isabelle Stadelmann (Universität Bern) und Kollegen.\n\nUm ihre Klimaziele zu erreichen und ihre Energieversorgung zu sichern, muss die Schweiz den jährlichen Einsatz erneuerbarer Energietechnologien, insbesondere Solar-PV, vervielfachen (wie auch im SWEET EDGE-Modellvergleich gezeigt). Das EDGE Policy White Paper quantifiziert den Grad der Fragmentierung der Politik, die auf PV auf den Dächern von Haushalten in der Schweiz abzielt.\n\nDas Weissbuch analysiert zunächst die relevanten Politikgestaltungen auf Bundes-, Kantons- und Gemeindeebene und stellt dabei eine starke Vielfalt sowohl auf kantonaler und kommunaler Ebene als auch zwischen Verteilnetzbetreibern fest.\n\nZweitens modelliert es die Auswirkung dieser Fragmentierung auf die Rentabilität von PV-Anlagen anhand beispielhafter Gebäudetypen und stellt dabei extreme Unterschiede fest, selbst innerhalb der Kantone.\n\nAbschliessend wird eine Strategie vorgeschlagen, um diese politische Fragmentierung zu verringern und gleichzeitig den Ehrgeiz zugunsten einer gezielten Harmonisierung ausgewählter politischer Instrumente zu erhöhen, um stärkere Anreize für einen beschleunigten Einsatz von Solar-PV zu schaffen und unnötige Hindernisse abzubauen.\n\nHier finden Sie das [vollständige Whitepaper](https://www.research-collection.ethz.ch/handle/20.500.11850/596612)\n\nHier finden Sie das Interview zum White Paper:\n\n[\\>Auf Englisch hier](https://youtu.be/1i6yqr17CSE)\n\n[\\>Auf Deutsch hier](https://youtu.be/6mHYW5xjWXI)",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-white-paper-shows-extreme-level-of-fragmentation-of-rooftop-pv-policy-in-switzerland",
+    "kind": "news",
+    "date": "2023-02-02",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-white-paper-shows-extreme-level-of-fragmentation-of-rooftop-pv-policy-in-switzerland"
+    ]
+  },
+  "fr": {
+    "title": "Le livre blanc EDGE montre un niveau extrême de fragmentation de la politique photovoltaïque sur les toits en Suisse",
+    "summary": "Il s'agit du premier livre blanc EDGE sur la conception de politiques et de marchés pour une part élevée d'énergies renouvelables décentralisées, rédigé par Tobias Schmidt (ETH Zurich), Isabelle Stadelmann (Université de Berne) et ses collègues.",
+    "image": "/files/images/content/Suggested%20picture%20for%20White%20Paper%20communication%201000.png",
+    "image_alt": "Le livre blanc EDGE montre un niveau extrême de fragmentation de la politique photovoltaïque sur les toits en Suisse",
+    "image_credit": "",
+    "body": "Il s'agit du premier livre blanc EDGE sur la conception de politiques et de marchés pour une part élevée d'énergies renouvelables décentralisées, rédigé par Tobias Schmidt (ETH Zurich), Isabelle Stadelmann (Université de Berne) et ses collègues.\n\nPour atteindre ses objectifs climatiques et sécuriser son approvisionnement énergétique, la Suisse doit multiplier le déploiement annuel de technologies d'énergies renouvelables, notamment le solaire photovoltaïque (comme le montre également la comparaison inter-modèles SWEET EDGE). Le livre blanc politique EDGE quantifie le niveau de fragmentation de la politique ciblant le photovoltaïque sur les toits des ménages en Suisse.\n\nTout d'abord, le Livre blanc analyse les conceptions politiques pertinentes aux niveaux fédéral, cantonal et communal, détectant une forte diversité tant au niveau cantonal que communal, ainsi qu'entre les fournisseurs de réseaux de distribution.\n\nDeuxièmement, il modélise l'effet de cette fragmentation sur la rentabilité des installations photovoltaïques sur des types de bâtiments exemplaires, trouvant des variations extrêmes, même au sein des cantons.\n\nEnfin, il propose une stratégie visant à réduire cette fragmentation politique tout en augmentant l'ambition en faveur d'une harmonisation ciblée d'instruments politiques sélectionnés afin de créer des incitations plus fortes pour un déploiement accéléré de l'énergie solaire photovoltaïque et de réduire les obstacles inutiles.\n\nAccédez au [Livre blanc complet ici](https://www.research-collection.ethz.ch/handle/20.500.11850/596612)\n\nAccédez à l'interview sur le Livre blanc :\n\n[\\> En anglais ici](https://youtu.be/1i6yqr17CSE)\n\n[\\> En allemand ici](https://youtu.be/6mHYW5xjWXI)",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-white-paper-shows-extreme-level-of-fragmentation-of-rooftop-pv-policy-in-switzerland",
+    "kind": "news",
+    "date": "2023-02-02",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-white-paper-shows-extreme-level-of-fragmentation-of-rooftop-pv-policy-in-switzerland"
+    ]
+  }
 }

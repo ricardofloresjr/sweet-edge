@@ -14,6 +14,34 @@
       "/en/news/switzerland-said-yes-to-the-electricity-law"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Die Schweiz hat «Ja» zum Stromgesetz gesagt!",
+    "summary": "Im Herbst 2023 verabschiedete das Parlament das Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien. Es schafft die Grundlage für einen raschen Ausbau der inländischen Stromproduktion aus Wasserkraft, Sonne,…",
+    "image": "/files/images/content/Maps%20Ja.jpg",
+    "image_alt": "Die Schweiz hat «Ja» zum Stromgesetz gesagt!",
+    "image_credit": "",
+    "body": "Im Herbst 2023 verabschiedete das Parlament das Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien. Es schafft die Grundlage für einen raschen Ausbau der inländischen Stromproduktion aus Wasserkraft, Sonne, Wind und Biomasse. Gegen die Vorlage für eine sichere Stromversorgung wurde das Referendum ergriffen; die Vorlage wurde jedoch angenommen. Am 9. Juni 2024 stimmte die Schweizer Bevölkerung ihr mit 68,7 % zu.\n\nDank aller Forschungs-, Unterstützungs- und Umsetzungspartner liefert das EDGE-Konsortium weiterhin wissenschaftliche Erkenntnisse, um den Ausbau lokal erzeugter, dezentraler erneuerbarer Energien in der Schweiz zu beschleunigen. Die detaillierten Ergebnisse der Abstimmung vom 9. Juni 2024 finden Sie unter dem folgenden Link.\n\n[\\-> Zu den Ergebnissen](https://www.bk.admin.ch/ch/f/pore/va/20240609/can670.html?utm_source=brevo&utm_campaign=8th%20EDGE%20Quarterly%20Newsletter%20-%20English&utm_medium=email)",
+    "source_url": "https://www.sweet-edge.ch/en/news/switzerland-said-yes-to-the-electricity-law",
+    "kind": "news",
+    "date": "2024-10-04",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/switzerland-said-yes-to-the-electricity-law"
+    ]
+  },
+  "fr": {
+    "title": "La Suisse a dit « oui » à la loi sur l’électricité !",
+    "summary": "À l’automne 2023, le Parlement a adopté la loi fédérale relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables. Elle pose les bases d’une augmentation rapide de la production nationale issue de l’eau, du soleil,…",
+    "image": "/files/images/content/Maps%20Ja.jpg",
+    "image_alt": "La Suisse a dit « oui » à la loi sur l’électricité !",
+    "image_credit": "",
+    "body": "À l’automne 2023, le Parlement a adopté la loi fédérale relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables. Elle pose les bases d’une augmentation rapide de la production nationale d’électricité à partir de l’eau, du soleil, du vent et de la biomasse. Un référendum a été lancé contre ce projet d’approvisionnement sûr, mais celui-ci a été accepté. Le 9 juin 2024, le peuple suisse l’a approuvé à 68,7 %.\n\nGrâce à ses partenaires de recherche, de soutien et de mise en œuvre, le consortium EDGE continue de fournir des résultats scientifiques pour accélérer le développement des énergies renouvelables décentralisées et locales en Suisse. Les résultats détaillés de la votation du 9 juin 2024 sont accessibles via le lien ci-dessous.\n\n[\\-> Voir les résultats](https://www.bk.admin.ch/ch/f/pore/va/20240609/can670.html?utm_source=brevo&utm_campaign=8th%20EDGE%20Quarterly%20Newsletter%20-%20English&utm_medium=email)",
+    "source_url": "https://www.sweet-edge.ch/en/news/switzerland-said-yes-to-the-electricity-law",
+    "kind": "news",
+    "date": "2024-10-04",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/switzerland-said-yes-to-the-electricity-law"
+    ]
+  }
 }

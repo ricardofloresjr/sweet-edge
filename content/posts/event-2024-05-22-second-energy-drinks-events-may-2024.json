@@ -16,6 +16,38 @@
     "event_location": "The Alehouse, Zurich",
     "registration_url": ""
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Zweite „Energy Drinks“-Veranstaltungen – Mai 2024",
+    "summary": "Nach der Begeisterung der ersten Reihe der „Energy Drinks“-Veranstaltungen im August 2023 in Bern, bei der rund die Hälfte des Publikums ausserhalb von SWEET EDGE zusammenkam, werden wir das Erlebnis wiederholen! Ziel dieser Veranstaltungen ist es, die Öffentlichkeit bei einem Drink zu versammeln …",
+    "image": "/files/images/content/Energy%20Drinks/Energy%20Drinks%20social%20media700.png",
+    "image_alt": "Zweite „Energy Drinks“-Veranstaltungen – Mai 2024",
+    "image_credit": "",
+    "body": "Nach der Begeisterung der ersten Reihe der „Energy Drinks“-Veranstaltungen im August 2023 in Bern, bei der rund die Hälfte des Publikums ausserhalb von SWEET EDGE zusammenkam, werden wir das Erlebnis wiederholen! Ziel dieser Veranstaltungen ist es, das Publikum bei einem Getränk zusammenzubringen und dabei mehrere Vorträge pro Abend zu aktuellen Energiethemen für die Schweiz zu hören. Um es lebendiger zu machen, werden nach jeder Präsentation Spiele mit dem Publikum organisiert und es gibt Preise zu gewinnen!\n\n2 Abende, 2 Themen:  \n⚡️22. Mai 2024: 100 % erneuerbare Energien in der Schweiz? Wunschdenken oder realistische Option?  \n🗻23. Mai 2024: Hype oder Hoffnung? Welchen Nutzen hat die alpine Photovoltaik in der Schweiz?\n\nOffen für alle. Spiele. Gespräche. Quiz. Preise zu gewinnen! 🎉  \n👀 Was? 4 Vorträge pro Abend zu aktuellen Energiethemen!  \n🕕 Wann? 22. & 23. Mai 2024, ab 18 Uhr bis 22 Uhr  \n🍻 Wo? Im „[The Alehouse](https://www.alehouse.ch/), Zürich  \n💬 Sprache? Auf Deutsch  \n👋 Keine Anmeldung erforderlich. Kostenlos!\n\n[\\-> Endgültiges Programm hier](https://drive.google.com/file/d/1MU7B39FPkUzjVx25pzZKyNTgisA3_Stc/view?usp=sharing)",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2024-05-22",
+    "event_end_date": "2024-05-23",
+    "event_time": "18:00",
+    "timezone": "Europe/Zurich",
+    "event_location": "The Alehouse, Zürich",
+    "registration_url": ""
+  },
+  "fr": {
+    "title": "Deuxièmes événements \"Energy Drinks\" - Mai 2024",
+    "summary": "Après l’enthousiasme de la première série d’événements « Energy Drinks » en août 2023 à Berne, qui a rassemblé environ la moitié du public venant de l’extérieur de SWEET EDGE, nous réitérons l’expérience ! Ces événements ont pour objectif de rassembler le public autour d’un verre…",
+    "image": "/files/images/content/Energy%20Drinks/Energy%20Drinks%20social%20media700.png",
+    "image_alt": "Deuxièmes événements \"Energy Drinks\" - Mai 2024",
+    "image_credit": "",
+    "body": "Après l'enthousiasme de la première série d'événements « Energy Drinks » en août 2023 à Berne, qui a rassemblé environ la moitié du public venant de l'extérieur de SWEET EDGE, nous réitérons l'expérience ! Ces événements visent à rassembler le public autour d'un verre en écoutant plusieurs présentations par soir sur des sujets énergétiques d'actualité pour la Suisse. Pour le rendre plus vivant, des jeux avec le public sont organisés après chaque présentation et il y aura des prix à gagner !\n\n2 soirées, 2 thèmes :  \n⚡️22 mai 2024 : 100% renouvelables en Suisse ? Un vœu pieux ou une option réaliste ?  \n🗻23 mai 2024 : Hype ou espoir ? A quoi sert le photovoltaïque alpin en Suisse ?\n\nOuvert à tous. Jeux. Pourparlers. Des quiz. Des cadeaux à gagner ! 🎉  \n👀 Quoi ? 4 présentations par soir sur des sujets brûlants en matière d'énergie !  \n🕕Quand ? 22 & 23 mai 2024, de 18h à 20h à 22h00  \n🍻 Où ? Chez « [The Alehouse](https://www.alehouse.ch/) », Zurich  \n💬La langue ? En allemand  \n👋 Aucune inscription requise. Gratuit !\n\n[\\-> Programme final ici](https://drive.google.com/file/d/1MU7B39FPkUzjVx25pzZKyNTgisA3_Stc/view?usp=sharing)",
+    "source_url": "https://www.sweet-edge.ch/en/events",
+    "kind": "event",
+    "draft": false,
+    "event_date": "2024-05-22",
+    "event_end_date": "2024-05-23",
+    "event_time": "18:00",
+    "timezone": "Europe/Zurich",
+    "event_location": "La brasserie, Zurich",
+    "registration_url": ""
+  }
 }

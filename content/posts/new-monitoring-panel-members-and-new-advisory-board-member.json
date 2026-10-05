@@ -14,6 +14,34 @@
       "/en/news/new-monitoring-panel-members-and-new-advisory-board-member"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Neue Mitglieder des Überwachungsgremiums und neues Mitglied des Beirats",
+    "summary": "EDGE freut sich, die beiden neuen Mitglieder des Monitoring-Panels EDGE begrüssen zu dürfen: Dr. Stefan Nowak, Geschäftsführer der Net Nowak Energie AG: Leiter des Monitoring-Panels, und Prof. Andreas Balthasar, Professor für Politikwissenschaft an der Universität Luzern.…",
+    "image": "/files/images/content/AB%20and%20Members.jpg",
+    "image_alt": "Neue Mitglieder des Überwachungsgremiums und neues Mitglied des Beirats",
+    "image_credit": "",
+    "body": "EDGE freut sich, die beiden neuen Mitglieder des Monitoring-Panels EDGE begrüssen zu dürfen: Dr. Stefan Nowak, Geschäftsführer der Net Nowak Energie AG: Leiter des Monitoring-Panels, und Prof. Andreas Balthasar, Professor für Politikwissenschaft an der Universität Luzern. EDGE begrüsste zudem stolz ein neues Mitglied seines Advisory Board (AB): Olivier Wimmer, Leiter internationale Projekte bei aaesuisse. Er ersetzt per Juni 2024 unser ehemaliges AB-Mitglied Gianni Operto von aaesuisse.",
+    "source_url": "https://www.sweet-edge.ch/en/news/new-monitoring-panel-members-and-new-advisory-board-member",
+    "kind": "news",
+    "date": "2024-10-04",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/new-monitoring-panel-members-and-new-advisory-board-member"
+    ]
+  },
+  "fr": {
+    "title": "Nouveaux membres du comité de suivi et nouveau membre du conseil consultatif",
+    "summary": "EDGE a l'honneur d'accueillir les deux nouveaux membres du panel de surveillance EDGE : Dr. Stefan Nowak, directeur général de Net Nowak Energie AG : chef du panel de surveillance, et Prof. Andreas Balthasar, professeur de sciences politiques à l'Université de Lucerne.…",
+    "image": "/files/images/content/AB%20and%20Members.jpg",
+    "image_alt": "Nouveaux membres du comité de suivi et nouveau membre du conseil consultatif",
+    "image_credit": "",
+    "body": "EDGE a l'honneur d'accueillir les deux nouveaux membres du panel de surveillance EDGE : Dr. Stefan Nowak, directeur général de Net Nowak Energie AG : chef du panel de surveillance, et Prof. Andreas Balthasar, professeur de sciences politiques à l'Université de Lucerne. EDGE est également fier d'accueillir un nouveau membre de son Advisory Board (AB) : Olivier Wimmer, responsable des projets internationaux chez aaesuisse. Il remplace notre ancien membre de l'AB Gianni Operto d'aesuisse à partir de juin 2024.",
+    "source_url": "https://www.sweet-edge.ch/en/news/new-monitoring-panel-members-and-new-advisory-board-member",
+    "kind": "news",
+    "date": "2024-10-04",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/new-monitoring-panel-members-and-new-advisory-board-member"
+    ]
+  }
 }

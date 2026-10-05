@@ -14,6 +14,34 @@
       "/en/news/edge-second-in-person-consortium-meeting"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Zweites EDGE-Konsortialtreffen vor Ort",
+    "summary": "Unser zweites persönliches EDGE-Konsortiumstreffen fand am 31. August und 1. September 2022 an der Universität Genf statt. Insgesamt waren 36 Mitglieder anwesend, darunter unser Beiratsmitglied Carlos Pereira (Club of Rome) und unser Implementierungspartner Ingo…",
+    "image": "/files/images/content/group%20pic.jpg",
+    "image_alt": "Zweites EDGE-Konsortialtreffen vor Ort",
+    "image_credit": "",
+    "body": "Unser zweites persönliches EDGE-Konsortiumstreffen fand am 31. August und 1. September 2022 an der Universität Genf statt. Insgesamt waren 36 Mitglieder anwesend, darunter unser Beiratsmitglied Carlos Pereira (Club of Rome) und unser Implementierungspartner Ingo Herbst (Siemens). Das Treffen fand in Genf auf dem Biotech Campus statt. Alle Partner präsentierten ihre Arbeit und Fortschritte, sowohl in den Forschungsfeldern als auch in den Pilot- und Demonstrationsprojekten. Was für eine schöne und fruchtbare Art, Ideen auszutauschen und gemeinsam an einer vollständig erneuerbaren Schweiz zu arbeiten!",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-second-in-person-consortium-meeting",
+    "kind": "news",
+    "date": "2022-10-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-second-in-person-consortium-meeting"
+    ]
+  },
+  "fr": {
+    "title": "Deuxième réunion du consortium EDGE en présentiel",
+    "summary": "Notre deuxième réunion du Consortium EDGE en personne s'est tenue les 31 août et 1er septembre 2022 à l'Université de Genève. Au total, 36 membres étaient présents, dont Carlos Pereira, membre de notre conseil consultatif (Club de Rome) et notre partenaire de mise en œuvre Ingo…",
+    "image": "/files/images/content/group%20pic.jpg",
+    "image_alt": "Deuxième réunion du consortium EDGE en présentiel",
+    "image_credit": "",
+    "body": "Notre deuxième réunion du consortium EDGE en personne s'est tenue les 31 août et 1er septembre 2022 à l'Université de Genève. Au total, 36 membres étaient présents, dont Carlos Pereira, membre de notre conseil consultatif (Club de Rome) et notre partenaire de mise en œuvre Ingo Herbst (Siemens). La réunion a eu lieu à Genève au Biotech Campus. Tous les partenaires ont présenté leurs travaux et leurs avancées, tant dans les domaines de la recherche que sur les projets pilotes et de démonstration. Quelle manière agréable et fructueuse d'échanger des idées et de travailler ensemble pour une Suisse entièrement renouvelable !",
+    "source_url": "https://www.sweet-edge.ch/en/news/edge-second-in-person-consortium-meeting",
+    "kind": "news",
+    "date": "2022-10-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/edge-second-in-person-consortium-meeting"
+    ]
+  }
 }

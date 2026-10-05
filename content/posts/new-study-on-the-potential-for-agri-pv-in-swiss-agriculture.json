@@ -14,6 +14,34 @@
       "/en/news/new-study-on-the-potential-for-agri-pv-in-swiss-agriculture"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Neue Studie zum Potenzial von Agri-PV in der Schweizer Landwirtschaft",
+    "summary": "In dieser neuen Studie der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom Januar 2024 wurde ein neues theoretisches Gesamtpotenzial von 323 TWh/a für Agri-PV in der Schweiz berechnet und das Potenzial deckt 56 % der in der Schweiz verfügbaren Agrarfläche ab.",
+    "image": "/files/images/content/zhaw.PNG",
+    "image_alt": "Neue Studie zum Potenzial von Agri-PV in der Schweizer Landwirtschaft",
+    "image_credit": "",
+    "body": "In dieser neuen Studie der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom Januar 2024 wurde ein neues theoretisches Gesamtpotenzial von 323 TWh/a für Agri-PV in der Schweiz berechnet, das 56 % der im Jahr 2022 in der Schweiz verfügbaren Agrarfläche abdeckt (ohne Weideflächen). Diese hohen Zahlen zeigen, dass Agrar-PV-Anlagen als Ergänzung zu PV-Anlagen auf Dachflächen und anderen bestehenden Infrastrukturen eingesetzt werden könnten.\n\nDie Studie ist verfügbar in [Englisch](https://digitalcollection.zhaw.ch/bitstream/11475/29857/4/2024_Anderegg-etal_Potential-for-Agri-PV-in-Switzerland.pdf) und [Deutsch](https://digitalcollection.zhaw.ch/bitstream/11475/29857/3/2024_Anderegg-etal_Potenzial-AgriPV-Schweizer-Landwirtschaft.pdf). Doi:  [https://doi.org/10.21256/zhaw-2649](https://doi.org/10.21256/zhaw-2649)",
+    "source_url": "https://www.sweet-edge.ch/en/news/new-study-on-the-potential-for-agri-pv-in-swiss-agriculture",
+    "kind": "news",
+    "date": "2024-02-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/new-study-on-the-potential-for-agri-pv-in-swiss-agriculture"
+    ]
+  },
+  "fr": {
+    "title": "Nouvelle étude sur le potentiel de l'agri-PV dans l'agriculture suisse",
+    "summary": "Dans cette nouvelle étude de la Haute école spécialisée de Zurich (ZHAW) de janvier 2024, un nouveau potentiel total théorique de 323 TWh/an pour l'agri-PV en Suisse a été calculé, et ce potentiel couvre 56 % des terres agricoles disponibles en Suisse en…",
+    "image": "/files/images/content/zhaw.PNG",
+    "image_alt": "Nouvelle étude sur le potentiel de l'agri-PV dans l'agriculture suisse",
+    "image_credit": "",
+    "body": "Dans cette nouvelle étude de la Haute école spécialisée de Zurich (ZHAW) de janvier 2024, un nouveau potentiel total théorique de 323 TWh/an pour l'agri-PV en Suisse a été calculé, et ce potentiel couvre 56 % des terres agricoles disponibles en Suisse en 2022 (hors zones de pâturage). Ces chiffres élevés montrent que les systèmes agro-PV pourraient être utilisés en complément des systèmes PV sur les toits et autres infrastructures existantes.\n\nL'étude est disponible en [Anglais](https://digitalcollection.zhaw.ch/bitstream/11475/29857/4/2024_Anderegg-etal_Potential-for-Agri-PV-in-Switzerland.pdf) et [Allemand](https://digitalcollection.zhaw.ch/bitstream/11475/29857/3/2024_Anderegg-etal_Potenzial-AgriPV-Schweizer-Landwirtschaft.pdf). DOI :  [https://doi.org/10.21256/zhaw-2649](https://doi.org/10.21256/zhaw-2649)",
+    "source_url": "https://www.sweet-edge.ch/en/news/new-study-on-the-potential-for-agri-pv-in-swiss-agriculture",
+    "kind": "news",
+    "date": "2024-02-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/new-study-on-the-potential-for-agri-pv-in-swiss-agriculture"
+    ]
+  }
 }

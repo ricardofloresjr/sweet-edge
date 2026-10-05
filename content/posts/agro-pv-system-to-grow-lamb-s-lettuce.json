@@ -14,6 +14,34 @@
       "/en/news/agro-pv-system-to-grow-lamb-s-lettuce"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Agro-PV-Anlage zum Anbau von Feldsalat",
+    "summary": "Unser Forschungspartner Jürg Rohrer von der ZHAW hat ein Projekt initiiert, bei dem Agro-PV-Anlagen zum Anbau einer bestimmten Salatsorte eingesetzt werden: Feldsalat. Die Agro-Photovoltaik bzw. Agri-PV kennt eine junge, aber sehr dynamische Entwicklung in Europa. Es folgt der Idee, dass Lebensmittel und…",
+    "image": "/files/images/content/6.jpg",
+    "image_alt": "Agro-PV-Anlage zum Anbau von Feldsalat",
+    "image_credit": "",
+    "body": "Unser Forschungspartner Jürg Rohrer von der ZHAW hat ein Projekt initiiert, bei dem Agro-PV-Anlagen zum Anbau einer bestimmten Salatsorte eingesetzt werden: Feldsalat.\n\nAgro-Photovoltaik, oder Agri-PV, kennt eine junge, aber sehr dynamische Entwicklung in Europa. Es folgt der Idee, dass Ernährungs- und Energiesicherheit nicht als konkurrierende Ziele betrachtet werden sollten, sondern dass solare Entwicklung und Landwirtschaft zum gegenseitigen Nutzen integriert werden sollten.\n\n[**Das erste Schweizer Symposium**](https://www.zhaw.ch/de/lsfm/weiterbildung/fachtagungen/fachtagung-agro-photovoltaik/) zum Thema Agro-Photovoltaik findet am [**Juli statt 14.10.2022 in Wädenswil.**](https://www.zhaw.ch/de/lsfm/weiterbildung/fachtagungen/fachtagung-agro-photovoltaik/)\n\n[**Probieren Sie es aus!**](https://www.zhaw.ch/de/lsfm/weiterbildung/fachtagungen/fachtagung-agro-photovoltaik/)",
+    "source_url": "https://www.sweet-edge.ch/en/news/agro-pv-system-to-grow-lamb-s-lettuce",
+    "kind": "news",
+    "date": "2022-05-12",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/agro-pv-system-to-grow-lamb-s-lettuce"
+    ]
+  },
+  "fr": {
+    "title": "Système agro-PV pour cultiver de la mâche",
+    "summary": "Notre partenaire de recherche Jürg Rohrer de la ZHAW a lancé un projet utilisant des installations agrivoltaïques pour cultiver un type spécifique de salade : la mâche. L'agro-photovoltaïque, ou Agri-PV, connaît un développement récent mais très dynamique en Europe. Cela suit l’idée que la nourriture et…",
+    "image": "/files/images/content/6.jpg",
+    "image_alt": "Système agro-PV pour cultiver de la mâche",
+    "image_credit": "",
+    "body": "Notre partenaire de recherche Jürg Rohrer de ZHAW a lancé un projet utilisant des installations agrivoltaïques pour cultiver un type spécifique de salade : la mâche.\n\nL'agro-photovoltaïque, ou Agri-PV, connaît un développement récent mais très dynamique en Europe. Cela découle de l'idée selon laquelle la sécurité alimentaire et énergétique ne doit pas être considérée comme des objectifs concurrents, mais que le développement solaire et l'agriculture doivent être intégrés pour des bénéfices mutuels.\n\n[**Le premier symposium suisse**](https://www.zhaw.ch/de/lsfm/weiterbildung/fachtagungen/fachtagung-agro-photovoltaik/) sur l'agrophotovoltaïque aura lieu le [**14 juillet 2022  à Wädenswil.**](https://www.zhaw.ch/de/lsfm/weiterbildung/fachtagungen/fachtagung-agro-photovoltaik/)\n\n[**Vérifiez-le !**](https://www.zhaw.ch/de/lsfm/weiterbildung/fachtagungen/fachtagung-agro-photovoltaik/)",
+    "source_url": "https://www.sweet-edge.ch/en/news/agro-pv-system-to-grow-lamb-s-lettuce",
+    "kind": "news",
+    "date": "2022-05-12",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/agro-pv-system-to-grow-lamb-s-lettuce"
+    ]
+  }
 }

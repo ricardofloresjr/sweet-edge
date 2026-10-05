@@ -14,6 +14,34 @@
       "/en/news/updates-on-communications"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Neuigkeiten zur Kommunikation",
+    "summary": "Bleiben Sie über die sozialen Medien mit EDGE in Kontakt → Twitter und LinkedIn",
+    "image": "/files/images/content/9.jpg",
+    "image_alt": "Neuigkeiten zur Kommunikation",
+    "image_credit": "",
+    "body": "Bleiben Sie über die sozialen Medien mit EDGE in Kontakt -> [Twitter](https://twitter.com/SWEETEDGE_CH) und [LinkedIn](https://www.linkedin.com/company/76487216/admin/)",
+    "source_url": "https://www.sweet-edge.ch/en/news/updates-on-communications",
+    "kind": "news",
+    "date": "2022-05-12",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/updates-on-communications"
+    ]
+  },
+  "fr": {
+    "title": "Actualités de la communication",
+    "summary": "Restez en contact avec EDGE sur les réseaux sociaux → Twitter et LinkedIn",
+    "image": "/files/images/content/9.jpg",
+    "image_alt": "Actualités de la communication",
+    "image_credit": "",
+    "body": "Restez en contact avec EDGE sur les réseaux sociaux -> [Twitter](https://twitter.com/SWEETEDGE_CH) et [LinkedIn](https://www.linkedin.com/company/76487216/admin/)",
+    "source_url": "https://www.sweet-edge.ch/en/news/updates-on-communications",
+    "kind": "news",
+    "date": "2022-05-12",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/updates-on-communications"
+    ]
+  }
 }

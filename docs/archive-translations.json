@@ -1,0 +1,628 @@
+{
+  "date": "2026-10-04",
+  "source_commit": "704f83198b3fbe990890d91b1ecd6e7fd110ceb2",
+  "posts": 84,
+  "versions_added": {
+    "fr": 76,
+    "de": 74
+  },
+  "existing_versions_preserved": {
+    "fr": 8,
+    "de": 10
+  },
+  "method": "Machine-assisted translation using Google Translate and direct assistant translation, with targeted terminology and language review. Not a professional human translation certification.",
+  "checks": [
+    "All original English objects unchanged",
+    "Existing complete French and German objects unchanged",
+    "Dates, image paths, credits, registration links, provenance and legacy paths retained",
+    "Markdown structure, link destinations and body image sources match English in all 150 new versions"
+  ],
+  "entries": [
+    {
+      "slug": "10th-sweet-edge-newsletter-is-out",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "c6a330e36df1b5d5cf885a6f4eebe67082b53222632c049440480ac14a8dcc9f"
+    },
+    {
+      "slug": "11th-edge-newsletter-is-out",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "ac1458c9002babb5c15c29647696392fabc39d48aeb1b6381c48f41f15620e11"
+    },
+    {
+      "slug": "7th-sweet-edge-newsletter-is-out",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "da36e6b76c9ddf8b4b553fe9ea3cc8c51b733e0059bbfd73597ebc1e048001a6"
+    },
+    {
+      "slug": "8th-sweet-edge-newsletter-is-out",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "bb35288a0d963ce9bcbe6339526a4f6ebdc07f413d30646dcc58bf2a6ce6344d"
+    },
+    {
+      "slug": "a-new-edge-video-is-published-on-our-youtube-channel",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "b1b64de8b2eb108ee94d5a0fce772729418d4bd717e251f7245aea2f7567d773"
+    },
+    {
+      "slug": "agri-photovoltaic-could-supply-five-times-more-electricity-than-switzerland-needs",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "5e84cef4ab66faa6b029dbd6cdc36639e59f800209dc75ead122f89adc52353a"
+    },
+    {
+      "slug": "agri-pv-and-electric-tractors-opportunities-for-the-swiss-energy-transition",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "21df933023ab8d28b5b36cf5349ea90605b47e7ef3f3dd8afb9283477ede4662"
+    },
+    {
+      "slug": "agro-pv-system-to-grow-lamb-s-lettuce",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "31abfc78ab5a80d419beac4e4e57a6ccdd3106baf05ce00ad831cd2f22ee284b"
+    },
+    {
+      "slug": "consortium-meetings-in-2024",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "62d61cfb287ead5799d827339840ac124cfc2258415e7a2da78949157b008caa"
+    },
+    {
+      "slug": "edge-at-the-energy-research-talks-disentis-2026",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "17d688ff3a25d58d5ea82d88051846debd0371115d2b68889e955f6ecd935549"
+    },
+    {
+      "slug": "edge-biennial-conference-was-held-on-22-august-2023-in-bern",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "23832b9d1a3574d2f3abad93b99973b7c5cd7cfe6519dc2299671b8d03277be4"
+    },
+    {
+      "slug": "edge-biennial-conference-will-be-held-on-22-august-2023-in-bern-2",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "307d33ec72488d90c517ee0c2e5c57544b9d16105e4ae31f1bbb0d2cbb5348a0"
+    },
+    {
+      "slug": "edge-first-site-visit",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "00e51323db0dd283726caf6a5b7374cb7dee057f5a407051f5af59e8bdc35697"
+    },
+    {
+      "slug": "edge-is-now-on-bluesky",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "7d47d5fda6efb1c41830a2cc779f70d3e4de4510db88706cee779507da6a60b1"
+    },
+    {
+      "slug": "edge-on-the-cover-page-of-the-st-galler-nachrichten",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "9aa8ca090fa71b3d87dca1379c082c0a1431d5f97f14a0ddf43531818e525a3d"
+    },
+    {
+      "slug": "edge-s-4th-newsletter-is-out",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "371d040f2c5cc5d3bc11e1593f65f2672a996855f38e83cccc37149ffedb9af6"
+    },
+    {
+      "slug": "edge-s-national-survey-is-now-closed",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "79d403c5fcba80511c9bb2c094df261225f71ebd2ca56e0e11cdfdae8d133260"
+    },
+    {
+      "slug": "edge-second-in-person-consortium-meeting",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "005082befd564ea0f349b59c355efbd14d9f3c82aec291223402e36cab065c7c"
+    },
+    {
+      "slug": "edge-webinar-on-evs-and-grid-planning",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "6e59eadbf10d04e89730a172375c3f70a5a4a306158095553ac61b66f72a2ff0"
+    },
+    {
+      "slug": "edge-white-paper-shows-extreme-level-of-fragmentation-of-rooftop-pv-policy-in-switzerland",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "06de1d7f9117b3a04fe1cd7751bf9994cb2aad44cd97943c04014eca6c2616a8"
+    },
+    {
+      "slug": "energy-drinks-event-in-bern-3",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "ed94e75701f5b9212b76be6b5c0a89a1267641b5fbea8f0660b6c356c44fe967"
+    },
+    {
+      "slug": "event-2023-08-21-first-energy-drinks-events-august-2023",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "8b28b9394bf159ef04da740a648fbb8ee6d227e1992dd8147de1980831b12d5b"
+    },
+    {
+      "slug": "event-2023-08-22-first-edge-biennial-conference",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "3e3bc5824bf389f47d647ea86982b1b3a41e130fadf173719bccbeb9ac06e79b"
+    },
+    {
+      "slug": "event-2024-05-22-second-energy-drinks-events-may-2024",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "f730a6a673503ce0bbc020ddb1f2edfe06dca9e0955081ecf8cc033e85c86373"
+    },
+    {
+      "slug": "event-2024-06-24-third-evaluation-meeting-june-2024",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "2e9fd3360b3f0fae1b9f15660e411f33eee448e24f36c08b9b2b5f1dfb9ba006"
+    },
+    {
+      "slug": "event-2024-08-22-consortium-meeting-august-2024",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "a6785e11803e9f8822cdbdc1455f185f4dc324e252f56d310f477e91ec219985"
+    },
+    {
+      "slug": "event-2025-01-08-energy-drinks-in-geneva-8-and-15-january-2025",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "046be17fb9bee21e7988ef54d1e8a0244d336bfd9a2aef953f7550eb6d4fcd5e"
+    },
+    {
+      "slug": "event-2025-05-22-second-swiss-conference-on-decentralized-energy",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "096e79c0d30590797ac997f55db98d9620206bfa2e5dff3a9086dc447421eb5c"
+    },
+    {
+      "slug": "event-2025-09-04-consortium-meeting-2025",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "52731766c8771fec4ab4d9c20d5830e2670d51f021f84a70080512bf1a899c5c"
+    },
+    {
+      "slug": "event-2026-01-19-alpine-pv-systems-socio-political-and-technical-perspectives",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "dc30583fce64818ce70184f1f72b1a7d4195ccc2e52a3b08c9fb5b784fc327f0"
+    },
+    {
+      "slug": "event-2026-02-10-agri-pv-and-electric-tractors-decision-ready-insights-for-switzerland-s-energy-transition",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "9d10d9bdd261aae3a1bcbe4d415abe1292f2683c8954a3e8cc8a7bd31b3c712c"
+    },
+    {
+      "slug": "event-2026-03-12-using-evs-to-support-the-grid-from-charging-demand-to-flexibility-in-practice",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "7527abea6e856f62b2c04d83932fd2c593b6a2da80a7a5bdb04723f10d03e21b"
+    },
+    {
+      "slug": "event-2026-06-08-webinar-enabling-renewable-energy-the-role-of-local-engagement-and-social-dynamics",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "09e2ebfd867170b6fac033572b24f0960db00044e5f18f387ceb3ffc439b5b02"
+    },
+    {
+      "slug": "event-2026-09-09-accelerating-switzerland-s-energy-transition-challenges-and-policy-levers",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "c3e9a84d228beb35c4acc6895e7afcd1bad42db2ebe3649bf679f3f07a5b68e8"
+    },
+    {
+      "slug": "event-2026-11-11-third-swiss-conference-on-decentralized-energy-registration-open",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "1b728ded5bcea98ab171e8542670df3ceae311484c83f06c9cf265fe14604f14"
+    },
+    {
+      "slug": "fifth-newsletter-is-out",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "34402807e94030d5e4ba048a93552942e7759a4751cea548179fd6bbe6405971"
+    },
+    {
+      "slug": "from-research-to-practice-sweet-edge-at-powertage-2026",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "da2239a2d2eb480069428183d3b609f73e4dc29f7c2be02c476fb2ce45d366b9"
+    },
+    {
+      "slug": "good-news-for-solar-pv",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "aef53294da9da408d7fa5850e8bdeac09cf6dfe3ec3d4504114bd6f5164236a3"
+    },
+    {
+      "slug": "key-insights-from-the-swiss-electricity-congress",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "0b56f7c9b121f96b2b2af855a7868955e05fe56d8dc3c7e8a52643d58975fa28"
+    },
+    {
+      "slug": "last-article-on-edge-co-coordinator-evelina-trutnevyte-the-energy-oracle",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "64ae99dc72ff014042442faf5ee9e66ec3b4d9e6a4a78c298a151675f10d7a57"
+    },
+    {
+      "slug": "latest-youtube-video-on-the-renewable-energy-outlook-for-switzerland",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "7272a0c37a82254cd0dd8fdf8aaa33dc6dedc79b44f7af0231acdf929d3c5a60"
+    },
+    {
+      "slug": "new-monitoring-panel-members-and-new-advisory-board-member",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "05199967078c5c6e987a7551f88bbf6a17a28f3399359b03ea33c5919473173a"
+    },
+    {
+      "slug": "new-study-on-the-potential-for-agri-pv-in-swiss-agriculture",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "4ca80ed320d7ef24a0218a12a0cdf0357967cea4fcc24dbe2241d34d185720f7"
+    },
+    {
+      "slug": "new-video-on-alpine-photovoltaic",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "2c690d9454c597661a90974bf2de88b69d4bb13360c6d9bd484d1c362e82869b"
+    },
+    {
+      "slug": "our-second-newsletter-is-out",
+      "languages_added": [
+        "fr"
+      ],
+      "english_sha256": "c1faa6c85155126afa6b06eee8629b7ac267c09fa3896d02b595e9b86c289fac"
+    },
+    {
+      "slug": "renewable-energy-outlook-ii-sparks-nationwide-media-attention",
+      "languages_added": [
+        "fr"
+      ],
+      "english_sha256": "f30d286629a312f47c780a0904fad0804807336196f841dfbd512d5f57fb90e6"
+    },
+    {
+      "slug": "second-energy-drinks-events-for-the-general-public-join-us",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "11d917b6044898ee3b6fde923113e6b7a647d7f1265ae9d1ce711a9182beef1d"
+    },
+    {
+      "slug": "second-energy-drinks-events-for-the-general-public",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "cf45d8f5750f9d298ce509a83573bd78ee7e623bd2c6d927f8bac6b3786ef52b"
+    },
+    {
+      "slug": "second-site-visit",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "99beac3a1b5e7dff8d1d03064910ca28bd68f9a451814c186cbe83e6ada247ea"
+    },
+    {
+      "slug": "socio-political-and-technical-perspectives-of-alpine-pv-implementation",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "59b5098b82fb1177b8031957b7fa084eb44565b721a0df4d709050771d458dd7"
+    },
+    {
+      "slug": "sweet-edge-at-the-elcom-forum-2025",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "a8cb8f7a7279acac1e6ed981963b246305073d0f15b5f88c293658eeb264a663"
+    },
+    {
+      "slug": "sweet-edge-consortium-meeting-2025",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "01010fa884421d85ebdf2ef6934ef72c05670ac73bedfcb040b1be57cbfdc6ae"
+    },
+    {
+      "slug": "sweet-edge-consortium-meets-in-st-gallen-to-shape-the-final-phase-of-the-project",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "88417cb2e06656d2efb0fd170e3324b98a23187895b1ed523903fe8fd8030dc0"
+    },
+    {
+      "slug": "sweet-edge-second-newsletter-is-out",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "9cbdcc2b644dc38cb6ea3a558837dcb92d047a2adb1b026ff4b6bdb22ae917a0"
+    },
+    {
+      "slug": "switzerland-said-yes-to-the-electricity-law",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "8793ae0b77aa2ec2f82e615d7cd7b6c9b609b94ba325a0208b438849a936889c"
+    },
+    {
+      "slug": "the-edge-renewable-energy-outlook-reo-received-high-attention",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "4f6960186fab6dbb9f58ab18e2949be69445c0bf93b833cebaef9e59f8ca468d"
+    },
+    {
+      "slug": "the-edge-renewable-energy-outlook-reo-was-presented-at-the-gree-meeting-with-the-municipalities",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "9fe9a9b0af959558976b423c4be1eeb12c33b41546bb7ac91fd3b38e620949d0"
+    },
+    {
+      "slug": "the-edge-second-policy-white-paper-is-out",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "27558bfe0f3bd8e08510d29ce53c45f76bf4c361b1410887c9046092d9731bac"
+    },
+    {
+      "slug": "the-fourth-in-person-consortium-meeting-of-the-consortium-was-held-in-horw",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "e34088cfe87b5da651ce44ccaff11ae8dc500501f987a3bca9c334f595fce414"
+    },
+    {
+      "slug": "the-second-biennial-conference-of-sweet-edge-be-take-place-on-22-may-2025-in-bern",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "77943f23e347b7f59b45873afb6c979012836ee8fd847cb946ed3ff933357bde"
+    },
+    {
+      "slug": "the-second-sweet-edge-survey-has-started",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "1c62967dab52c7e1df7d7da44ee30b6c7e3c6352d3bdf28b42fbb400377710d3"
+    },
+    {
+      "slug": "the-sweet-edge-survey-has-started",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "0516ac4279c0ef4f9637fad275b7896ee7acb999c1db46d71ce2363f3461a9a9"
+    },
+    {
+      "slug": "the-third-energy-drinks-events-for-the-general-public-will-be-held-in-january-2025",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "5ec128eeceef1979103c5ef8e95d489394656b03bbe6b386ddec3545dcd70af4"
+    },
+    {
+      "slug": "third-evaluation-meeting",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "67c6841697990683c8432fd0a9cbdcfbd4315ae2d6acd8b4fa5b47afd425e8e5"
+    },
+    {
+      "slug": "third-event-on-knowledge-and-technology-transfer-in-sweet",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "3bf8eb2ddde3e4b5ba0e7ead2877342b1c54d19fe9eb97ccd7006de7861a9116"
+    },
+    {
+      "slug": "third-in-person-consortium-meeting",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "3add51f0800710b211ad83ace5fe6c582de051639a8f1a01b7eeeb6fde62629c"
+    },
+    {
+      "slug": "third-site-visit",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "a5e9ae7c1bcae3af0156ebbafd8bac98050cd232e8a33871267f9132873cdb9c"
+    },
+    {
+      "slug": "third-sweet-conference-4-september-2024-in-bern",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "079f956a3c21985fc423f0b19cc015772e887163bbd1f1df6a1ffe7c4cc2c429"
+    },
+    {
+      "slug": "third-swiss-conference-on-decentralized-energy-registration-open",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "85052e1235756a84bdd4baff35a4168551655fea0956bc292f3749c4c0b6da81"
+    },
+    {
+      "slug": "three-strategies-to-boost-renewable-electricity-in-switzerland",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "ea158acea4262dc6cf7d20efff12b4bf44ff174f6019712fa66632f9fad3ac24"
+    },
+    {
+      "slug": "updates-on-communications",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "f648530bc4e91186fe9d5a5a21be21468663e4b707f77c6da9837692088f87ec"
+    },
+    {
+      "slug": "updates-on-edge-p-d-project-in-wittenbach-wp5",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "391c724aba9f59580825fb94a953b12e8afd15d012420c60f477db99991ee8d0"
+    },
+    {
+      "slug": "watch-our-partner-s-illustrated-video-interview",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "546013c47a8fcc4d2e8c44d0f8a2ff81a9f62a2c9b96e208cedc428a93aef0df"
+    },
+    {
+      "slug": "watch-our-partners-interviews-getting-ready-for-the-energy-drinks",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "d12894ca5ee7b8b8bd0cc33a14c6ee20a85fef3ba6cae7162de71fc25cf300a1"
+    },
+    {
+      "slug": "welcome-our-new-partners-in-economics",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "8eb9f6c91721b44f32a698f0a6889fd64a0b063e7bc4cb487c21d4f820ce05a1"
+    },
+    {
+      "slug": "zero-intervention-in-the-landscape-and-expansion-of-renewables-that-doesn-t-work",
+      "languages_added": [
+        "fr",
+        "de"
+      ],
+      "english_sha256": "70095592e842b3a91bfd6b4588406a2d869797230579b1e8be4890d926e8b7f7"
+    }
+  ]
+}

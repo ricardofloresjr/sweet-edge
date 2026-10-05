@@ -14,6 +14,34 @@
       "/en/news/sweet-edge-second-newsletter-is-out"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Der dritte SWEET EDGE-Newsletter ist da!",
+    "summary": "Erstes EDGE-Evaluationstreffen, zweites Konsortialtreffen vor Ort, mehrere Interviews, zwei begutachtete Publikationen … Erfahren Sie, woran die EDGE-Mitglieder in den vergangenen Monaten gearbeitet haben! → Hier geht es zum vollständigen Newsletter.",
+    "image": "/files/images/content/Newsletter%20announcement.png",
+    "image_alt": "Der dritte SWEET EDGE-Newsletter ist da!",
+    "image_credit": "",
+    "body": "Erstes EDGE-Evaluationstreffen, zweites Konsortialtreffen vor Ort, mehrere Interviews, zwei begutachtete Publikationen … Erfahren Sie, woran die EDGE-Mitglieder in den vergangenen Monaten gearbeitet haben! [-> Hier geht es zum vollständigen Newsletter.](https://sh1.sendinblue.com/ae7k1djc79pfe.html?t=1666078429)",
+    "source_url": "https://www.sweet-edge.ch/en/news/sweet-edge-second-newsletter-is-out",
+    "kind": "news",
+    "date": "2022-11-02",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/sweet-edge-second-newsletter-is-out"
+    ]
+  },
+  "fr": {
+    "title": "La troisième newsletter SWEET EDGE est parue !",
+    "summary": "Première réunion d’évaluation EDGE, deuxième réunion du consortium en présentiel, plusieurs entretiens, deux publications évaluées par les pairs… Découvrez le travail des membres d’EDGE ces derniers mois ! → Lisez la newsletter complète ici.",
+    "image": "/files/images/content/Newsletter%20announcement.png",
+    "image_alt": "La troisième newsletter SWEET EDGE est parue !",
+    "image_credit": "",
+    "body": "Première réunion d’évaluation EDGE, deuxième réunion du consortium en présentiel, plusieurs entretiens, deux publications évaluées par les pairs… Découvrez le travail des membres d’EDGE ces derniers mois ! [-> Lisez la newsletter complète ici.](https://sh1.sendinblue.com/ae7k1djc79pfe.html?t=1666078429)",
+    "source_url": "https://www.sweet-edge.ch/en/news/sweet-edge-second-newsletter-is-out",
+    "kind": "news",
+    "date": "2022-11-02",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/sweet-edge-second-newsletter-is-out"
+    ]
+  }
 }

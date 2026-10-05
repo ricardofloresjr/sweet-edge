@@ -14,6 +14,34 @@
       "/en/news/second-site-visit"
     ]
   },
-  "de": {},
-  "fr": {}
+  "de": {
+    "title": "Zweiter Besuch vor Ort",
+    "summary": "EDGE freut sich sehr, BFE-Mitglieder und internationale Experten am 16. Juni 2023 zu seinem zweiten Evaluierungstreffen in Lausanne begrüssen zu dürfen. Wir freuen uns darauf, die neuesten Fortschritte von EDGE vorzustellen und die seit dem ersten Besuch vor Ort im August erzielten Fortschritte zu zeigen…",
+    "image": "/files/images/content/IMG_20220830_140345%20(1).jpg",
+    "image_alt": "Zweiter Besuch vor Ort",
+    "image_credit": "",
+    "body": "EDGE freut sich sehr, BFE-Mitglieder und internationale Experten am 16. Juni 2023 zu seinem zweiten Evaluierungstreffen in Lausanne begrüssen zu dürfen. Wir freuen uns darauf, die neuesten Fortschritte von EDGE vorzustellen und die Fortschritte seit dem ersten Besuch vor Ort im August 2022 zu zeigen, bei dem sehr interessante Punkte angesprochen und konstruktives Feedback berücksichtigt wurden. Dies wird eine grossartige Gelegenheit sein, über die letzten zwei Jahre des EDGE-Projekts! nachzudenken",
+    "source_url": "https://www.sweet-edge.ch/en/news/second-site-visit",
+    "kind": "news",
+    "date": "2023-04-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/second-site-visit"
+    ]
+  },
+  "fr": {
+    "title": "Deuxième visite du site",
+    "summary": "EDGE sera très heureux d'accueillir les membres de l'OFEN et des experts internationaux à Lausanne pour sa deuxième réunion d'évaluation le 16 juin 2023. Nous sommes impatients de présenter les dernières avancées d’EDGE et de montrer les progrès réalisés depuis la première visite sur site en août…",
+    "image": "/files/images/content/IMG_20220830_140345%20(1).jpg",
+    "image_alt": "Deuxième visite du site",
+    "image_credit": "",
+    "body": "EDGE sera très heureux d'accueillir des membres de l'OFEN et des experts internationaux à Lausanne pour sa deuxième réunion d'évaluation le 16 juin 2023. Nous sommes impatients de présenter les dernières avancées d’EDGE et de montrer les progrès réalisés depuis la première visite sur site en août 2022, au cours de laquelle des points très intéressants ont été soulevés et des commentaires constructifs ont été pris en compte. Ce sera une excellente occasion de réfléchir sur les 2 dernières années du projet EDGE!",
+    "source_url": "https://www.sweet-edge.ch/en/news/second-site-visit",
+    "kind": "news",
+    "date": "2023-04-27",
+    "draft": false,
+    "legacy_paths": [
+      "/en/news/second-site-visit"
+    ]
+  }
 }
