@@ -1,3 +1,4 @@
+import { pageOptimizer } from './lib/optimize-pages.js';
 import { cards, displayDate, locales, localize, markdown, postUrl, today, safeUrl } from './lib/posts.js';
 import fs from 'node:fs';
 export default function (config) {
@@ -27,6 +28,12 @@ export default function (config) {
   config.ignores.add('docs/**');
   config.ignores.add('.cache/**');
   config.ignores.add('netlify/**');
+  const optimizer = pageOptimizer();
+  config.on('eleventy.before', () => optimizer.reset());
+  config.addWatchTarget('partials');
+  config.addTransform('optimize-pages', function (html) {
+    return optimizer.transform(html, this.page.outputPath);
+  });
   config.addTransform('site-prefix', function (html) {
     if (!this.page.outputPath?.endsWith('.html')) return html;
     const prefix = (process.env.PATH_PREFIX || '').replace(/\/$/, '');

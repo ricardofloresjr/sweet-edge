@@ -137,6 +137,7 @@ header .logo {
 }
 
 header .logo img {
+  width: auto;
   height: 112px;
   display: block;
 }
@@ -390,6 +391,7 @@ nav ul.menu > li > a.active {
 }
 
 .carousel .slide img {
+  height: auto;
   width: min(90%, 1620px);
   aspect-ratio: 9 / 2;
   object-fit: cover;
@@ -1867,3 +1869,6 @@ a.card {
 .event-details dt { font-weight: 600; }
 .event-details dd { margin: 0; overflow-wrap: anywhere; }
 .event-status { font-weight: 600; }
+
+/* Preserve intrinsic logo proportions when build-generated dimensions are present. */
+.site-footer img { width: auto; }

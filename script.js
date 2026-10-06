@@ -31,7 +31,6 @@ function rewriteRootRelativeUrls(scope) {
 
 async function loadIncludes() {
   const includeTargets = Array.from(document.querySelectorAll('[data-include]'));
-  if (!includeTargets.length) return;
 
   await Promise.all(includeTargets.map(async (target) => {
     const url = target.dataset.include;
