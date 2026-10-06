@@ -60,3 +60,11 @@ All external requests are blocked and form responses are simulated.
 Checks cover all pages at the site root and under a subfolder, repeated language
 switches, original English restoration, links, form input, filter/search behaviour,
 storage restrictions, download failures, rapid switching and desktop/mobile overflow.
+
+## Reviewed terminology reference
+
+The previous sweet-edge.ch website is the reference for German and French terminology.
+See the [comparison report](../docs/translation-alignment.md) and its per-entry source
+record before changing established terms. Reuse corresponding reviewed passages
+where their meaning matches the English source. New or rewritten summaries remain
+adaptations and must not be described as auditor-approved translations.

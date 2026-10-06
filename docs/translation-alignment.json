@@ -1,0 +1,1617 @@
+{
+  "date": "2026-10-06",
+  "scope": "General website dictionaries; news/event article bodies excluded. Adapted summaries are not auditor-approved passages. Unchanged entries are not certified by this comparison.",
+  "sources": [
+    "https://www.sweet-edge.ch/de/alps",
+    "https://www.sweet-edge.ch/de/artikel-produkte",
+    "https://www.sweet-edge.ch/de/artikel-produkte/medien-et-wissenstransfer",
+    "https://www.sweet-edge.ch/de/artikel-produkte/veranstaltungen-et-pr%C3%A4sentationen",
+    "https://www.sweet-edge.ch/de/artikel-produkte/wissenschaftliche-publikationen",
+    "https://www.sweet-edge.ch/de/cities",
+    "https://www.sweet-edge.ch/de/disclaimer",
+    "https://www.sweet-edge.ch/de/home",
+    "https://www.sweet-edge.ch/de/impressum",
+    "https://www.sweet-edge.ch/de/midlands",
+    "https://www.sweet-edge.ch/de/newsletter",
+    "https://www.sweet-edge.ch/de/overview",
+    "https://www.sweet-edge.ch/de/team",
+    "https://www.sweet-edge.ch/de/three-regions",
+    "https://www.sweet-edge.ch/de/work-packages",
+    "https://www.sweet-edge.ch/de/work-packages/overview",
+    "https://www.sweet-edge.ch/de/work-packages/wp-1",
+    "https://www.sweet-edge.ch/de/work-packages/wp-10",
+    "https://www.sweet-edge.ch/de/work-packages/wp-11",
+    "https://www.sweet-edge.ch/de/work-packages/wp-2",
+    "https://www.sweet-edge.ch/de/work-packages/wp-3",
+    "https://www.sweet-edge.ch/de/work-packages/wp-4",
+    "https://www.sweet-edge.ch/de/work-packages/wp-5",
+    "https://www.sweet-edge.ch/de/work-packages/wp-6",
+    "https://www.sweet-edge.ch/de/work-packages/wp-7",
+    "https://www.sweet-edge.ch/de/work-packages/wp-8",
+    "https://www.sweet-edge.ch/de/work-packages/wp-9",
+    "https://www.sweet-edge.ch/en/EDGEpublications",
+    "https://www.sweet-edge.ch/en/disclaimer",
+    "https://www.sweet-edge.ch/en/edge",
+    "https://www.sweet-edge.ch/en/home",
+    "https://www.sweet-edge.ch/en/impressum",
+    "https://www.sweet-edge.ch/en/newsletter",
+    "https://www.sweet-edge.ch/en/outputs/events-and-presentations",
+    "https://www.sweet-edge.ch/en/outputs/media-and-outreach",
+    "https://www.sweet-edge.ch/en/outputs/research-publications",
+    "https://www.sweet-edge.ch/en/publications",
+    "https://www.sweet-edge.ch/en/team",
+    "https://www.sweet-edge.ch/en/three-regions/alps",
+    "https://www.sweet-edge.ch/en/three-regions/cities",
+    "https://www.sweet-edge.ch/en/three-regions/midlands",
+    "https://www.sweet-edge.ch/en/three-regions/overview",
+    "https://www.sweet-edge.ch/en/work-packages",
+    "https://www.sweet-edge.ch/en/work-packages/overview",
+    "https://www.sweet-edge.ch/en/work-packages/wp-1",
+    "https://www.sweet-edge.ch/en/work-packages/wp-10",
+    "https://www.sweet-edge.ch/en/work-packages/wp-11",
+    "https://www.sweet-edge.ch/en/work-packages/wp-2",
+    "https://www.sweet-edge.ch/en/work-packages/wp-3",
+    "https://www.sweet-edge.ch/en/work-packages/wp-4",
+    "https://www.sweet-edge.ch/en/work-packages/wp-5",
+    "https://www.sweet-edge.ch/en/work-packages/wp-6",
+    "https://www.sweet-edge.ch/en/work-packages/wp-7",
+    "https://www.sweet-edge.ch/en/work-packages/wp-8",
+    "https://www.sweet-edge.ch/en/work-packages/wp-9",
+    "https://www.sweet-edge.ch/fr/disclaimer",
+    "https://www.sweet-edge.ch/fr/home",
+    "https://www.sweet-edge.ch/fr/impressum",
+    "https://www.sweet-edge.ch/fr/les-trois-regions",
+    "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+    "https://www.sweet-edge.ch/fr/les-trois-regions/les-alpes",
+    "https://www.sweet-edge.ch/fr/les-trois-regions/les-villes",
+    "https://www.sweet-edge.ch/fr/les-trois-regions/vue-d-ensemble",
+    "https://www.sweet-edge.ch/fr/modules-de-travail",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt10",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt11",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt2",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt3",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt4",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt5",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt6",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt7",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt8",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/mt9",
+    "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+    "https://www.sweet-edge.ch/fr/newsletter",
+    "https://www.sweet-edge.ch/fr/repertoire",
+    "https://www.sweet-edge.ch/fr/repertoire/evenements-et-presentations",
+    "https://www.sweet-edge.ch/fr/repertoire/medias-et-diffusion",
+    "https://www.sweet-edge.ch/fr/repertoire/publications-scientifiques",
+    "https://www.sweet-edge.ch/fr/team"
+  ],
+  "unavailable_sources": [
+    {
+      "seed": "en/list-of-acronyms",
+      "error": "Command failed: curl -fsSL --max-time 35 https://www.sweet-edge.ch/en/list-of-acronyms\ncurl: (56) The requested URL returned error: 404\n"
+    }
+  ],
+  "changed_entries": [
+    {
+      "language": "de",
+      "key": "01 Dec 2024 · News",
+      "before": "1. Dez. 2024 · Neuigkeiten",
+      "after": "1. Dez. 2024 · Nachrichten",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "05 Aug 2024 · News",
+      "before": "5. Aug. 2024 · Neuigkeiten",
+      "after": "5. Aug. 2024 · Nachrichten",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "15 Jan 2025 · News",
+      "before": "15. Jan. 2025 · Neuigkeiten",
+      "after": "15. Jan. 2025 · Nachrichten",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "18 Dec 2024 · News",
+      "before": "18. Dez. 2024 · Neuigkeiten",
+      "after": "18. Dez. 2024 · Nachrichten",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Consortium Management",
+      "before": "Konsortialmanagement",
+      "after": "Konsortium Management",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-9",
+          "source_wording": "Konsortium Management"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Deployment and Integration of Decentralized Renewable Systems",
+      "before": "Ausbau und Integration dezentraler erneuerbarer Systeme",
+      "after": "Einsatz und Integration dezentraler erneuerbarer Systeme",
+      "evidence": [
+        {
+          "basis": "terminology adapted to the new English heading; renewable retained",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-7",
+          "source_wording": "Einsatz und Integration dezentraler Systeme"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Design multi-energy systems tailored to the specific supply, demand and infrastructure conditions of Swiss cities, the midlands and the Alps, integrating region-specific renewable resources and technologies.",
+      "before": "Multi-Energiesysteme entwerfen, die auf die spezifischen Versorgungs-, Nachfrage- und Infrastrukturbedingungen der Schweizer Städte, des Mittellands und der Alpen zugeschnitten sind und regionale erneuerbare Ressourcen und Technologien integrieren.",
+      "after": "Multi-Energie-Systeme entwerfen, die auf die spezifischen Versorgungs-, Nachfrage- und Infrastrukturbedingungen der Schweizer Städte, des Mittellands und der Alpen zugeschnitten sind und regionale erneuerbare Ressourcen und Technologien integrieren.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "Multi-Energie-Systemen"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Integrating very high shares of decentralized renewable energy into the Swiss energy system",
+      "before": "Integration sehr hoher Anteile dezentraler erneuerbarer Energien in das Schweizer Energiesystem",
+      "after": "Integration Hoher Anteile dezentraler erneuerbarer Energien in das Schweizer Energiesystem",
+      "evidence": [
+        {
+          "basis": "reviewed passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Integration Hoher Anteile dezentraler erneuerbarer Energien in das Schweizer Energiesystem"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Investigate how decentralized renewable energy can be scaled up and integrated with existing distribution and transmission grids, centralized generation and storage, while ensuring techno-economic efficiency and security of supply.",
+      "before": "Untersuchen, wie dezentrale erneuerbare Energien ausgebaut und in bestehende Verteil- und Übertragungsnetze sowie zentrale Erzeugung und Speicherung integriert werden können, bei gleichzeitiger Gewährleistung technoökonomischer Effizienz und Versorgungssicherheit.",
+      "after": "Untersuchen, wie dezentrale erneuerbare Energien ausgebaut und in bestehende Verteil- und Übertragungsnetze sowie zentrale Erzeugung und Speicherung integriert werden können, bei gleichzeitiger Gewährleistung technisch-wirtschaftlicher Effizienz und Versorgungssicherheit.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-7",
+          "source_wording": "technisch-wirtschaftlichen"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Media & Outreach",
+      "before": "Medien und Öffentlichkeitsarbeit",
+      "after": "Medien & Wissenstransfer",
+      "evidence": [
+        {
+          "basis": "reviewed media navigation/category label",
+          "source": "https://www.sweet-edge.ch/de/artikel-produkte/medien-et-wissenstransfer",
+          "source_wording": "Medien & Wissenstransfer"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Media Reviews",
+      "before": "Medienspiegel",
+      "after": "Medienüberblick",
+      "evidence": [
+        {
+          "basis": "reviewed media navigation/category label",
+          "source": "https://www.sweet-edge.ch/de/artikel-produkte/medien-et-wissenstransfer",
+          "source_wording": "Medienüberblick"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "News",
+      "before": "Neuigkeiten",
+      "after": "Nachrichten",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "News & Events",
+      "before": "Neuigkeiten & Veranstaltungen",
+      "after": "Nachrichten & Veranstaltungen",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "News & Events — SWEET EDGE",
+      "before": "Neuigkeiten & Veranstaltungen — SWEET EDGE",
+      "after": "Nachrichten & Veranstaltungen — SWEET EDGE",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Pilot and Demonstration Projects — Alps",
+      "before": "Pilot- und Demonstrationsprojekte — Alpen",
+      "after": "Pilot und Demonstrationsprojektgruppen (P&Ds) in den Alpen",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-6",
+          "source_wording": "Pilot und Demonstrationsprojektgruppen (P&Ds) in den Alpen"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Pilot and Demonstration Projects — Cities",
+      "before": "Pilot- und Demonstrationsprojekte — Städte",
+      "after": "Pilot und Demonstrationsprojektgruppen (P&Ds) in den Städten",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-4",
+          "source_wording": "Pilot und Demonstrationsprojektgruppen (P&Ds) in den Städten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Pilot and Demonstration Projects — Midlands",
+      "before": "Pilot- und Demonstrationsprojekte — Mittelland",
+      "after": "Pilot und Demonstrationsprojektgruppen (P&Ds) im Mittelland",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-5",
+          "source_wording": "Pilot und Demonstrationsprojektgruppen (P&Ds) im Mittelland"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Policy, Markets and Finance to Scale Up Renewable Systems",
+      "before": "Politik, Märkte und Finanzierung für den Ausbau erneuerbarer Systeme",
+      "after": "Strategie, Märkte und Finanzen für den Ausbau der erneuerbaren Energien",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-8",
+          "source_wording": "Strategie, Märkte und Finanzen für den Ausbau der erneuerbaren Energien"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Press Releases",
+      "before": "Medienmitteilungen",
+      "after": "Pressemitteilungen",
+      "evidence": [
+        {
+          "basis": "reviewed media navigation/category label",
+          "source": "https://www.sweet-edge.ch/de/artikel-produkte/medien-et-wissenstransfer",
+          "source_wording": "Pressemitteilungen"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Project Management team",
+      "before": "Projektmanagement-Team",
+      "after": "Einheit Projektmanagement",
+      "evidence": [
+        {
+          "basis": "reviewed role terminology",
+          "source": "https://www.sweet-edge.ch/de/team",
+          "source_wording": "Einheit Projektmanagement"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Regional Multi-Energy Systems",
+      "before": "Regionale Multi-Energiesysteme",
+      "after": "Regionale Multi-Energie-Systeme",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "Multi-Energie-Systemen"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Research Focus on Cities",
+      "before": "Forschungsschwerpunkt Städte",
+      "after": "Forschungsfokus Städte",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "Forschungsfokus Städte"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Research Focus on the Alps",
+      "before": "Forschungsschwerpunkt Alpen",
+      "after": "Forschungsfokus Alpen",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-3",
+          "source_wording": "Forschungsfokus Alpen"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Research Focus on the Midlands",
+      "before": "Forschungsschwerpunkt Mittelland",
+      "after": "Forschungsfokus Mittelland",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-2",
+          "source_wording": "Forschungsfokus Mittelland"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "SWEET EDGE is organized into ten work packages: regional research and pilot projects in cities, the Midlands and the Alps; national energy-system modelling and policy analysis; consortium management; and knowledge and technology transfer.",
+      "before": "SWEET EDGE ist in zehn Arbeitspakete gegliedert: regionale Forschung und Pilotprojekte in Städten, im Mittelland und in den Alpen; nationale Energiesystemmodellierung und Politikanalyse; Konsortialmanagement; sowie Wissens- und Technologietransfer.",
+      "after": "SWEET EDGE ist in zehn Arbeitsgruppen gegliedert: regionale Forschung und Pilotprojekte in Städten, im Mittelland und in den Alpen; nationale Energiesystemmodellierung und Politikanalyse; Konsortialmanagement; sowie Wissens- und Technologietransfer.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "Arbeitsgruppen"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "SWEET is a funding programme of the Swiss Federal Office of Energy (SFOE). SWEET’s purpose is to fund solution-oriented research and innovations with a focus on the targets of Switzerland’s Energy Strategy 2050 and long-term climate strategy.",
+      "before": "SWEET ist ein Förderprogramm des Bundesamts für Energie (BFE). Es finanziert lösungsorientierte Forschung und Innovationen, die zu den Zielen der Energiestrategie 2050 und der langfristigen Klimastrategie der Schweiz beitragen.",
+      "after": "SWEET ist ein Förderprogramm des Bundesamts für Energie (BFE). Der Zweck von SWEET ist, lösungsorientierte Forschung und Innovationen zu finanzieren, deren Schwerpunkt auf den Zielen der Schweizer Energiestrategie 2050 und der langfristigen Klimastrategie liegt.",
+      "evidence": [
+        {
+          "basis": "reviewed passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "SWEET ist ein Förderprogramm des Bundesamts für Energie (BFE). Der Zweck von SWEET ist, lösungsorientierte Forschung und Innovationen zu finanzieren, deren Schwerpunkt auf den Zielen der Schweizer Energiestrategie 2050 und der langfristigen Klimastrategie liegt."
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Search news and events",
+      "before": "Neuigkeiten und Veranstaltungen suchen",
+      "after": "Nachrichten und Veranstaltungen suchen",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Swiss Energy Research for the Energy Transition — SWEET",
+      "before": "Schweizer Energieforschung für den Energiewandel — SWEET",
+      "after": "Schweizer Energieforschung für die Energiewende — SWEET",
+      "evidence": [
+        {
+          "basis": "reviewed label; display separator retained",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Schweizer Energieforschung für die Energiewende SWEET"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP1 & WP4 Lead",
+      "before": "Leitung WP1 und WP4",
+      "after": "Leitung AG1 und AG4",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP1 studies how Swiss cities can design and operate energy systems with the highest possible shares of local renewables. It examines solar energy, biomass and waste, storage, electric transport, distribution grids and microgrids, alongside financing, coordination among stakeholders, business models and policy acceptance. The research supports practical design recommendations for urban neighbourhoods.",
+      "before": "WP1 untersucht, wie Schweizer Städte Energiesysteme mit möglichst hohen Anteilen lokaler erneuerbarer Energien gestalten und betreiben können. Es betrachtet Solarenergie, Biomasse und Abfälle, Speicherung, Elektromobilität, Verteilnetze und Microgrids sowie Finanzierung, Koordination der Beteiligten, Geschäftsmodelle und politische Akzeptanz. Die Forschung unterstützt praktische Gestaltungsempfehlungen für Stadtquartiere.",
+      "after": "AG1 untersucht, wie Schweizer Städte Energiesysteme mit möglichst hohen Anteilen lokaler erneuerbarer Energien gestalten und betreiben können. Es betrachtet Solarenergie, Biomasse und Abfälle, Speicherung, Elektromobilität, Verteilnetze und Microgrids sowie Finanzierung, Koordination der Beteiligten, Geschäftsmodelle und politische Akzeptanz. Die Forschung unterstützt praktische Gestaltungsempfehlungen für Stadtquartiere.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP10 supports knowledge and technology transfer through internal coordination and external communication. It organises consortium meetings and knowledge exchange, and shares research findings through the website, newsletters, social media, conferences and educational activities. Outreach connects researchers with policymakers, industry and the public to encourage practical use of EDGE’s findings, tools and recommendations.",
+      "before": "WP10 unterstützt den Wissens- und Technologietransfer durch interne Koordination und externe Kommunikation. Es organisiert Konsortialtreffen und Wissensaustausch und verbreitet Forschungsergebnisse über die Website, Newsletter, soziale Medien, Konferenzen und Bildungsaktivitäten. Der Austausch verbindet Forschende mit Politik, Wirtschaft und Öffentlichkeit, um die praktische Nutzung der Ergebnisse, Werkzeuge und Empfehlungen von EDGE zu fördern.",
+      "after": "AG10 unterstützt den Wissens- und Technologietransfer durch interne Koordination und externe Kommunikation. Es organisiert Konsortialtreffen und Wissensaustausch und verbreitet Forschungsergebnisse über die Website, Newsletter, soziale Medien, Konferenzen und Bildungsaktivitäten. Der Austausch verbindet Forschende mit Politik, Wirtschaft und Öffentlichkeit, um die praktische Nutzung der Ergebnisse, Werkzeuge und Empfehlungen von EDGE zu fördern.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP2 Lead",
+      "before": "Leitung WP2",
+      "after": "Leitung AG2",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP2 investigates renewable energy systems for settlements, farms and industrial sites in the Swiss Midlands, including the Jura. It combines solar, wind, agricultural and woody biomass with storage, electric transport and agricultural machinery. Research addresses local energy use, exports to cities, distribution grids, financing, business models, coordination among stakeholders and policy acceptance.",
+      "before": "WP2 untersucht erneuerbare Energiesysteme für Siedlungen, Landwirtschaftsbetriebe und Industriestandorte im Schweizer Mittelland einschliesslich des Juras. Es kombiniert Solar- und Windenergie sowie landwirtschaftliche und holzige Biomasse mit Speicherung, Elektromobilität und landwirtschaftlichen Maschinen. Die Forschung behandelt lokale Energienutzung, Exporte in Städte, Verteilnetze, Finanzierung, Geschäftsmodelle, Koordination der Beteiligten und politische Akzeptanz.",
+      "after": "AG2 untersucht erneuerbare Energiesysteme für Siedlungen, Landwirtschaftsbetriebe und Industriestandorte im Schweizer Mittelland einschliesslich des Juras. Es kombiniert Solar- und Windenergie sowie landwirtschaftliche und holzige Biomasse mit Speicherung, Elektromobilität und landwirtschaftlichen Maschinen. Die Forschung behandelt lokale Energienutzung, Exporte in Städte, Verteilnetze, Finanzierung, Geschäftsmodelle, Koordination der Beteiligten und politische Akzeptanz.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP3 & WP6 Lead",
+      "before": "Leitung WP3 und WP6",
+      "after": "Leitung AG3 und AG6",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP3 assesses solar, wind and biomass resources in the Swiss Alps and studies renewable energy systems for alpine settlements and remote sites. It examines winter solar production, storage, mountain transport, distribution grids and interactions with hydropower, including pumped storage. Financing, business models, coordination among stakeholders and policy acceptance are also central to the research.",
+      "before": "WP3 bewertet Solar-, Wind- und Biomasseressourcen in den Schweizer Alpen und untersucht erneuerbare Energiesysteme für alpine Siedlungen und abgelegene Standorte. Es betrachtet die solare Winterproduktion, Speicherung, Bergverkehr, Verteilnetze und Wechselwirkungen mit der Wasserkraft einschliesslich Pumpspeicherung. Finanzierung, Geschäftsmodelle, Koordination der Beteiligten und politische Akzeptanz stehen ebenfalls im Zentrum der Forschung.",
+      "after": "AG3 bewertet Solar-, Wind- und Biomasseressourcen in den Schweizer Alpen und untersucht erneuerbare Energiesysteme für alpine Siedlungen und abgelegene Standorte. Es betrachtet die solare Winterproduktion, Speicherung, Bergverkehr, Verteilnetze und Wechselwirkungen mit der Wasserkraft einschliesslich Pumpspeicherung. Finanzierung, Geschäftsmodelle, Koordination der Beteiligten und politische Akzeptanz stehen ebenfalls im Zentrum der Forschung.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP4 develops and evaluates urban pilot and demonstration projects with cities and utilities. It supports solutions from concept and design through implementation, operation and optimisation, including district heating, seasonal thermal storage, microgrids and electric mobility. The projects assess renewable energy integration, efficiency, resilience, economic feasibility and social acceptance, with guidance for replication in other Swiss cities.",
+      "before": "WP4 entwickelt und bewertet städtische Pilot- und Demonstrationsprojekte mit Städten und Energieversorgern. Es begleitet Lösungen von der Konzeption und Planung über die Umsetzung bis zum Betrieb und zur Optimierung, darunter Fernwärme, saisonale Wärmespeicherung, Microgrids und Elektromobilität. Die Projekte bewerten die Integration erneuerbarer Energien, Effizienz, Resilienz, Wirtschaftlichkeit und gesellschaftliche Akzeptanz und bieten Hinweise zur Übertragung auf andere Schweizer Städte.",
+      "after": "AG4 entwickelt und bewertet städtische Pilot- und Demonstrationsprojekte mit Städten und Energieversorgern. Es begleitet Lösungen von der Konzeption und Planung über die Umsetzung bis zum Betrieb und zur Optimierung, darunter Fernwärme, saisonale Wärmespeicherung, Microgrids und Elektromobilität. Die Projekte bewerten die Integration erneuerbarer Energien, Effizienz, Resilienz, Wirtschaftlichkeit und gesellschaftliche Akzeptanz und bieten Hinweise zur Übertragung auf andere Schweizer Städte.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP5 Lead",
+      "before": "Leitung WP5",
+      "after": "Leitung AG5",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP5 plans and supports a stepwise demonstration of an integrated renewable energy system in the Swiss Midlands. Starting from a biogas project, it combines photovoltaics, wood pyrolysis, heat and electricity generation, biomethane and biochar production, battery storage and electric vehicles, including tractors. The work addresses coordinated operation, grid integration and practical implementation with local stakeholders.",
+      "before": "WP5 plant und unterstützt die schrittweise Demonstration eines integrierten erneuerbaren Energiesystems im Schweizer Mittelland. Ausgehend von einem Biogasprojekt kombiniert es Photovoltaik, Holzpyrolyse, Wärme- und Stromerzeugung, Biomethan- und Pflanzenkohleproduktion, Batteriespeicherung und Elektrofahrzeuge einschliesslich Traktoren. Die Arbeiten behandeln den koordinierten Betrieb, die Netzintegration und die praktische Umsetzung mit lokalen Beteiligten.",
+      "after": "AG5 plant und unterstützt die schrittweise Demonstration eines integrierten erneuerbaren Energiesystems im Schweizer Mittelland. Ausgehend von einem Biogasprojekt kombiniert es Photovoltaik, Holzpyrolyse, Wärme- und Stromerzeugung, Biomethan- und Pflanzenkohleproduktion, Batteriespeicherung und Elektrofahrzeuge einschliesslich Traktoren. Die Arbeiten behandeln den koordinierten Betrieb, die Netzintegration und die praktische Umsetzung mit lokalen Beteiligten.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP6 plans interconnected alpine pilot and demonstration projects, focusing on Davos and Bagnes-Verbier. It uses modelling and monitoring to guide renewable installations, particularly high-mountain photovoltaics, and their integration with hydropower, storage, heating and local demand. Working with stakeholders, it assesses feasibility, winter supply and the potential to export renewable energy to urban centres.",
+      "before": "WP6 plant vernetzte alpine Pilot- und Demonstrationsprojekte mit Schwerpunkt auf Davos und Bagnes-Verbier. Modellierung und Monitoring unterstützen die Planung erneuerbarer Anlagen, insbesondere der Hochgebirgsphotovoltaik, und deren Integration mit Wasserkraft, Speicherung, Wärmeversorgung und lokaler Nachfrage. Gemeinsam mit Beteiligten werden Machbarkeit, Winterversorgung und das Potenzial für Exporte erneuerbarer Energie in städtische Zentren bewertet.",
+      "after": "AG6 plant vernetzte alpine Pilot- und Demonstrationsprojekte mit Schwerpunkt auf Davos und Bagnes-Verbier. Modellierung und Monitoring unterstützen die Planung erneuerbarer Anlagen, insbesondere der Hochgebirgsphotovoltaik, und deren Integration mit Wasserkraft, Speicherung, Wärmeversorgung und lokaler Nachfrage. Gemeinsam mit Beteiligten werden Machbarkeit, Winterversorgung und das Potenzial für Exporte erneuerbarer Energie in städtische Zentren bewertet.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP7 Lead",
+      "before": "Leitung WP7",
+      "after": "Leitung AG7",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP7 brings regional research into national energy-system models to develop scenarios and transition pathways towards nearly or fully renewable Switzerland by 2050. It examines implications for transmission grids, centralised generation and storage, transport and connections with Europe. Model comparisons and detailed spatial and temporal analysis underpin the project’s Renewable Energy Outlooks.",
+      "before": "WP7 integriert regionale Forschung in nationale Energiesystemmodelle, um Szenarien und Transformationspfade zu einer nahezu oder vollständig erneuerbaren Schweiz bis 2050 zu entwickeln. Es untersucht Auswirkungen auf Übertragungsnetze, zentrale Erzeugung und Speicherung, Verkehr und Verbindungen mit Europa. Modellvergleiche sowie detaillierte räumliche und zeitliche Analysen bilden die Grundlage der Renewable Energy Outlooks des Projekts.",
+      "after": "AG7 integriert regionale Forschung in nationale Energiesystemmodelle, um Szenarien und Transformationspfade zu einer nahezu oder vollständig erneuerbaren Schweiz bis 2050 zu entwickeln. Es untersucht Auswirkungen auf Übertragungsnetze, zentrale Erzeugung und Speicherung, Verkehr und Verbindungen mit Europa. Modellvergleiche sowie detaillierte räumliche und zeitliche Analysen bilden die Grundlage der Renewable Energy Outlooks des Projekts.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP8 Lead",
+      "before": "Leitung WP8",
+      "after": "Leitung AG8",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP8 investigates policies, market design and financing that support the nationwide uptake of decentralized renewable energy. It combines policy analysis, population surveys and market modelling to examine social acceptance, investment and coordination across sectors and government levels. It also assesses distributional impacts across regions and social groups, producing policy white papers and recommendations.",
+      "before": "WP8 untersucht politische Massnahmen, Marktgestaltung und Finanzierung zur landesweiten Verbreitung dezentraler erneuerbarer Energien. Es verbindet Politikanalyse, Bevölkerungsbefragungen und Marktmodellierung, um gesellschaftliche Akzeptanz, Investitionen und die Koordination zwischen Sektoren und Staatsebenen zu untersuchen. Es bewertet auch Verteilungswirkungen zwischen Regionen und sozialen Gruppen und erarbeitet politische Weissbücher und Empfehlungen.",
+      "after": "AG8 untersucht politische Massnahmen, Marktgestaltung und Finanzierung zur landesweiten Verbreitung dezentraler erneuerbarer Energien. Es verbindet Politikanalyse, Bevölkerungsbefragungen und Marktmodellierung, um gesellschaftliche Akzeptanz, Investitionen und die Koordination zwischen Sektoren und Staatsebenen zu untersuchen. Es bewertet auch Verteilungswirkungen zwischen Regionen und sozialen Gruppen und erarbeitet politische Weissbücher und Empfehlungen.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP9 coordinates EDGE’s research and implementation activities, monitors deliverables and milestones, and manages reporting and liaison with the Swiss Federal Office of Energy. It oversees administrative and financial management, risks, ethics and gender equality, while organising exchanges with the advisory board, partners and stakeholder forum and fostering links with other SWEET projects.",
+      "before": "WP9 koordiniert die Forschungs- und Umsetzungsaktivitäten von EDGE, überwacht Ergebnisse und Meilensteine und verantwortet Berichterstattung und Austausch mit dem Bundesamt für Energie. Es beaufsichtigt Administration, Finanzen, Risiken, Ethik und Gleichstellung, organisiert den Austausch mit Beirat, Partnern und Stakeholderforum und fördert Verbindungen zu anderen SWEET-Projekten.",
+      "after": "AG9 koordiniert die Forschungs- und Umsetzungsaktivitäten von EDGE, überwacht Ergebnisse und Meilensteine und verantwortet Berichterstattung und Austausch mit dem Bundesamt für Energie. Es beaufsichtigt Administration, Finanzen, Risiken, Ethik und Gleichstellung, organisiert den Austausch mit Beirat, Partnern und Stakeholderforum und fördert Verbindungen zu anderen SWEET-Projekten.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/work-packages/wp-1",
+          "source_wording": "AG1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Work Packages",
+      "before": "Arbeitspakete",
+      "after": "Arbeitsgruppen",
+      "evidence": [
+        {
+          "basis": "reviewed navigation terminology",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "Arbeitsgruppen"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "Work Packages — SWEET EDGE",
+      "before": "Arbeitspakete — SWEET EDGE",
+      "after": "Arbeitsgruppen — SWEET EDGE",
+      "evidence": [
+        {
+          "basis": "reviewed navigation terminology",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "Arbeitsgruppen — SWEET EDGE"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "← All news and events",
+      "before": "← Alle Neuigkeiten und Veranstaltungen",
+      "after": "← Alle Nachrichten und Veranstaltungen",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/de/home",
+          "source_wording": "Nachrichten"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 1",
+      "before": null,
+      "after": "AG 1",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 1"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 2",
+      "before": null,
+      "after": "AG 2",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 2"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 3",
+      "before": null,
+      "after": "AG 3",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 3"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 4",
+      "before": null,
+      "after": "AG 4",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 4"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 5",
+      "before": null,
+      "after": "AG 5",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 5"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 6",
+      "before": null,
+      "after": "AG 6",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 6"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 7",
+      "before": null,
+      "after": "AG 7",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 7"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 8",
+      "before": null,
+      "after": "AG 8",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 8"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 9",
+      "before": null,
+      "after": "AG 9",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 9"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "key": "WP 10",
+      "before": null,
+      "after": "AG 10",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/de/work-packages/overview",
+          "source_wording": "AG 10"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Advisory Board",
+      "before": "Comité consultatif",
+      "after": "Conseil Consultatif",
+      "evidence": [
+        {
+          "basis": "reviewed role terminology",
+          "source": "https://www.sweet-edge.ch/fr/team",
+          "source_wording": "Conseil Consultatif"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Advisory Board Member",
+      "before": "Membre du comité consultatif",
+      "after": "Membre du conseil consultatif",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/team",
+          "source_wording": "Conseil Consultatif"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Consortium Management",
+      "before": "Gestion du consortium",
+      "after": "Gestion du Consortium",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt9",
+          "source_wording": "Gestion du Consortium"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Deployment and Integration of Decentralized Renewable Systems",
+      "before": "Déploiement et intégration des systèmes renouvelables décentralisés",
+      "after": "Déploiement et intégration de systèmes renouvelables décentralisés",
+      "evidence": [
+        {
+          "basis": "terminology adapted to the new English heading; renewable retained",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt7",
+          "source_wording": "Déploiement et intégration de systèmes décentralisés"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Design multi-energy systems tailored to the specific supply, demand and infrastructure conditions of Swiss cities, the midlands and the Alps, integrating region-specific renewable resources and technologies.",
+      "before": "Concevoir des systèmes multiénergies adaptés aux conditions spécifiques d’approvisionnement, de demande et d’infrastructure des villes suisses, du Plateau et des Alpes, en intégrant les ressources et technologies renouvelables propres à chaque région.",
+      "after": "Concevoir des systèmes multi-énergie adaptés aux conditions spécifiques d’approvisionnement, de demande et d’infrastructure des villes suisses, du Moyen-pays et des Alpes, en intégrant les ressources et technologies renouvelables propres à chaque région.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+          "source_wording": "Le Moyen-pays"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "multi-énergie"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "EDGE’s portfolio combines national and regional energy-system modelling, integration of renewables into electricity grids, pilot and demonstration projects, and research on policy, markets and social acceptance in Swiss cities, the midlands and the Alps.",
+      "before": "Le portefeuille d’EDGE combine la modélisation des systèmes énergétiques nationaux et régionaux, l’intégration des énergies renouvelables dans les réseaux électriques, des projets pilotes et de démonstration, ainsi que des recherches sur les politiques, les marchés et l’acceptabilité sociale dans les villes suisses, le Plateau et les Alpes.",
+      "after": "Le portefeuille d’EDGE combine la modélisation des systèmes énergétiques nationaux et régionaux, l’intégration des énergies renouvelables dans les réseaux électriques, des projets pilotes et de démonstration, ainsi que des recherches sur les politiques, les marchés et l’acceptation sociale dans les villes suisses, le Moyen-pays et les Alpes.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+          "source_wording": "Le Moyen-pays"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt4",
+          "source_wording": "acceptation sociale"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Integrating very high shares of decentralized renewable energy into the Swiss energy system",
+      "before": "Intégrer de très hautes parts d'énergies renouvelables décentralisées dans le système énergétique suisse",
+      "after": "Intégrer les énergies renouvelables décentralisées pour qu’elles deviennent une part importante du système énergétique suisse.",
+      "evidence": [
+        {
+          "basis": "reviewed passage",
+          "source": "https://www.sweet-edge.ch/fr/home",
+          "source_wording": "Intégrer les énergies renouvelables décentralisées pour qu’elles deviennent une part importante du système énergétique suisse."
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Knowledge and Technology Transfer",
+      "before": "Transfert de connaissances et de technologies",
+      "after": "Transfert des connaissances et des technologies",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt10",
+          "source_wording": "Transfert des connaissances et des technologies"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Media & Outreach",
+      "before": "Médias et diffusion",
+      "after": "Médias et Diffusion",
+      "evidence": [
+        {
+          "basis": "reviewed media navigation/category label",
+          "source": "https://www.sweet-edge.ch/fr/repertoire/medias-et-diffusion",
+          "source_wording": "Médias et Diffusion"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Media Reviews",
+      "before": "Revues de presse",
+      "after": "Revue des médias",
+      "evidence": [
+        {
+          "basis": "reviewed media navigation/category label",
+          "source": "https://www.sweet-edge.ch/fr/repertoire/medias-et-diffusion",
+          "source_wording": "Revue des médias"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Midlands",
+      "before": "Plateau",
+      "after": "Moyen-pays",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+          "source_wording": "Le Moyen-pays"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Municipal microgrid pilots announced",
+      "before": "Annonce de projets pilotes de microréseaux communaux",
+      "after": "Annonce de projets pilotes de micro-réseaux communaux",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "micro-réseaux"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Pilot and Demonstration Projects — Alps",
+      "before": "Projets pilotes et de démonstration — Alpes",
+      "after": "Projets pilotes et de développement (P&D) dans les Alpes",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt6",
+          "source_wording": "Projets pilotes et de développement (P&D) dans les Alpes"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Pilot and Demonstration Projects — Cities",
+      "before": "Projets pilotes et de démonstration — Villes",
+      "after": "Projets pilotes et de développement (P&D) dans les villes",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt4",
+          "source_wording": "Projets pilotes et de développement (P&D) dans les villes"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Pilot and Demonstration Projects — Midlands",
+      "before": "Projets pilotes et de démonstration — Plateau",
+      "after": "Projets pilotes et de développement (P&D) dans le moyen-pays",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt5",
+          "source_wording": "Projets pilotes et de développement (P&D) dans le moyen-pays"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Policy, Markets and Finance to Scale Up Renewable Systems",
+      "before": "Politiques, marchés et financement pour développer les systèmes renouvelables",
+      "after": "Politique, marchés et financement pour multiplier les systèmes renouvelables",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt8",
+          "source_wording": "Politique, marchés et financement pour multiplier les systèmes renouvelables"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Project Management team",
+      "before": "Équipe de gestion du projet",
+      "after": "Unité de gestion de projet",
+      "evidence": [
+        {
+          "basis": "reviewed role terminology",
+          "source": "https://www.sweet-edge.ch/fr/team",
+          "source_wording": "Unité de gestion de projet"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Regional Multi-Energy Systems",
+      "before": "Systèmes multiénergies régionaux",
+      "after": "Systèmes multi-énergie régionaux",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "multi-énergie"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Research Focus on the Alps",
+      "before": "Recherche axée sur les Alpes",
+      "after": "Recherche axée sur les alpes",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt3",
+          "source_wording": "Recherche axée sur les alpes"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Research Focus on the Midlands",
+      "before": "Recherche axée sur le Plateau",
+      "after": "Recherche axée sur le moyen-pays",
+      "evidence": [
+        {
+          "basis": "corresponding reviewed work-package heading",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt2",
+          "source_wording": "Recherche axée sur le moyen-pays"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "SWEET EDGE is organized into ten work packages: regional research and pilot projects in cities, the Midlands and the Alps; national energy-system modelling and policy analysis; consortium management; and knowledge and technology transfer.",
+      "before": "SWEET EDGE est organisé en dix lots de travail : recherche régionale et projets pilotes dans les villes, sur le Plateau et dans les Alpes ; modélisation nationale des systèmes énergétiques et analyse des politiques ; gestion du consortium ; et transfert de connaissances et de technologies.",
+      "after": "SWEET EDGE est organisé en dix modules de travail : recherche régionale et projets pilotes dans les villes, dans le Moyen-pays et dans les Alpes ; modélisation nationale des systèmes énergétiques et analyse des politiques ; gestion du consortium ; et transfert de connaissances et de technologies.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "modules de travail"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+          "source_wording": "dans le Moyen-pays"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "SWEET is a funding programme of the Swiss Federal Office of Energy (SFOE). SWEET’s purpose is to fund solution-oriented research and innovations with a focus on the targets of Switzerland’s Energy Strategy 2050 and long-term climate strategy.",
+      "before": "SWEET est un programme d’encouragement de l’Office fédéral de l’énergie (OFEN). Il finance la recherche et les innovations orientées vers des solutions contribuant aux objectifs de la Stratégie énergétique 2050 et de la stratégie climatique à long terme de la Suisse.",
+      "after": "SWEET est un programme d’encouragement de l’Office fédéral de l’énergie (OFEN). L'objectif de SWEET est de financer la recherche et les innovations orientées vers des solutions, dans le respect des objectifs de la stratégie énergétique 2050 et de la stratégie climatique à long terme de la Suisse.",
+      "evidence": [
+        {
+          "basis": "reviewed passage",
+          "source": "https://www.sweet-edge.ch/fr/home",
+          "source_wording": "SWEET est un programme d’encouragement de l’Office fédéral de l’énergie (OFEN). L'objectif de SWEET est de financer la recherche et les innovations orientées vers des solutions, dans le respect des objectifs de la stratégie énergétique 2050 et de la stratégie climatique à long terme de la Suisse."
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Scenarios are developed using advanced energy system models covering national, regional (cities, midlands, Alps), and pan-European contexts. Each scenario tests different assumptions on technology costs, policy ambition, and societal uptake of renewables.",
+      "before": "Les scénarios sont élaborés à l’aide de modèles avancés de systèmes énergétiques couvrant les contextes national, régional (villes, Plateau, Alpes) et paneuropéen. Chaque scénario teste différentes hypothèses sur les coûts technologiques, l’ambition politique et l’adoption des énergies renouvelables par la société.",
+      "after": "Les scénarios sont élaborés à l’aide de modèles avancés de systèmes énergétiques couvrant les contextes national, régional (villes, Moyen-pays, Alpes) et paneuropéen. Chaque scénario teste différentes hypothèses sur les coûts technologiques, l’ambition politique et l’adoption des énergies renouvelables par la société.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+          "source_wording": "Le Moyen-pays"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Swiss Energy Research for the Energy Transition — SWEET",
+      "before": "Recherche suisse sur la transition énergétique — SWEET",
+      "after": "Recherche énergétique suisse pour la transition énergétique — SWEET",
+      "evidence": [
+        {
+          "basis": "reviewed label; display separator retained",
+          "source": "https://www.sweet-edge.ch/fr/home",
+          "source_wording": "Recherche énergétique suisse pour la transition énergétique SWEET"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "TV & Radio",
+      "before": "Télévision et radio",
+      "after": "TV & Radio",
+      "evidence": [
+        {
+          "basis": "reviewed media navigation/category label",
+          "source": "https://www.sweet-edge.ch/fr/repertoire/medias-et-diffusion",
+          "source_wording": "TV & Radio"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "The consortium brings together expertise across energy systems modelling, grid integration, socio-economic analysis, policy design, and regional living-lab experiments across three distinct Swiss geographic zones: cities, midlands, and the Alps.",
+      "before": "Le consortium réunit des compétences en modélisation des systèmes énergétiques, intégration aux réseaux, analyse socioéconomique, conception des politiques et expérimentation dans des laboratoires vivants régionaux, dans trois zones géographiques suisses : les villes, le Plateau et les Alpes.",
+      "after": "Le consortium réunit des compétences en modélisation des systèmes énergétiques, intégration aux réseaux, analyse socio-économique, conception des politiques et expérimentation dans des laboratoires vivants régionaux, dans trois zones géographiques suisses : les villes, le Moyen-pays et les Alpes.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+          "source_wording": "Le Moyen-pays"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "socio-économique"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Three Swiss municipalities will pilot EDGE-inspired microgrid designs to test local flexibility markets.",
+      "before": "Trois communes suisses expérimenteront des microréseaux inspirés d’EDGE afin de tester des marchés locaux de flexibilité.",
+      "after": "Trois communes suisses expérimenteront des micro-réseaux inspirés d’EDGE afin de tester des marchés locaux de flexibilité.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "micro-réseaux"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP1 & WP4 Lead",
+      "before": "Responsable WP1 et WP4",
+      "after": "Responsable MT1 et MT4",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP1 studies how Swiss cities can design and operate energy systems with the highest possible shares of local renewables. It examines solar energy, biomass and waste, storage, electric transport, distribution grids and microgrids, alongside financing, coordination among stakeholders, business models and policy acceptance. The research supports practical design recommendations for urban neighbourhoods.",
+      "before": "WP1 étudie comment les villes suisses peuvent concevoir et exploiter des systèmes énergétiques intégrant la plus grande part possible d’énergies renouvelables locales. Il examine l’énergie solaire, la biomasse et les déchets, le stockage, les transports électriques, les réseaux de distribution et les microréseaux, ainsi que le financement, la coordination des acteurs, les modèles économiques et l’acceptation des politiques. Les recherches étayent des recommandations pratiques pour la conception des quartiers urbains.",
+      "after": "MT1 étudie comment les villes suisses peuvent concevoir et exploiter des systèmes énergétiques intégrant la plus grande part possible d’énergies renouvelables locales. Il examine l’énergie solaire, la biomasse et les déchets, le stockage, les transports électriques, les réseaux de distribution et les micro-réseaux, ainsi que le financement, la coordination des acteurs, les modèles commerciaux et l’acceptation des politiques. Les recherches étayent des recommandations pratiques pour la conception des quartiers urbains.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "micro-réseaux"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt3",
+          "source_wording": "modèles commerciaux"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP10 supports knowledge and technology transfer through internal coordination and external communication. It organises consortium meetings and knowledge exchange, and shares research findings through the website, newsletters, social media, conferences and educational activities. Outreach connects researchers with policymakers, industry and the public to encourage practical use of EDGE’s findings, tools and recommendations.",
+      "before": "WP10 soutient le transfert de connaissances et de technologies par la coordination interne et la communication externe. Il organise des réunions du consortium et des échanges de connaissances et diffuse les résultats via le site web, les newsletters, les réseaux sociaux, les conférences et les activités éducatives. Ces actions relient les chercheurs aux décideurs, à l’industrie et au public afin de favoriser l’utilisation pratique des résultats, outils et recommandations d’EDGE.",
+      "after": "MT10 soutient le transfert de connaissances et de technologies par la coordination interne et la communication externe. Il organise des réunions du consortium et des échanges de connaissances et diffuse les résultats via le site web, les newsletters, les réseaux sociaux, les conférences et les activités éducatives. Ces actions relient les chercheurs aux décideurs, à l’industrie et au public afin de favoriser l’utilisation pratique des résultats, outils et recommandations d’EDGE.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP2 Lead",
+      "before": "Responsable WP2",
+      "after": "Responsable MT2",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP2 investigates renewable energy systems for settlements, farms and industrial sites in the Swiss Midlands, including the Jura. It combines solar, wind, agricultural and woody biomass with storage, electric transport and agricultural machinery. Research addresses local energy use, exports to cities, distribution grids, financing, business models, coordination among stakeholders and policy acceptance.",
+      "before": "WP2 étudie les systèmes énergétiques renouvelables pour les localités, exploitations agricoles et sites industriels du Plateau suisse, y compris le Jura. Il associe le solaire, l’éolien et les biomasses agricole et ligneuse au stockage, aux transports électriques et aux machines agricoles. Les recherches portent sur l’utilisation locale de l’énergie, les exportations vers les villes, les réseaux de distribution, le financement, les modèles économiques, la coordination des acteurs et l’acceptation des politiques.",
+      "after": "MT2 étudie les systèmes énergétiques renouvelables pour les localités, exploitations agricoles et sites industriels du Moyen-pays suisse, y compris le Jura. Il associe le solaire, l’éolien et les biomasses agricole et ligneuse au stockage, aux transports électriques et aux machines agricoles. Les recherches portent sur l’utilisation locale de l’énergie, les exportations vers les villes, les réseaux de distribution, le financement, les modèles commerciaux, la coordination des acteurs et l’acceptation des politiques.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+          "source_wording": "Le Moyen-pays"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt3",
+          "source_wording": "modèles commerciaux"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP3 & WP6 Lead",
+      "before": "Responsable WP3 et WP6",
+      "after": "Responsable MT3 et MT6",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP3 assesses solar, wind and biomass resources in the Swiss Alps and studies renewable energy systems for alpine settlements and remote sites. It examines winter solar production, storage, mountain transport, distribution grids and interactions with hydropower, including pumped storage. Financing, business models, coordination among stakeholders and policy acceptance are also central to the research.",
+      "before": "WP3 évalue les ressources solaires, éoliennes et de biomasse dans les Alpes suisses et étudie les systèmes énergétiques renouvelables pour les localités alpines et les sites isolés. Il examine la production solaire hivernale, le stockage, les transports en montagne, les réseaux de distribution et les interactions avec l’hydroélectricité, y compris le pompage-turbinage. Le financement, les modèles économiques, la coordination des acteurs et l’acceptation des politiques sont également au cœur des recherches.",
+      "after": "MT3 évalue les ressources solaires, éoliennes et de biomasse dans les Alpes suisses et étudie les systèmes énergétiques renouvelables pour les localités alpines et les sites isolés. Il examine la production solaire hivernale, le stockage, les transports en montagne, les réseaux de distribution et les interactions avec l’hydroélectricité, y compris le pompage-turbinage. Le financement, les modèles commerciaux, la coordination des acteurs et l’acceptation des politiques sont également au cœur des recherches.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt3",
+          "source_wording": "modèles commerciaux"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP4 develops and evaluates urban pilot and demonstration projects with cities and utilities. It supports solutions from concept and design through implementation, operation and optimisation, including district heating, seasonal thermal storage, microgrids and electric mobility. The projects assess renewable energy integration, efficiency, resilience, economic feasibility and social acceptance, with guidance for replication in other Swiss cities.",
+      "before": "WP4 développe et évalue des projets pilotes et de démonstration urbains avec les villes et les fournisseurs d’énergie. Il accompagne les solutions de la conception à la mise en œuvre, à l’exploitation et à l’optimisation, notamment le chauffage à distance, le stockage thermique saisonnier, les microréseaux et la mobilité électrique. Les projets évaluent l’intégration des énergies renouvelables, l’efficacité, la résilience, la viabilité économique et l’acceptation sociale, avec des indications pour leur reproduction dans d’autres villes suisses.",
+      "after": "MT4 développe et évalue des projets pilotes et de démonstration urbains avec les villes et les fournisseurs d’énergie. Il accompagne les solutions de la conception à la mise en œuvre, à l’exploitation et à l’optimisation, notamment le chauffage urbain, le stockage thermique saisonnier, les micro-réseaux et la mobilité électrique. Les projets évaluent l’intégration des énergies renouvelables, l’efficacité, la résilience, la viabilité économique et l’acceptation sociale, avec des indications pour leur reproduction dans d’autres villes suisses.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "micro-réseaux"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt5",
+          "source_wording": "chauffage urbain"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP5 Lead",
+      "before": "Responsable WP5",
+      "after": "Responsable MT5",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP5 plans and supports a stepwise demonstration of an integrated renewable energy system in the Swiss Midlands. Starting from a biogas project, it combines photovoltaics, wood pyrolysis, heat and electricity generation, biomethane and biochar production, battery storage and electric vehicles, including tractors. The work addresses coordinated operation, grid integration and practical implementation with local stakeholders.",
+      "before": "WP5 planifie et soutient la démonstration progressive d’un système énergétique renouvelable intégré sur le Plateau suisse. À partir d’un projet de biogaz, il combine photovoltaïque, pyrolyse du bois, production de chaleur et d’électricité, production de biométhane et de biochar, stockage par batteries et véhicules électriques, y compris des tracteurs. Les travaux portent sur l’exploitation coordonnée, l’intégration au réseau et la mise en œuvre pratique avec les acteurs locaux.",
+      "after": "MT5 planifie et soutient la démonstration progressive d’un système énergétique renouvelable intégré dans le Moyen-pays suisse. À partir d’un projet de biogaz, il combine photovoltaïque, pyrolyse du bois, production de chaleur et d’électricité, production de biométhane et de biochar, stockage par batteries et véhicules électriques, y compris des tracteurs. Les travaux portent sur l’exploitation coordonnée, l’intégration au réseau et la mise en œuvre pratique avec les acteurs locaux.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/les-trois-regions/le-moyen-pays",
+          "source_wording": "dans le Moyen-pays"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP6 plans interconnected alpine pilot and demonstration projects, focusing on Davos and Bagnes-Verbier. It uses modelling and monitoring to guide renewable installations, particularly high-mountain photovoltaics, and their integration with hydropower, storage, heating and local demand. Working with stakeholders, it assesses feasibility, winter supply and the potential to export renewable energy to urban centres.",
+      "before": "WP6 planifie des projets pilotes et de démonstration alpins interconnectés, centrés sur Davos et Bagnes-Verbier. La modélisation et le suivi orientent les installations renouvelables, en particulier le photovoltaïque de haute montagne, et leur intégration avec l’hydroélectricité, le stockage, le chauffage et la demande locale. Avec les acteurs concernés, il évalue la faisabilité, l’approvisionnement hivernal et le potentiel d’exportation d’énergie renouvelable vers les centres urbains.",
+      "after": "MT6 planifie des projets pilotes et de démonstration alpins interconnectés, centrés sur Davos et Bagnes-Verbier. La modélisation et le suivi orientent les installations renouvelables, en particulier le photovoltaïque de haute montagne, et leur intégration avec l’hydroélectricité, le stockage, le chauffage et la demande locale. Avec les acteurs concernés, il évalue la faisabilité, l’approvisionnement hivernal et le potentiel d’exportation d’énergie renouvelable vers les centres urbains.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP7 Lead",
+      "before": "Responsable WP7",
+      "after": "Responsable MT7",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP7 brings regional research into national energy-system models to develop scenarios and transition pathways towards nearly or fully renewable Switzerland by 2050. It examines implications for transmission grids, centralised generation and storage, transport and connections with Europe. Model comparisons and detailed spatial and temporal analysis underpin the project’s Renewable Energy Outlooks.",
+      "before": "WP7 intègre les recherches régionales aux modèles nationaux de systèmes énergétiques afin d’élaborer des scénarios et trajectoires vers une Suisse presque ou entièrement renouvelable d’ici 2050. Il examine les implications pour les réseaux de transport, la production centralisée et le stockage, les transports et les connexions avec l’Europe. Des comparaisons de modèles et des analyses spatiales et temporelles détaillées étayent les Renewable Energy Outlooks du projet.",
+      "after": "MT7 intègre les recherches régionales aux modèles nationaux de systèmes énergétiques afin d’élaborer des scénarios et trajectoires vers une Suisse presque ou entièrement renouvelable d’ici 2050. Il examine les implications pour les réseaux de transport, la production centralisée et le stockage, les transports et les connexions avec l’Europe. Des comparaisons de modèles et des analyses spatiales et temporelles détaillées étayent les Renewable Energy Outlooks du projet.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP8 Lead",
+      "before": "Responsable WP8",
+      "after": "Responsable MT8",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP8 investigates policies, market design and financing that support the nationwide uptake of decentralized renewable energy. It combines policy analysis, population surveys and market modelling to examine social acceptance, investment and coordination across sectors and government levels. It also assesses distributional impacts across regions and social groups, producing policy white papers and recommendations.",
+      "before": "WP8 étudie les politiques, la conception des marchés et le financement favorisant l’adoption nationale des énergies renouvelables décentralisées. Il combine analyse des politiques, enquêtes auprès de la population et modélisation des marchés pour examiner l’acceptation sociale, l’investissement et la coordination entre secteurs et niveaux de gouvernement. Il évalue aussi les effets distributifs entre régions et groupes sociaux et produit des livres blancs et des recommandations politiques.",
+      "after": "MT8 étudie les politiques, la conception des marchés et le financement favorisant l’adoption nationale des énergies renouvelables décentralisées. Il combine analyse des politiques, enquêtes auprès de la population et modélisation des marchés pour examiner l’acceptation sociale, l’investissement et la coordination entre secteurs et niveaux de gouvernement. Il évalue aussi les effets distributifs entre régions et groupes sociaux et produit des livres blancs et des recommandations politiques.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP9 coordinates EDGE’s research and implementation activities, monitors deliverables and milestones, and manages reporting and liaison with the Swiss Federal Office of Energy. It oversees administrative and financial management, risks, ethics and gender equality, while organising exchanges with the advisory board, partners and stakeholder forum and fostering links with other SWEET projects.",
+      "before": "WP9 coordonne les activités de recherche et de mise en œuvre d’EDGE, suit les livrables et les étapes clés et gère les rapports et les relations avec l’Office fédéral de l’énergie. Il supervise la gestion administrative et financière, les risques, l’éthique et l’égalité des genres, organise les échanges avec le comité consultatif, les partenaires et le forum des parties prenantes et développe les liens avec les autres projets SWEET.",
+      "after": "MT9 coordonne les activités de recherche et de mise en œuvre d’EDGE, suit les livrables et les étapes clés et gère les rapports et les relations avec l’Office fédéral de l’énergie. Il supervise la gestion administrative et financière, les risques, l’éthique et l’égalité des genres, organise les échanges avec le conseil consultatif, les partenaires et le forum des parties prenantes et développe les liens avec les autres projets SWEET.",
+      "evidence": [
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/mt1",
+          "source_wording": "MT1"
+        },
+        {
+          "basis": "terminology adapted; new text is not an approved legacy passage",
+          "source": "https://www.sweet-edge.ch/fr/team",
+          "source_wording": "Conseil Consultatif"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Work Packages",
+      "before": "Lots de travail",
+      "after": "Modules de Travail",
+      "evidence": [
+        {
+          "basis": "reviewed navigation terminology",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "Modules de Travail"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "Work Packages — SWEET EDGE",
+      "before": "Lots de travail — SWEET EDGE",
+      "after": "Modules de Travail — SWEET EDGE",
+      "evidence": [
+        {
+          "basis": "reviewed navigation terminology",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "Modules de Travail — SWEET EDGE"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 1",
+      "before": null,
+      "after": "MT1",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT1"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 2",
+      "before": null,
+      "after": "MT2",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT2"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 3",
+      "before": null,
+      "after": "MT3",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT3"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 4",
+      "before": null,
+      "after": "MT4",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT4"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 5",
+      "before": null,
+      "after": "MT5",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT5"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 6",
+      "before": null,
+      "after": "MT6",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT6"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 7",
+      "before": null,
+      "after": "MT7",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT7"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 8",
+      "before": null,
+      "after": "MT8",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT8"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 9",
+      "before": null,
+      "after": "MT9",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT9"
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "key": "WP 10",
+      "before": null,
+      "after": "MT10",
+      "evidence": [
+        {
+          "basis": "reviewed work-package abbreviation",
+          "source": "https://www.sweet-edge.ch/fr/modules-de-travail/vue-d-ensemble",
+          "source_wording": "MT10"
+        }
+      ]
+    }
+  ]
+}
