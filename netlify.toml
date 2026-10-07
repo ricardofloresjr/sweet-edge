@@ -14,3 +14,9 @@
   [headers.values]
     X-Robots-Tag = "noindex, nofollow"
     Cache-Control = "no-cache"
+
+# The social acceptance white paper moved out of the logos folder; keep the legacy URL working.
+[[redirects]]
+  from = "/files/images/logos/Ricardos%20files/EDGE_White_Paper_Social_AcceptanceFINAL_compressed.pdf"
+  to = "/files/pdf/White-Papers/EDGE_White_Paper_Social_AcceptanceFINAL_compressed.pdf"
+  status = 301
