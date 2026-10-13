@@ -280,8 +280,22 @@ function initPolicyRecommendationFilters() {
 
   const cards = Array.from(grid.querySelectorAll('.card'));
   const categorySelect = document.querySelector('#policy-category');
+  const categoryDescription = document.querySelector('#policy-category-description');
   const emptyState = document.querySelector('.policy-empty-state');
   if (!cards.length || !categorySelect) return;
+
+  const categoryDescriptions = {
+    'COMMUNICATION & NETWORKS': 'Communication and networks help people understand energy policies and exchange practical knowledge. This category covers explaining policy goals and benefits, and learning through peer connections.',
+    'ENERGY UTILITIES & COMMUNITIES': 'Energy utilities and communities concern how electricity providers and local energy groups support the energy transition. This includes greener utility services, energy efficiency and accessible participation in shared energy arrangements.',
+    'INCENTIVES & INVESTMENT': 'Incentives and investment concern the financial and institutional support that encourages renewable energy and energy efficiency. This category focuses on coordinated upgrades and investments that benefit the wider energy system.',
+    'LOCAL INNOVATION': 'Local innovation covers support for new energy projects and approaches tailored to local needs. It includes projects that fall outside standard funding programmes and targeted support for agricultural biogas.',
+    'LOCAL LEADERSHIP & MUNICIPALITIES': 'Local leadership and municipalities concern the role of municipal authorities and local champions in advancing renewable energy. This category covers local initiative, collaboration and municipal programmes such as Energiestadt.',
+    'LOCAL PARTICIPATION': 'Local participation means giving residents and communities an active role in shaping, choosing and financing energy projects. It includes opportunities to discuss alternatives and reach workable agreements.',
+    'POLICY & REGULATION': 'Policy and regulation cover the rules and public measures that shape renewable-energy deployment. This category concerns policy ambition, coordination across cantons and the removal of regulatory or tax barriers.',
+    'SOLAR PV': 'Solar PV concerns the deployment of photovoltaic systems that generate electricity from sunlight. This category covers installation requirements, subsidies and incentives to make fuller use of suitable rooftops.',
+    'TRUST & IMPLEMENTATION': 'Trust and implementation concern the confidence and practical conditions needed to put energy projects and policies into practice. This includes credible actors, transparent processes and responses to organized opposition.',
+    'WIND ENERGY': 'Wind energy concerns the development and approval of projects that generate electricity from wind. This category covers planning procedures, suitable locations and turbine scales, and ways to address political conflict.'
+  };
 
   const categories = [...new Set(cards.map((card) => {
     const tag = card.querySelector('.card-tag');
@@ -299,6 +313,12 @@ function initPolicyRecommendationFilters() {
   function applyFilters() {
     const selectedCategory = categorySelect.value;
     let visibleCount = 0;
+
+    if (categoryDescription) {
+      const description = categoryDescriptions[selectedCategory] || '';
+      setLocalizedText(categoryDescription, description);
+      categoryDescription.hidden = !description;
+    }
 
     cards.forEach((card) => {
       const category = card.dataset.category;

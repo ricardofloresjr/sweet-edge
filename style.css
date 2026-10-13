@@ -706,7 +706,14 @@ nav ul.menu > li > a.active {
   margin: 24px 0 0;
 }
 
-.policy-recommendation-controls + .card-grid {
+.policy-category-description {
+  margin: 18px 0 0;
+  max-width: 80ch;
+  color: #555;
+  line-height: 1.6;
+}
+
+[data-policy-recommendations-grid] {
   margin-top: 24px;
 }
 
@@ -1814,10 +1821,10 @@ a.card {
 
 [data-policy-recommendations-grid] .card-source-link {
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   gap: 6px;
   min-width: 0;
-  margin-top: auto;
+  margin-top: 0;
   padding-top: 18px;
   font-size: 0.75rem;
   line-height: 1.5;
