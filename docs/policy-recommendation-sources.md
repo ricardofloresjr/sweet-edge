@@ -55,3 +55,12 @@ The discussion-paper host currently blocks automated downloads. Its pages were c
 | Anticipate mobilization asymmetries | white2 | p. 36 | 36 |
 | Increase ambition and harmonize PV policy | white1 | pp. 18–19 | 19 |
 | Remove unnecessary barriers to rooftop PV | white1 | p. 19 | 20 |
+
+## White Paper 3 downloads
+
+Added on 10 November 2026. The downloads on the policy white papers page use the supplied language editions, stored in `files/pdf/White-Papers/`:
+
+- **English (EN):** [Third policy white paper](../files/pdf/White-Papers/Third_EDGE_White_Paper_EN.pdf)
+- **German (DE):** [Third policy white paper](../files/pdf/White-Papers/Third_EDGE_White_Paper_DE.pdf)
+- **Italian (IT):** [Third policy white paper](../files/pdf/White-Papers/Third_EDGE_White_Paper_IT.pdf)
+- **French (FR):** [Third policy white paper](../files/pdf/White-Papers/Third_EDGE_White_Paper_FR.pdf)
