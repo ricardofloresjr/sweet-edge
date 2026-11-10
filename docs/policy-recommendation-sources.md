@@ -36,14 +36,13 @@ The discussion-paper host currently blocks automated downloads. Its pages were c
 | Raise ambition and harmonize PV policy | brief | p. 5 | 5 |
 | Streamline wind regulation | brief | p. 7 | 7 |
 | Give municipalities choices, not only vetoes | brief | p. 7 | 7 |
-| Support agricultural biogas projects | brief | p. 7 | 7 |
 | Create flexible residual funding | brief | p. 8 | 8 |
 | Promote green defaults and efficiency | brief | p. 8 | 8 |
 | Explore small and medium wind | brief | p. 9 | 9 |
 | Strengthen Energiestadt incentives | brief | p. 9 | 9 |
 | Expand citizen-financed energy | brief | p. 10 | 10 |
-| Make ZEVs and LEGs easy to join | brief | p. 10 | 10 |
-| Use round tables to secure compromise | brief | p. 11 | 11 |
+| Make ZEVs and LEGs easy to join | insights | p. 22 | 22 |
+| Use round tables to secure compromise | insights | p. 14 | 14 |
 | Connect measures to their goals | brief | p. 12 | 12 |
 | Frame decisions around alternatives | brief | p. 12 | 12 |
 | Use the energy independence argument | brief | p. 13 | 13 |
@@ -64,3 +63,7 @@ Added on 10 November 2026. The downloads on the policy white papers page use the
 - **German (DE):** [Third policy white paper](../files/pdf/White-Papers/Third_EDGE_White_Paper_DE.pdf)
 - **Italian (IT):** [Third policy white paper](../files/pdf/White-Papers/Third_EDGE_White_Paper_IT.pdf)
 - **French (FR):** [Third policy white paper](../files/pdf/White-Papers/Third_EDGE_White_Paper_FR.pdf)
+
+## Citation corrections — 10 November 2026
+
+Verified against the local August 2025 discussion paper, `Desktop/EDGE Publications/2025_Policy Discussion Paper.pdf`: the ZEV/LEG recommendation is supported on printed/PDF page 22 (also summarized on page 10), and the round-table recommendation on printed/PDF page 14. Both cards now cite **insights**. The agricultural biogas card was removed because this paper does not support that recommendation.
