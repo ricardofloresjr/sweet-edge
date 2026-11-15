@@ -479,6 +479,26 @@ nav ul.menu > li > a.active {
   max-width: 800px;
 }
 
+.sweet-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.sweet-logo {
+  height: 72px;
+  width: auto;
+  flex-shrink: 0;
+  margin-top: 4px;
+}
+
+@media (max-width: 640px) {
+  .sweet-intro {
+    flex-direction: column;
+    gap: 16px;
+  }
+}
+
 .guiding-question {
   background-color: #f0f7ea;
   text-align: center;
