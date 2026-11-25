@@ -408,7 +408,10 @@ function initNewsletterForm() {
     try {
       const res = await fetch(form.action, {
         method: 'POST',
-        body: JSON.stringify(Object.fromEntries(new FormData(form))),
+        body: JSON.stringify({
+          ...Object.fromEntries(new FormData(form)),
+          lang: document.documentElement.lang || 'en', // picks the EN/DE/FR confirmation email
+        }),
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
       });
       if (!res.ok) throw new Error();

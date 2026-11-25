@@ -1,17 +1,25 @@
-// Newsletter signup → Brevo (double opt-in).
-// Required Netlify environment variables:
-//   BREVO_API_KEY           Brevo API v3 key (SMTP & API → API Keys)
-//   BREVO_LIST_ID           numeric ID of the newsletter contact list
-//   BREVO_DOI_TEMPLATE_ID   numeric ID of the double opt-in confirmation template
+// Newsletter signup → Brevo (double opt-in), with a confirmation email in the visitor's language.
+//
+// Netlify environment variables:
+//   BREVO_API_KEY              Brevo API v3 key (required)
+//   BREVO_LIST_ID              default contact list ID (required)
+//   BREVO_DOI_TEMPLATE_ID      default double opt-in template ID (required)
+// Per language (optional; each falls back to the default above):
+//   BREVO_DOI_TEMPLATE_ID_EN / _DE / _FR   double opt-in template for that language
+//   BREVO_LIST_ID_EN / _DE / _FR           separate list for that language
+//   BREVO_REDIRECT_URL_EN / _DE / _FR      page shown after confirming
 // Optional:
-//   BREVO_REDIRECT_URL      page shown after the subscriber clicks the confirmation link
-//                           (defaults to the site's home page)
+//   BREVO_REDIRECT_URL         default page shown after confirming (defaults to https://sweet-edge.ch/)
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const LANGUAGES = ['en', 'de', 'fr'];
 
 // The live site (sweet-edge.ch) is hosted on GitHub Pages and calls this function
 // cross-origin, so those origins must be allowed explicitly.
 const ALLOWED_ORIGINS = ['https://sweet-edge.ch', 'https://www.sweet-edge.ch'];
+
+// Per-language setting, falling back to the default one.
+const setting = (name, lang) => process.env[`${name}_${lang.toUpperCase()}`] || process.env[name];
 
 export default async (req) => {
   const origin = req.headers.get('origin');
@@ -32,8 +40,8 @@ export default async (req) => {
   if (req.method === 'OPTIONS') return new Response(null, { status: 204, headers: corsHeaders });
   if (req.method !== 'POST') return json(405, { error: 'Method not allowed' });
 
-  const { BREVO_API_KEY, BREVO_LIST_ID, BREVO_DOI_TEMPLATE_ID, BREVO_REDIRECT_URL, URL } = process.env;
-  if (!BREVO_API_KEY || !BREVO_LIST_ID || !BREVO_DOI_TEMPLATE_ID) {
+  const { BREVO_API_KEY } = process.env;
+  if (!BREVO_API_KEY || !process.env.BREVO_LIST_ID || !process.env.BREVO_DOI_TEMPLATE_ID) {
     console.error('Newsletter: missing Brevo environment variables');
     return json(500, { error: 'Newsletter is not configured' });
   }
@@ -53,6 +61,9 @@ export default async (req) => {
     return json(400, { error: 'Invalid email address' });
   }
 
+  const requested = String(data.lang || '').slice(0, 2).toLowerCase(); // "de-CH" → "de"
+  const lang = LANGUAGES.includes(requested) ? requested : 'en';
+
   const res = await fetch('https://api.brevo.com/v3/contacts/doubleOptinConfirmation', {
     method: 'POST',
     headers: {
@@ -62,9 +73,9 @@ export default async (req) => {
     },
     body: JSON.stringify({
       email,
-      includeListIds: [Number(BREVO_LIST_ID)],
-      templateId: Number(BREVO_DOI_TEMPLATE_ID),
-      redirectionUrl: BREVO_REDIRECT_URL || `${URL || 'https://www.sweet-edge.ch'}/`,
+      includeListIds: [Number(setting('BREVO_LIST_ID', lang))],
+      templateId: Number(setting('BREVO_DOI_TEMPLATE_ID', lang)),
+      redirectionUrl: setting('BREVO_REDIRECT_URL', lang) || 'https://sweet-edge.ch/',
     }),
   });
 
@@ -72,6 +83,6 @@ export default async (req) => {
   if (res.ok) return json(200, { ok: true });
 
   const detail = await res.text().catch(() => '');
-  console.error(`Newsletter: Brevo responded ${res.status}: ${detail}`);
+  console.error(`Newsletter (${lang}): Brevo responded ${res.status}: ${detail}`);
   return json(502, { error: 'Subscription failed' });
 };
