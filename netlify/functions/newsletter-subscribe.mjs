@@ -2,9 +2,9 @@
 //
 // Netlify environment variables:
 //   BREVO_API_KEY              Brevo API v3 key (required)
-//   BREVO_LIST_ID              default contact list ID (required)
-//   BREVO_DOI_TEMPLATE_ID      default double opt-in template ID (required)
-// Per language (optional; each falls back to the default above):
+//   BREVO_LIST_ID              default contact list ID
+//   BREVO_DOI_TEMPLATE_ID      default double opt-in template ID
+// Per language (each falls back to the default above; every language needs one or the other):
 //   BREVO_DOI_TEMPLATE_ID_EN / _DE / _FR   double opt-in template for that language
 //   BREVO_LIST_ID_EN / _DE / _FR           separate list for that language
 //   BREVO_REDIRECT_URL_EN / _DE / _FR      page shown after confirming
@@ -40,12 +40,6 @@ export default async (req) => {
   if (req.method === 'OPTIONS') return new Response(null, { status: 204, headers: corsHeaders });
   if (req.method !== 'POST') return json(405, { error: 'Method not allowed' });
 
-  const { BREVO_API_KEY } = process.env;
-  if (!BREVO_API_KEY || !process.env.BREVO_LIST_ID || !process.env.BREVO_DOI_TEMPLATE_ID) {
-    console.error('Newsletter: missing Brevo environment variables');
-    return json(500, { error: 'Newsletter is not configured' });
-  }
-
   let data;
   try {
     data = await req.json();
@@ -64,6 +58,19 @@ export default async (req) => {
   const requested = String(data.lang || '').slice(0, 2).toLowerCase(); // "de-CH" → "de"
   const lang = LANGUAGES.includes(requested) ? requested : 'en';
 
+  const { BREVO_API_KEY } = process.env;
+  const listId = setting('BREVO_LIST_ID', lang);
+  const templateId = setting('BREVO_DOI_TEMPLATE_ID', lang);
+  const missing = [
+    !BREVO_API_KEY && 'BREVO_API_KEY',
+    !listId && `BREVO_LIST_ID_${lang.toUpperCase()} (or BREVO_LIST_ID)`,
+    !templateId && `BREVO_DOI_TEMPLATE_ID_${lang.toUpperCase()} (or BREVO_DOI_TEMPLATE_ID)`,
+  ].filter(Boolean);
+  if (missing.length) {
+    console.error(`Newsletter (${lang}): missing Netlify environment variable(s): ${missing.join(', ')}`);
+    return json(500, { error: 'Newsletter is not configured', missing });
+  }
+
   const res = await fetch('https://api.brevo.com/v3/contacts/doubleOptinConfirmation', {
     method: 'POST',
     headers: {
@@ -73,8 +80,8 @@ export default async (req) => {
     },
     body: JSON.stringify({
       email,
-      includeListIds: [Number(setting('BREVO_LIST_ID', lang))],
-      templateId: Number(setting('BREVO_DOI_TEMPLATE_ID', lang)),
+      includeListIds: [Number(listId)],
+      templateId: Number(templateId),
       redirectionUrl: setting('BREVO_REDIRECT_URL', lang) || 'https://sweet-edge.ch/',
     }),
   });
