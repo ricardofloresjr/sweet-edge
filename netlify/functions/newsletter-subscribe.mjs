@@ -9,13 +9,27 @@
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
-const json = (status, body) =>
-  new Response(JSON.stringify(body), {
-    status,
-    headers: { 'Content-Type': 'application/json' },
-  });
+// The live site (sweet-edge.ch) is hosted on GitHub Pages and calls this function
+// cross-origin, so those origins must be allowed explicitly.
+const ALLOWED_ORIGINS = ['https://sweet-edge.ch', 'https://www.sweet-edge.ch'];
 
 export default async (req) => {
+  const origin = req.headers.get('origin');
+  const corsHeaders = ALLOWED_ORIGINS.includes(origin)
+    ? {
+        'Access-Control-Allow-Origin': origin,
+        'Access-Control-Allow-Methods': 'POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type, Accept',
+        Vary: 'Origin',
+      }
+    : {};
+  const json = (status, body) =>
+    new Response(JSON.stringify(body), {
+      status,
+      headers: { 'Content-Type': 'application/json', ...corsHeaders },
+    });
+
+  if (req.method === 'OPTIONS') return new Response(null, { status: 204, headers: corsHeaders });
   if (req.method !== 'POST') return json(405, { error: 'Method not allowed' });
 
   const { BREVO_API_KEY, BREVO_LIST_ID, BREVO_DOI_TEMPLATE_ID, BREVO_REDIRECT_URL, URL } = process.env;

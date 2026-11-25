@@ -117,9 +117,10 @@ permalink: /index.html
       <div class="newsletter-content">
         <h2>Stay in the loop</h2>
         <p>Sign up for the EDGE newsletter to receive project highlights, event invitations and new research straight to your inbox.</p>
-        <!-- Submits to netlify/functions/newsletter-subscribe.mjs, which adds the contact to Brevo (double opt-in) -->
+        <!-- Submits to netlify/functions/newsletter-subscribe.mjs, which adds the contact to Brevo (double opt-in).
+             Absolute Netlify URL because sweet-edge.ch is hosted on GitHub Pages, which cannot run functions. -->
         <form class="newsletter-form" data-form="newsletter"
-              action="/.netlify/functions/newsletter-subscribe"
+              action="https://sweet-edge.netlify.app/.netlify/functions/newsletter-subscribe"
               method="POST">
           <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
           <label class="sr-only" for="newsletter-email">Email address</label>
